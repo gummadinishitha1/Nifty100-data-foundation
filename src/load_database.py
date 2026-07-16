@@ -432,6 +432,10 @@ def load_database():
     print(
         "\nLoad completed successfully!"
     )
+    print(
+        f"Tables loaded: {len(audit)} | "
+        f"Rows loaded: {sum(item['rows_loaded'] for item in audit)}"
+    )
 
 
 

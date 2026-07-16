@@ -1110,7 +1110,17 @@ def run_validation():
     )
 
 
-    pd.DataFrame(failures).to_csv(
+    failure_columns = [
+        "rule_id",
+        "table",
+        "column",
+        "company_id",
+        "year",
+        "issue",
+        "severity",
+    ]
+
+    pd.DataFrame(failures, columns=failure_columns).to_csv(
         FAILURE_PATH,
         index=False
     )
@@ -1126,6 +1136,10 @@ def run_validation():
 
 
     print("Validation completed successfully!")
+    print(
+        f"Rules executed: {len(report)} | "
+        f"Failures/warnings: {len(failures)}"
+    )
     print(report)
 
 
