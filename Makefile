@@ -2,7 +2,7 @@ load:
 	python src/load_database.py
 
 ratios:
-	python src/etl/normaliser.py
+	python -m src.analytics.populate_ratios
 
 test:
 	pytest -q
