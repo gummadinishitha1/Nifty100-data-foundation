@@ -1,0 +1,34 @@
+rule_id,table,check,status,failed_records
+DQ-01,companies,Duplicate Primary Key,PASS,0
+DQ-01,profitandloss,Duplicate Primary Key,PASS,0
+DQ-01,balancesheet,Duplicate Primary Key,PASS,0
+DQ-01,cashflow,Duplicate Primary Key,PASS,0
+DQ-01,documents,Duplicate Primary Key,PASS,0
+DQ-01,sectors,Duplicate Primary Key,PASS,0
+DQ-01,stock_prices,Duplicate Primary Key,PASS,0
+DQ-01,financial_ratios,Duplicate Primary Key,PASS,0
+DQ-01,prosandcons,Duplicate Primary Key,PASS,0
+DQ-02,profitandloss,Foreign Key Integrity,PASS,0
+DQ-02,balancesheet,Foreign Key Integrity,PASS,0
+DQ-02,cashflow,Foreign Key Integrity,PASS,0
+DQ-02,sectors,Foreign Key Integrity,PASS,0
+DQ-02,stock_prices,Foreign Key Integrity,PASS,0
+DQ-02,financial_ratios,Foreign Key Integrity,PASS,0
+DQ-03,companies,NULL check - id,PASS,0
+DQ-03,companies,NULL check - company_name,PASS,0
+DQ-03,profitandloss,NULL check - company_id,PASS,0
+DQ-03,balancesheet,NULL check - company_id,PASS,0
+DQ-03,cashflow,NULL check - company_id,PASS,0
+DQ-04,balancesheet,Assets = Liabilities,PASS,0
+DQ-05,profitandloss,Operating Profit Margin Cross Check,PASS,0
+DQ-06,profitandloss,Sales Growth Validation,WARNING,3
+DQ-07,profitandloss,Negative Sales Check,PASS,0
+DQ-08,profitandloss,Negative Operating Profit Check,WARNING,41
+DQ-09,profitandloss,Negative Net Profit Check,WARNING,78
+DQ-10,cashflow,Net Cash Flow Validation,WARNING,1
+DQ-11,financial_ratios,Negative EPS Check,PASS,0
+DQ-12,financial_ratios,Dividend Yield Check,WARNING,26
+DQ-13,documents,Annual Report URL Check,WARNING,383
+DQ-14,stock_prices,OHLC Validation,WARNING,120
+DQ-15,profitandloss,Year Coverage Validation,WARNING,1
+DQ-16,multiple,Duplicate Company-Year Validation,PASS,0

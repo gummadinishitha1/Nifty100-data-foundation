@@ -1,0 +1,654 @@
+rule_id,table,column,company_id,year,issue,severity
+DQ-06,profitandloss,sales,ADANIENSOL,Mar 2016,Unusual sales growth 1574.81%,WARNING
+DQ-06,profitandloss,sales,JIOFIN,Mar 2024,Unusual sales growth 4022.22%,WARNING
+DQ-06,profitandloss,sales,VEDL,Mar 2014,Unusual sales growth 2306.40%,WARNING
+DQ-08,profitandloss,operating_profit,BHEL,Mar 2016,Negative operating profit (-1357.0),WARNING
+DQ-08,profitandloss,operating_profit,BHEL,Mar 2020,Negative operating profit (-133.0),WARNING
+DQ-08,profitandloss,operating_profit,BHEL,Mar 2021,Negative operating profit (-3049.0),WARNING
+DQ-08,profitandloss,operating_profit,LICI,Mar 2020,Negative operating profit (-6947.0),WARNING
+DQ-08,profitandloss,operating_profit,LICI,Mar 2021,Negative operating profit (-252.0),WARNING
+DQ-08,profitandloss,operating_profit,NAUKRI,Mar 2017,Negative operating profit (-9.0),WARNING
+DQ-08,profitandloss,operating_profit,NAUKRI,Mar 2020,Negative operating profit (-350.0),WARNING
+DQ-08,profitandloss,operating_profit,SBIN,Mar 2013,Negative operating profit (-5124.0),WARNING
+DQ-08,profitandloss,operating_profit,SBIN,Mar 2014,Negative operating profit (-14614.0),WARNING
+DQ-08,profitandloss,operating_profit,SBIN,Mar 2015,Negative operating profit (-21879.0),WARNING
+DQ-08,profitandloss,operating_profit,SBIN,Mar 2016,Negative operating profit (-32399.0),WARNING
+DQ-08,profitandloss,operating_profit,SBIN,Mar 2017,Negative operating profit (-64334.0),WARNING
+DQ-08,profitandloss,operating_profit,SBIN,Mar 2018,Negative operating profit (-86697.0),WARNING
+DQ-08,profitandloss,operating_profit,SBIN,Mar 2019,Negative operating profit (-68649.0),WARNING
+DQ-08,profitandloss,operating_profit,SBIN,Mar 2020,Negative operating profit (-64181.0),WARNING
+DQ-08,profitandloss,operating_profit,SBIN,Mar 2021,Negative operating profit (-70715.0),WARNING
+DQ-08,profitandloss,operating_profit,SBIN,Mar 2022,Negative operating profit (-63570.0),WARNING
+DQ-08,profitandloss,operating_profit,SBIN,Mar 2023,Negative operating profit (-43439.0),WARNING
+DQ-08,profitandloss,operating_profit,SBIN,Mar 2024,Negative operating profit (-60297.0),WARNING
+DQ-08,profitandloss,operating_profit,SBIN,TTM,Negative operating profit (-59190.0),WARNING
+DQ-08,profitandloss,operating_profit,TATASTEEL,Mar 2016,Negative operating profit (-625.0),WARNING
+DQ-08,profitandloss,operating_profit,TRENT,Mar 2014,Negative operating profit (-10.0),WARNING
+DQ-08,profitandloss,operating_profit,UNIONBANK,Mar 2014,Negative operating profit (-902.0),WARNING
+DQ-08,profitandloss,operating_profit,UNIONBANK,Mar 2015,Negative operating profit (-973.0),WARNING
+DQ-08,profitandloss,operating_profit,UNIONBANK,Mar 2016,Negative operating profit (-1928.0),WARNING
+DQ-08,profitandloss,operating_profit,UNIONBANK,Mar 2017,Negative operating profit (-4830.0),WARNING
+DQ-08,profitandloss,operating_profit,UNIONBANK,Mar 2018,Negative operating profit (-11700.0),WARNING
+DQ-08,profitandloss,operating_profit,UNIONBANK,Mar 2019,Negative operating profit (-8601.0),WARNING
+DQ-08,profitandloss,operating_profit,UNIONBANK,Mar 2020,Negative operating profit (-9523.0),WARNING
+DQ-08,profitandloss,operating_profit,UNIONBANK,Mar 2021,Negative operating profit (-11071.0),WARNING
+DQ-08,profitandloss,operating_profit,UNIONBANK,Mar 2022,Negative operating profit (-4213.0),WARNING
+DQ-08,profitandloss,operating_profit,UNIONBANK,Mar 2023,Negative operating profit (-3024.0),WARNING
+DQ-08,profitandloss,operating_profit,UNITDSPR,Mar 2014,Negative operating profit (-3368.0),WARNING
+DQ-08,profitandloss,operating_profit,UNITDSPR,Mar 2015,Negative operating profit (-366.0),WARNING
+DQ-08,profitandloss,operating_profit,VEDL,Mar 2016,Negative operating profit (-18479.0),WARNING
+DQ-08,profitandloss,operating_profit,ZOMATO,Mar 2018,Negative operating profit (-92.0),WARNING
+DQ-08,profitandloss,operating_profit,ZOMATO,Mar 2019,Negative operating profit (-2243.0),WARNING
+DQ-08,profitandloss,operating_profit,ZOMATO,Mar 2020,Negative operating profit (-2305.0),WARNING
+DQ-08,profitandloss,operating_profit,ZOMATO,Mar 2021,Negative operating profit (-467.0),WARNING
+DQ-08,profitandloss,operating_profit,ZOMATO,Mar 2022,Negative operating profit (-1851.0),WARNING
+DQ-08,profitandloss,operating_profit,ZOMATO,Mar 2023,Negative operating profit (-1211.0),WARNING
+DQ-09,profitandloss,net_profit,ADANIENSOL,Mar 2015,Negative net profit (-7.0),WARNING
+DQ-09,profitandloss,net_profit,ADANIGREEN,Mar 2017,Negative net profit (-47.0),WARNING
+DQ-09,profitandloss,net_profit,ADANIGREEN,Mar 2018,Negative net profit (-138.0),WARNING
+DQ-09,profitandloss,net_profit,ADANIGREEN,Mar 2019,Negative net profit (-475.0),WARNING
+DQ-09,profitandloss,net_profit,ADANIGREEN,Mar 2020,Negative net profit (-68.0),WARNING
+DQ-09,profitandloss,net_profit,ADANIPOWER,Mar 2013,Negative net profit (-2295.0),WARNING
+DQ-09,profitandloss,net_profit,ADANIPOWER,Mar 2014,Negative net profit (-291.0),WARNING
+DQ-09,profitandloss,net_profit,ADANIPOWER,Mar 2015,Negative net profit (-816.0),WARNING
+DQ-09,profitandloss,net_profit,ADANIPOWER,Mar 2017,Negative net profit (-6174.0),WARNING
+DQ-09,profitandloss,net_profit,ADANIPOWER,Mar 2018,Negative net profit (-2103.0),WARNING
+DQ-09,profitandloss,net_profit,ADANIPOWER,Mar 2019,Negative net profit (-984.0),WARNING
+DQ-09,profitandloss,net_profit,ADANIPOWER,Mar 2020,Negative net profit (-2275.0),WARNING
+DQ-09,profitandloss,net_profit,BANKBARODA,Mar 2016,Negative net profit (-5033.0),WARNING
+DQ-09,profitandloss,net_profit,BANKBARODA,Mar 2018,Negative net profit (-1836.0),WARNING
+DQ-09,profitandloss,net_profit,BHARTIARTL,Mar 2020,Negative net profit (-30664.0),WARNING
+DQ-09,profitandloss,net_profit,BHARTIARTL,Mar 2021,Negative net profit (-12364.0),WARNING
+DQ-09,profitandloss,net_profit,BHEL,Mar 2016,Negative net profit (-706.0),WARNING
+DQ-09,profitandloss,net_profit,BHEL,Mar 2020,Negative net profit (-1468.0),WARNING
+DQ-09,profitandloss,net_profit,BHEL,Mar 2021,Negative net profit (-2700.0),WARNING
+DQ-09,profitandloss,net_profit,CANBK,Mar 2016,Negative net profit (-2535.0),WARNING
+DQ-09,profitandloss,net_profit,CANBK,Mar 2018,Negative net profit (-3873.0),WARNING
+DQ-09,profitandloss,net_profit,CANBK,Mar 2020,Negative net profit (-1921.0),WARNING
+DQ-09,profitandloss,net_profit,DLF,Mar 2020,Negative net profit (-590.0),WARNING
+DQ-09,profitandloss,net_profit,GODREJCP,Mar 2024,Negative net profit (-561.0),WARNING
+DQ-09,profitandloss,net_profit,GODREJCP,TTM,Negative net profit (-453.0),WARNING
+DQ-09,profitandloss,net_profit,HINDALCO,Mar 2016,Negative net profit (-702.0),WARNING
+DQ-09,profitandloss,net_profit,IOC,Mar 2020,Negative net profit (-1876.0),WARNING
+DQ-09,profitandloss,net_profit,JINDALSTEL,Mar 2015,Negative net profit (-1452.0),WARNING
+DQ-09,profitandloss,net_profit,JINDALSTEL,Mar 2016,Negative net profit (-3087.0),WARNING
+DQ-09,profitandloss,net_profit,JINDALSTEL,Mar 2017,Negative net profit (-2538.0),WARNING
+DQ-09,profitandloss,net_profit,JINDALSTEL,Mar 2018,Negative net profit (-1616.0),WARNING
+DQ-09,profitandloss,net_profit,JINDALSTEL,Mar 2019,Negative net profit (-2412.0),WARNING
+DQ-09,profitandloss,net_profit,JINDALSTEL,Mar 2020,Negative net profit (-400.0),WARNING
+DQ-09,profitandloss,net_profit,JSWSTEEL,Mar 2016,Negative net profit (-481.0),WARNING
+DQ-09,profitandloss,net_profit,MM,Mar 2020,Negative net profit (-321.0),WARNING
+DQ-09,profitandloss,net_profit,NAUKRI,Mar 2015,Negative net profit (-14.0),WARNING
+DQ-09,profitandloss,net_profit,NAUKRI,Mar 2017,Negative net profit (-43.0),WARNING
+DQ-09,profitandloss,net_profit,NAUKRI,Mar 2020,Negative net profit (-246.0),WARNING
+DQ-09,profitandloss,net_profit,NAUKRI,Mar 2023,Negative net profit (-70.0),WARNING
+DQ-09,profitandloss,net_profit,PNB,Mar 2016,Negative net profit (-3510.0),WARNING
+DQ-09,profitandloss,net_profit,PNB,Mar 2018,Negative net profit (-12111.0),WARNING
+DQ-09,profitandloss,net_profit,PNB,Mar 2019,Negative net profit (-9550.0),WARNING
+DQ-09,profitandloss,net_profit,SBIN,Mar 2017,Negative net profit (-97.0),WARNING
+DQ-09,profitandloss,net_profit,SBIN,Mar 2018,Negative net profit (-3749.0),WARNING
+DQ-09,profitandloss,net_profit,TATACONSUM,Mar 2016,Negative net profit (-37.0),WARNING
+DQ-09,profitandloss,net_profit,TATAMOTORS,Mar 2019,Negative net profit (-28724.0),WARNING
+DQ-09,profitandloss,net_profit,TATAMOTORS,Mar 2020,Negative net profit (-11975.0),WARNING
+DQ-09,profitandloss,net_profit,TATAMOTORS,Mar 2021,Negative net profit (-13395.0),WARNING
+DQ-09,profitandloss,net_profit,TATAMOTORS,Mar 2022,Negative net profit (-11309.0),WARNING
+DQ-09,profitandloss,net_profit,TATASTEEL,Mar 2013,Negative net profit (-7272.0),WARNING
+DQ-09,profitandloss,net_profit,TATASTEEL,Mar 2015,Negative net profit (-3939.0),WARNING
+DQ-09,profitandloss,net_profit,TATASTEEL,Mar 2016,Negative net profit (-497.0),WARNING
+DQ-09,profitandloss,net_profit,TATASTEEL,Mar 2017,Negative net profit (-4169.0),WARNING
+DQ-09,profitandloss,net_profit,TATASTEEL,Mar 2024,Negative net profit (-4910.0),WARNING
+DQ-09,profitandloss,net_profit,TRENT,Mar 2013,Negative net profit (-27.0),WARNING
+DQ-09,profitandloss,net_profit,TRENT,Mar 2014,Negative net profit (-19.0),WARNING
+DQ-09,profitandloss,net_profit,TRENT,Mar 2021,Negative net profit (-181.0),WARNING
+DQ-09,profitandloss,net_profit,UNIONBANK,Mar 2018,Negative net profit (-5212.0),WARNING
+DQ-09,profitandloss,net_profit,UNIONBANK,Mar 2019,Negative net profit (-2922.0),WARNING
+DQ-09,profitandloss,net_profit,UNIONBANK,Mar 2020,Negative net profit (-3121.0),WARNING
+DQ-09,profitandloss,net_profit,UNITDSPR,Mar 2013,Negative net profit (-105.0),WARNING
+DQ-09,profitandloss,net_profit,UNITDSPR,Mar 2014,Negative net profit (-4489.0),WARNING
+DQ-09,profitandloss,net_profit,UNITDSPR,Mar 2015,Negative net profit (-1687.0),WARNING
+DQ-09,profitandloss,net_profit,VBL,Dec 2013,Negative net profit (-40.0),WARNING
+DQ-09,profitandloss,net_profit,VBL,Dec 2014,Negative net profit (-20.0),WARNING
+DQ-09,profitandloss,net_profit,VEDL,Mar 2015,Negative net profit (-11369.0),WARNING
+DQ-09,profitandloss,net_profit,VEDL,Mar 2016,Negative net profit (-17862.0),WARNING
+DQ-09,profitandloss,net_profit,VEDL,Mar 2020,Negative net profit (-4744.0),WARNING
+DQ-09,profitandloss,net_profit,ZOMATO,Mar 2018,Negative net profit (-107.0),WARNING
+DQ-09,profitandloss,net_profit,ZOMATO,Mar 2019,Negative net profit (-1010.0),WARNING
+DQ-09,profitandloss,net_profit,ZOMATO,Mar 2020,Negative net profit (-2386.0),WARNING
+DQ-09,profitandloss,net_profit,ZOMATO,Mar 2021,Negative net profit (-816.0),WARNING
+DQ-09,profitandloss,net_profit,ZOMATO,Mar 2022,Negative net profit (-1222.0),WARNING
+DQ-09,profitandloss,net_profit,ZOMATO,Mar 2023,Negative net profit (-971.0),WARNING
+DQ-09,profitandloss,net_profit,INDIGO,Mar 2020,Negative net profit (-248.0),WARNING
+DQ-09,profitandloss,net_profit,INDIGO,Mar 2021,Negative net profit (-6171.0),WARNING
+DQ-09,profitandloss,net_profit,INDIGO,Mar 2022,Negative net profit (-317.0),WARNING
+DQ-09,profitandloss,net_profit,INDIGO,Mar 2023,Negative net profit (-317.0),WARNING
+DQ-10,cashflow,net_cash_flow,TVSMOTOR,Mar 2022,"Net cash mismatch calculated=-128.00, stored=532.0",WARNING
+DQ-12,financial_ratios,dividend_yield,BEL,Mar 2013,Unusually high dividend yield (15183.33%),WARNING
+DQ-12,financial_ratios,dividend_yield,BEL,Mar 2014,Unusually high dividend yield (13600.0%),WARNING
+DQ-12,financial_ratios,dividend_yield,BEL,Mar 2015,Unusually high dividend yield (17100.0%),WARNING
+DQ-12,financial_ratios,dividend_yield,BEL,Mar 2016,Unusually high dividend yield (11141.67%),WARNING
+DQ-12,financial_ratios,dividend_yield,BEL,Mar 2017,Unusually high dividend yield (10153.33%),WARNING
+DQ-12,financial_ratios,dividend_yield,BEL,Mar 2018,Unusually high dividend yield (4616.13%),WARNING
+DQ-12,financial_ratios,dividend_yield,BEL,Mar 2019,Unusually high dividend yield (3851.02%),WARNING
+DQ-12,financial_ratios,dividend_yield,BEL,Mar 2020,Unusually high dividend yield (3318.18%),WARNING
+DQ-12,financial_ratios,dividend_yield,BEL,Mar 2021,Unusually high dividend yield (3559.32%),WARNING
+DQ-12,financial_ratios,dividend_yield,BEL,Mar 2022,Unusually high dividend yield (3478.26%),WARNING
+DQ-12,financial_ratios,dividend_yield,BEL,Mar 2023,Unusually high dividend yield (3981.33%),WARNING
+DQ-12,financial_ratios,dividend_yield,BEL,Mar 2024,Unusually high dividend yield (4744.05%),WARNING
+DQ-12,financial_ratios,dividend_yield,HAL,Mar 2017,Unusually high dividend yield (1966.92%),WARNING
+DQ-12,financial_ratios,dividend_yield,HAL,Mar 2018,Unusually high dividend yield (1528.46%),WARNING
+DQ-12,financial_ratios,dividend_yield,HAL,Mar 2019,Unusually high dividend yield (1763.91%),WARNING
+DQ-12,financial_ratios,dividend_yield,HAL,Mar 2020,Unusually high dividend yield (2059.42%),WARNING
+DQ-12,financial_ratios,dividend_yield,HAL,Mar 2021,Unusually high dividend yield (2249.31%),WARNING
+DQ-12,financial_ratios,dividend_yield,HAL,Mar 2022,Unusually high dividend yield (3324.18%),WARNING
+DQ-12,financial_ratios,dividend_yield,HAL,Mar 2023,Unusually high dividend yield (3283.05%),WARNING
+DQ-12,financial_ratios,dividend_yield,HAL,Mar 2024,Unusually high dividend yield (3816.58%),WARNING
+DQ-12,financial_ratios,dividend_yield,INDIGO,Mar 2013,Unusually high dividend yield (17886.36%),WARNING
+DQ-12,financial_ratios,dividend_yield,INDIGO,Mar 2014,Unusually high dividend yield (10772.73%),WARNING
+DQ-12,financial_ratios,dividend_yield,INDIGO,Mar 2015,Unusually high dividend yield (4939.39%),WARNING
+DQ-12,financial_ratios,dividend_yield,INDIGO,Mar 2016,Unusually high dividend yield (1534.78%),WARNING
+DQ-12,financial_ratios,dividend_yield,INDIGO,Mar 2017,Unusually high dividend yield (1692.86%),WARNING
+DQ-12,financial_ratios,dividend_yield,INDIGO,Mar 2018,Unusually high dividend yield (2242.0%),WARNING
+DQ-13,documents,annual_report,ADANIENSOL,2015,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,ADANIENSOL,2014,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,ADANIENSOL,2013,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,ADANIENSOL,2012,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,ADANIENSOL,2011,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,ADANIENSOL,2010,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,ADANIENSOL,2009,Invalid URL format (Null),WARNING
+DQ-13,documents,Annual_Report,ADANIENT,2011,Invalid Annual Report URL,WARNING
+DQ-13,documents,Annual_Report,ADANIENT,2010,Invalid Annual Report URL,WARNING
+DQ-13,documents,Annual_Report,ADANIENT,2009,Invalid Annual Report URL,WARNING
+DQ-13,documents,annual_report,ADANIGREEN,2017,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,ADANIGREEN,2016,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,ADANIGREEN,2015,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,ADANIGREEN,2014,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,ADANIGREEN,2013,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,ADANIGREEN,2012,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,ADANIGREEN,2011,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,ADANIGREEN,2010,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,ADANIGREEN,2009,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,ADANIPORTS,2019,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,ADANIPORTS,2018,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,ADANIPORTS,2017,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,ADANIPORTS,2015,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,ADANIPORTS,2014,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,ADANIPORTS,2013,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,ADANIPORTS,2012,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,ADANIPORTS,2010,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,ADANIPORTS,2009,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,ADANIPOWER,2015,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,ADANIPOWER,2014,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,ADANIPOWER,2013,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,ADANIPOWER,2011,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,ADANIPOWER,2010,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,ADANIPOWER,2009,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,AMBUJACEM,2014,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,AMBUJACEM,2013,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,AMBUJACEM,2012,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,AMBUJACEM,2010,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,AMBUJACEM,2009,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,APOLLOHOSP,2019,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,APOLLOHOSP,2015,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,APOLLOHOSP,2010,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,APOLLOHOSP,2009,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,ASIANPAINT,2013,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,ASIANPAINT,2012,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,ASIANPAINT,2010,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,ASIANPAINT,2009,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,ATGL,2018,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,ATGL,2017,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,ATGL,2016,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,ATGL,2015,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,ATGL,2014,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,ATGL,2013,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,ATGL,2012,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,ATGL,2011,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,ATGL,2010,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,ATGL,2009,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,AXISBANK,2010,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,AXISBANK,2009,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,BAJAJ-AUTO,2014,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,BAJAJ-AUTO,2010,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,BAJAJ-AUTO,2009,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,BAJAJFINSV,2010,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,BAJAJFINSV,2009,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,BAJAJHLDNG,2010,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,BAJAJHLDNG,2009,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,BAJFINANCE,2010,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,BAJFINANCE,2009,Invalid URL format (Null),WARNING
+DQ-13,documents,Annual_Report,BANKBARODA,2010,Invalid Annual Report URL,WARNING
+DQ-13,documents,Annual_Report,BANKBARODA,2009,Invalid Annual Report URL,WARNING
+DQ-13,documents,Annual_Report,BEL,2022,Invalid Annual Report URL,WARNING
+DQ-13,documents,Annual_Report,BEL,2019,Invalid Annual Report URL,WARNING
+DQ-13,documents,Annual_Report,BEL,2015,Invalid Annual Report URL,WARNING
+DQ-13,documents,Annual_Report,BEL,2012,Invalid Annual Report URL,WARNING
+DQ-13,documents,Annual_Report,BEL,2011,Invalid Annual Report URL,WARNING
+DQ-13,documents,Annual_Report,BEL,2010,Invalid Annual Report URL,WARNING
+DQ-13,documents,Annual_Report,BEL,2009,Invalid Annual Report URL,WARNING
+DQ-13,documents,Annual_Report,BHARTIARTL,2021,Invalid Annual Report URL,WARNING
+DQ-13,documents,Annual_Report,BHARTIARTL,2018,Invalid Annual Report URL,WARNING
+DQ-13,documents,Annual_Report,BHARTIARTL,2011,Invalid Annual Report URL,WARNING
+DQ-13,documents,Annual_Report,BHARTIARTL,2010,Invalid Annual Report URL,WARNING
+DQ-13,documents,Annual_Report,BHARTIARTL,2009,Invalid Annual Report URL,WARNING
+DQ-13,documents,Annual_Report,BHEL,2015,Invalid Annual Report URL,WARNING
+DQ-13,documents,Annual_Report,BHEL,2014,Invalid Annual Report URL,WARNING
+DQ-13,documents,Annual_Report,BHEL,2013,Invalid Annual Report URL,WARNING
+DQ-13,documents,Annual_Report,BHEL,2012,Invalid Annual Report URL,WARNING
+DQ-13,documents,Annual_Report,BHEL,2011,Invalid Annual Report URL,WARNING
+DQ-13,documents,Annual_Report,BHEL,2010,Invalid Annual Report URL,WARNING
+DQ-13,documents,Annual_Report,BHEL,2009,Invalid Annual Report URL,WARNING
+DQ-13,documents,Annual_Report,BOSCHLTD,2019,Invalid Annual Report URL,WARNING
+DQ-13,documents,Annual_Report,BOSCHLTD,2018,Invalid Annual Report URL,WARNING
+DQ-13,documents,Annual_Report,BOSCHLTD,2017,Invalid Annual Report URL,WARNING
+DQ-13,documents,Annual_Report,BOSCHLTD,2014,Invalid Annual Report URL,WARNING
+DQ-13,documents,Annual_Report,BOSCHLTD,2013,Invalid Annual Report URL,WARNING
+DQ-13,documents,Annual_Report,BOSCHLTD,2012,Invalid Annual Report URL,WARNING
+DQ-13,documents,Annual_Report,BOSCHLTD,2011,Invalid Annual Report URL,WARNING
+DQ-13,documents,Annual_Report,BOSCHLTD,2010,Invalid Annual Report URL,WARNING
+DQ-13,documents,Annual_Report,BOSCHLTD,2009,Invalid Annual Report URL,WARNING
+DQ-13,documents,Annual_Report,BPCL,2022,Invalid Annual Report URL,WARNING
+DQ-13,documents,Annual_Report,BPCL,2019,Invalid Annual Report URL,WARNING
+DQ-13,documents,Annual_Report,BPCL,2016,Invalid Annual Report URL,WARNING
+DQ-13,documents,Annual_Report,BPCL,2015,Invalid Annual Report URL,WARNING
+DQ-13,documents,Annual_Report,BPCL,2010,Invalid Annual Report URL,WARNING
+DQ-13,documents,Annual_Report,BPCL,2009,Invalid Annual Report URL,WARNING
+DQ-13,documents,annual_report,BRITANNIA,2010,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,BRITANNIA,2009,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,CANBK,2010,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,CANBK,2009,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,CHOLAFIN,2015,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,CHOLAFIN,2010,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,CHOLAFIN,2009,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,CIPLA,2010,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,CIPLA,2009,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,COALINDIA,2010,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,DABUR,2010,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,DABUR,2009,Invalid URL format (Null),WARNING
+DQ-13,documents,Annual_Report,DLF,2018,Invalid Annual Report URL,WARNING
+DQ-13,documents,Annual_Report,DLF,2017,Invalid Annual Report URL,WARNING
+DQ-13,documents,annual_report,DLF,2010,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,DLF,2009,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,DMART,2016,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,DMART,2015,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,DMART,2014,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,DMART,2013,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,DMART,2012,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,DMART,2011,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,DMART,2010,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,DMART,2009,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,DRREDDY,2011,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,DRREDDY,2010,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,DRREDDY,2009,Invalid URL format (Null),WARNING
+DQ-13,documents,Annual_Report,EICHERMOT,2019,Invalid Annual Report URL,WARNING
+DQ-13,documents,annual_report,EICHERMOT,2010,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,EICHERMOT,2009,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,GAIL,2010,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,GAIL,2009,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,GODREJCP,2010,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,GODREJCP,2009,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,GRASIM,2010,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,GRASIM,2009,Invalid URL format (Null),WARNING
+DQ-13,documents,Annual_Report,HAL,2011,Invalid Annual Report URL,WARNING
+DQ-13,documents,annual_report,HAL,2009,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,HAVELLS,2010,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,HAVELLS,2009,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,HCLTECH,2011,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,HCLTECH,2010,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,HCLTECH,2009,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,HDFCBANK,2013,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,HDFCBANK,2011,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,HDFCBANK,2010,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,HDFCBANK,2009,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,HDFCLIFE,2012,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,HDFCLIFE,2011,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,HDFCLIFE,2010,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,HDFCLIFE,2009,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,HDFCLIFE,2008,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,HEROMOTOCO,2010,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,HEROMOTOCO,2009,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,HINDALCO,2010,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,HINDALCO,2009,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,HINDUNILVR,2010,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,HINDUNILVR,2009,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,ICICIBANK,2009,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,ICICIGI,2009,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,ICICIPRULI,2011,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,ICICIPRULI,2010,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,ICICIPRULI,2009,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,INDIGO,2015,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,INDIGO,2014,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,INDIGO,2013,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,INDIGO,2012,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,INDIGO,2011,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,INDIGO,2010,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,INDIGO,2009,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,INDUSINDBK,2010,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,INDUSINDBK,2009,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,INFY,2010,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,INFY,2009,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,IOC,2024,Invalid URL format (bseindia.com/xml-data/corpfiling/AttachHis/24a0940c-fa5a-4e36-a404-9dab3637ea0c.pdf),WARNING
+DQ-13,documents,annual_report,IOC,2023,Invalid URL format (bseindia.com/xml-data/corpfiling/AttachHis//ae413f27-7b30-4cdb-8f1b-8d82e5914e54.pdf),WARNING
+DQ-13,documents,annual_report,IOC,2010,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,IOC,2009,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,IRCTC,2019,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,IRCTC,2018,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,IRCTC,2017,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,IRCTC,2016,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,IRCTC,2015,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,IRCTC,2014,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,IRCTC,2013,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,IRCTC,2012,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,IRCTC,2011,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,IRCTC,2010,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,IRCTC,2009,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,IRFC,2020,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,IRFC,2019,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,IRFC,2018,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,IRFC,2017,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,IRFC,2016,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,IRFC,2015,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,IRFC,2014,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,IRFC,2013,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,IRFC,2012,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,IRFC,2011,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,IRFC,2010,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,IRFC,2009,Invalid URL format (Null),WARNING
+DQ-13,documents,Annual_Report,ITC,2011,Invalid Annual Report URL,WARNING
+DQ-13,documents,Annual_Report,ITC,2010,Invalid Annual Report URL,WARNING
+DQ-13,documents,Annual_Report,ITC,2009,Invalid Annual Report URL,WARNING
+DQ-13,documents,Annual_Report,JINDALSTEL,2010,Invalid Annual Report URL,WARNING
+DQ-13,documents,Annual_Report,JINDALSTEL,2009,Invalid Annual Report URL,WARNING
+DQ-13,documents,annual_report,JIOFIN,2023,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,JIOFIN,2022,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,JIOFIN,2021,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,JIOFIN,2020,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,JIOFIN,2019,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,JIOFIN,2018,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,JIOFIN,2017,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,JIOFIN,2016,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,JIOFIN,2015,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,JIOFIN,2014,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,JIOFIN,2013,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,JIOFIN,2012,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,JIOFIN,2011,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,JIOFIN,2010,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,JIOFIN,2009,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,JSWENERGY,2011,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,JSWENERGY,2010,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,JSWENERGY,2009,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,JSWSTEEL,2010,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,JSWSTEEL,2009,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,KOTAKBANK,2023,Invalid URL format (bseindia.com/xml-data/corpfiling/AttachHis//b9e0c871-3353-4ef4-855e-069bcfd848e1.pdf),WARNING
+DQ-13,documents,annual_report,KOTAKBANK,2022,Invalid URL format (bseindia.com/bseplus/AnnualReport/500247/73932500247.pdf),WARNING
+DQ-13,documents,annual_report,KOTAKBANK,2021,Invalid URL format (bseindia.com/bseplus/AnnualReport/500247/69160500247.pdf),WARNING
+DQ-13,documents,annual_report,KOTAKBANK,2017,Invalid URL format (bseindia.com/bseplus/AnnualReport/500247/5002470317.pdf),WARNING
+DQ-13,documents,annual_report,KOTAKBANK,2016,Invalid URL format (5002470316.pdf),WARNING
+DQ-13,documents,annual_report,KOTAKBANK,2015,Invalid URL format (5002470315.pdf),WARNING
+DQ-13,documents,annual_report,KOTAKBANK,2013,Invalid URL format (untitled),WARNING
+DQ-13,documents,annual_report,KOTAKBANK,2012,Invalid URL format (bseindia.com/bseplus/AnnualReport/500247/5002470312.pdf),WARNING
+DQ-13,documents,annual_report,KOTAKBANK,2011,Invalid URL format (5002470311.pdf),WARNING
+DQ-13,documents,annual_report,KOTAKBANK,2010,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,KOTAKBANK,2009,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,LICI,2018,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,LICI,2017,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,LICI,2016,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,LICI,2015,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,LICI,2014,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,LICI,2013,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,LICI,2012,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,LICI,2011,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,LICI,2010,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,LICI,2009,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,LODHA,2020,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,LODHA,2019,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,LODHA,2018,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,LODHA,2017,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,LODHA,2016,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,LODHA,2015,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,LODHA,2014,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,LODHA,2013,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,LODHA,2012,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,LODHA,2011,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,LODHA,2010,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,LODHA,2009,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,LT,2010,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,LT,2009,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,LTIM,2016,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,LTIM,2015,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,LTIM,2014,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,LTIM,2013,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,LTIM,2012,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,LTIM,2011,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,LTIM,2010,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,LTIM,2009,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,MM,2010,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,MM,2009,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,MARUTI,2010,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,MARUTI,2009,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,MOTHERSON,2010,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,MOTHERSON,2009,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,NAUKRI,2010,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,NAUKRI,2009,Invalid URL format (Null),WARNING
+DQ-13,documents,Annual_Report,NESTLEIND,2023,Invalid Annual Report URL,WARNING
+DQ-13,documents,annual_report,NHPC,2010,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,NHPC,2009,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,NTPC,2010,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,NTPC,2009,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,ONGC,2011,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,ONGC,2010,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,ONGC,2009,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,PFC,2010,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,PFC,2009,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,PIDILITIND,2011,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,PIDILITIND,2010,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,PIDILITIND,2009,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,PNB,2010,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,PNB,2009,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,POWERGRID,2010,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,POWERGRID,2009,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,RECLTD,2011,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,RECLTD,2010,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,RECLTD,2009,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,RELIANCE,2011,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,RELIANCE,2010,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,RELIANCE,2009,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,SBILIFE,2017,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,SBILIFE,2016,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,SBILIFE,2015,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,SBILIFE,2014,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,SBILIFE,2013,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,SBILIFE,2012,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,SBILIFE,2011,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,SBILIFE,2010,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,SBILIFE,2009,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,SBIN,2009,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,SHREECEM,2011,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,SHREECEM,2010,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,SHREECEM,2009,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,SHRIRAMFIN,2011,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,SHRIRAMFIN,2010,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,SHRIRAMFIN,2009,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,SIEMENS,2010,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,SIEMENS,2009,Invalid URL format (Null),WARNING
+DQ-13,documents,Annual_Report,SUNPHARMA,2011,Invalid Annual Report URL,WARNING
+DQ-13,documents,Annual_Report,SUNPHARMA,2010,Invalid Annual Report URL,WARNING
+DQ-13,documents,Annual_Report,SUNPHARMA,2009,Invalid Annual Report URL,WARNING
+DQ-13,documents,annual_report,TATACONSUM,2010,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,TATACONSUM,2009,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,TATAMOTORS,2010,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,TATAMOTORS,2009,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,TATAPOWER,2010,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,TATAPOWER,2009,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,TATASTEEL,2010,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,TATASTEEL,2009,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,TCS,2010,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,TCS,2009,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,TECHM,2012,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,TECHM,2011,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,TECHM,2010,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,TECHM,2009,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,TITAN,2011,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,TITAN,2010,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,TITAN,2009,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,TORNTPHARM,2010,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,TORNTPHARM,2009,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,TRENT,2010,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,TRENT,2009,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,TVSMOTOR,2010,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,TVSMOTOR,2009,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,ULTRACEMCO,2011,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,ULTRACEMCO,2010,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,ULTRACEMCO,2009,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,UNIONBANK,2010,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,UNIONBANK,2009,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,UNITDSPR,2011,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,UNITDSPR,2010,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,UNITDSPR,2009,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,VBL,2024,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,VBL,2015,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,VBL,2014,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,VBL,2013,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,VBL,2012,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,VBL,2011,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,VBL,2010,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,VBL,2009,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,VEDL,2010,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,VEDL,2009,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,WIPRO,2010,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,WIPRO,2009,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,ZOMATO,2021,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,ZOMATO,2020,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,ZOMATO,2019,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,ZOMATO,2018,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,ZOMATO,2017,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,ZOMATO,2016,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,ZOMATO,2015,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,ZOMATO,2014,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,ZOMATO,2013,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,ZOMATO,2012,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,ZOMATO,2011,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,ZOMATO,2010,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,ZOMATO,2009,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,ZYDUSLIFE,2010,Invalid URL format (Null),WARNING
+DQ-13,documents,annual_report,ZYDUSLIFE,2009,Invalid URL format (Null),WARNING
+DQ-14,stock_prices,OHLC,ABB,2022-06-01,Invalid OHLC O=3362.05 H=3339.06 L=3241.42 C=3300.45,CRITICAL
+DQ-14,stock_prices,OHLC,ADANIENSOL,2021-03-01,Invalid OHLC O=5575.31 H=5571.95 L=5000.52 C=5489.61,CRITICAL
+DQ-14,stock_prices,OHLC,ADANIENSOL,2021-11-01,Invalid OHLC O=4760.63 H=4742.96 L=4551.21 C=4667.34,CRITICAL
+DQ-14,stock_prices,OHLC,ADANIENSOL,2023-06-01,Invalid OHLC O=4113.49 H=4106.31 L=3675.98 C=4049.47,CRITICAL
+DQ-14,stock_prices,OHLC,ADANIENT,2020-09-01,Invalid OHLC O=5221.43 H=5214.32 L=4849.1 C=5143.91,CRITICAL
+DQ-14,stock_prices,OHLC,ADANIENT,2021-12-01,Invalid OHLC O=6171.41 H=6128.97 L=5774.78 C=6059.65,CRITICAL
+DQ-14,stock_prices,OHLC,ADANIENT,2024-09-01,Invalid OHLC O=9234.12 H=9730.42 L=9300.6 C=9407.43,CRITICAL
+DQ-14,stock_prices,OHLC,ADANIGREEN,2021-02-01,Invalid OHLC O=4182.59 H=4179.52 L=4057.13 C=4112.23,CRITICAL
+DQ-14,stock_prices,OHLC,ADANIGREEN,2022-08-01,Invalid OHLC O=4994.85 H=5663.47 L=5001.81 C=5069.87,CRITICAL
+DQ-14,stock_prices,OHLC,ADANIPORTS,2021-01-01,Invalid OHLC O=1172.75 H=1169.27 L=1029.9 C=1152.75,CRITICAL
+DQ-14,stock_prices,OHLC,ADANIPOWER,2023-06-01,Invalid OHLC O=1623.59 H=1609.82 L=1444.4 C=1592.27,CRITICAL
+DQ-14,stock_prices,OHLC,AMBUJACEM,2022-11-01,Invalid OHLC O=430.13 H=463.66 L=431.29 C=436.66,CRITICAL
+DQ-14,stock_prices,OHLC,APOLLOHOSP,2020-06-01,Invalid OHLC O=3199.24 H=3592.77 L=3215.54 C=3264.32,CRITICAL
+DQ-14,stock_prices,OHLC,APOLLOHOSP,2021-12-01,Invalid OHLC O=4756.05 H=5163.26 L=4777.77 C=4845.4,CRITICAL
+DQ-14,stock_prices,OHLC,APOLLOHOSP,2023-10-01,Invalid OHLC O=3453.25 H=3445.88 L=3373.57 C=3408.47,CRITICAL
+DQ-14,stock_prices,OHLC,ASIANPAINT,2021-07-01,Invalid OHLC O=1990.06 H=2165.93 L=2003.63 C=2029.27,CRITICAL
+DQ-14,stock_prices,OHLC,ASIANPAINT,2021-10-01,Invalid OHLC O=2349.33 H=2589.23 L=2364.22 C=2394.97,CRITICAL
+DQ-14,stock_prices,OHLC,ATGL,2022-03-01,Invalid OHLC O=2164.51 H=2382.84 L=2172.13 C=2201.76,CRITICAL
+DQ-14,stock_prices,OHLC,ATGL,2022-04-01,Invalid OHLC O=2057.03 H=2129.45 L=2059.07 C=2091.15,CRITICAL
+DQ-14,stock_prices,OHLC,BAJAJ-AUTO,2024-01-01,Invalid OHLC O=9620.33 H=10015.53 L=9670.98 C=9789.8,CRITICAL
+DQ-14,stock_prices,OHLC,BAJAJFINSV,2020-06-01,Invalid OHLC O=4559.69 H=4557.17 L=4159.66 C=4491.54,CRITICAL
+DQ-14,stock_prices,OHLC,BAJAJFINSV,2021-01-01,Invalid OHLC O=4465.14 H=4444.05 L=3986.64 C=4381.31,CRITICAL
+DQ-14,stock_prices,OHLC,BAJAJFINSV,2024-06-01,Invalid OHLC O=5911.92 H=6543.6 L=5936.1 C=6032.3,CRITICAL
+DQ-14,stock_prices,OHLC,BAJFINANCE,2021-01-01,Invalid OHLC O=1402.64 H=1402.06 L=1318.77 C=1386.09,CRITICAL
+DQ-14,stock_prices,OHLC,BAJFINANCE,2024-06-01,Invalid OHLC O=2072.69 H=2252.44 L=2083.73 C=2106.61,CRITICAL
+DQ-14,stock_prices,OHLC,BAJFINANCE,2024-07-01,Invalid OHLC O=2029.96 H=2025.98 L=1852.83 C=2004.4,CRITICAL
+DQ-14,stock_prices,OHLC,BEL,2020-12-01,Invalid OHLC O=1958.82 H=1958.13 L=1709.53 C=1934.32,CRITICAL
+DQ-14,stock_prices,OHLC,BHARTIARTL,2022-04-01,Invalid OHLC O=3673.83 H=4120.21 L=3690.94 C=3738.84,CRITICAL
+DQ-14,stock_prices,OHLC,BHARTIARTL,2023-05-01,Invalid OHLC O=4041.74 H=4038.33 L=3533.37 C=3990.74,CRITICAL
+DQ-14,stock_prices,OHLC,BHEL,2022-12-01,Invalid OHLC O=2271.01 H=2269.07 L=2041.31 C=2227.53,CRITICAL
+DQ-14,stock_prices,OHLC,BRITANNIA,2020-09-01,Invalid OHLC O=795.34 H=859.68 L=800.55 C=809.12,CRITICAL
+DQ-14,stock_prices,OHLC,BRITANNIA,2022-09-01,Invalid OHLC O=385.93 H=421.36 L=386.74 C=392.48,CRITICAL
+DQ-14,stock_prices,OHLC,CANBK,2020-03-01,Invalid OHLC O=1377.01 H=1416.56 L=1380.07 C=1396.44,CRITICAL
+DQ-14,stock_prices,OHLC,CANBK,2023-05-01,Invalid OHLC O=2232.84 H=2514.23 L=2238.57 C=2268.22,CRITICAL
+DQ-14,stock_prices,OHLC,CHOLAFIN,2022-12-01,Invalid OHLC O=1414.51 H=1583.4 L=1421.68 C=1436.76,CRITICAL
+DQ-14,stock_prices,OHLC,CHOLAFIN,2024-11-01,Invalid OHLC O=1936.14 H=2062.48 L=1948.85 C=1972.13,CRITICAL
+DQ-14,stock_prices,OHLC,CIPLA,2020-07-01,Invalid OHLC O=2300.54 H=2558.87 L=2309.86 C=2342.38,CRITICAL
+DQ-14,stock_prices,OHLC,DABUR,2022-04-01,Invalid OHLC O=1514.23 H=1572.09 L=1519.2 C=1536.96,CRITICAL
+DQ-14,stock_prices,OHLC,DIVISLAB,2020-04-01,Invalid OHLC O=3264.08 H=3435.69 L=3266.19 C=3317.47,CRITICAL
+DQ-14,stock_prices,OHLC,DIVISLAB,2020-05-01,Invalid OHLC O=3641.92 H=3633.84 L=3397.8 C=3589.89,CRITICAL
+DQ-14,stock_prices,OHLC,DLF,2022-03-01,Invalid OHLC O=2251.7 H=2243.87 L=2023.06 C=2211.83,CRITICAL
+DQ-14,stock_prices,OHLC,DLF,2024-10-01,Invalid OHLC O=4263.63 H=4247.47 L=3843.33 C=4194.7,CRITICAL
+DQ-14,stock_prices,OHLC,EICHERMOT,2021-12-01,Invalid OHLC O=1003.37 H=1039.03 L=1008.43 C=1021.33,CRITICAL
+DQ-14,stock_prices,OHLC,EICHERMOT,2022-11-01,Invalid OHLC O=1139.19 H=1133.34 L=1108.38 C=1121.46,CRITICAL
+DQ-14,stock_prices,OHLC,GAIL,2021-07-01,Invalid OHLC O=327.42 H=361.41 L=328.08 C=333.53,CRITICAL
+DQ-14,stock_prices,OHLC,GRASIM,2022-03-01,Invalid OHLC O=6860.47 H=6836.31 L=6606.33 C=6726.04,CRITICAL
+DQ-14,stock_prices,OHLC,HAVELLS,2024-11-01,Invalid OHLC O=2338.34 H=2473.99 L=2342.5 C=2370.13,CRITICAL
+DQ-14,stock_prices,OHLC,HCLTECH,2024-01-01,Invalid OHLC O=1034.37 H=1162.43 L=1039.37 C=1052.89,CRITICAL
+DQ-14,stock_prices,OHLC,HCLTECH,2024-06-01,Invalid OHLC O=834.13 H=890.93 L=835.62 C=845.64,CRITICAL
+DQ-14,stock_prices,OHLC,HDFCBANK,2022-06-01,Invalid OHLC O=4313.19 H=4596.85 L=4343.95 C=4391.71,CRITICAL
+DQ-14,stock_prices,OHLC,HDFCBANK,2023-08-01,Invalid OHLC O=4584.29 H=4548.92 L=4439.99 C=4499.81,CRITICAL
+DQ-14,stock_prices,OHLC,HDFCLIFE,2020-01-01,Invalid OHLC O=2323.39 H=2440.24 L=2330.18 C=2361.06,CRITICAL
+DQ-14,stock_prices,OHLC,HEROMOTOCO,2021-06-01,Invalid OHLC O=920.43 H=913.04 L=805.36 C=903.75,CRITICAL
+DQ-14,stock_prices,OHLC,HEROMOTOCO,2022-09-01,Invalid OHLC O=716.03 H=748.13 L=718.47 C=727.47,CRITICAL
+DQ-14,stock_prices,OHLC,HINDALCO,2023-08-01,Invalid OHLC O=2805.58 H=2799.68 L=2658.35 C=2765.51,CRITICAL
+DQ-14,stock_prices,OHLC,HINDUNILVR,2022-06-01,Invalid OHLC O=441.55 H=440.68 L=408.28 C=434.12,CRITICAL
+DQ-14,stock_prices,OHLC,HINDUNILVR,2024-03-01,Invalid OHLC O=308.95 H=347.66 L=310.51 C=313.71,CRITICAL
+DQ-14,stock_prices,OHLC,HINDUNILVR,2024-08-01,Invalid OHLC O=410.07 H=406.56 L=378.97 C=402.48,CRITICAL
+DQ-14,stock_prices,OHLC,ICICIGI,2024-02-01,Invalid OHLC O=1896.75 H=1886.72 L=1790.8 C=1859.89,CRITICAL
+DQ-14,stock_prices,OHLC,ICICIPRULI,2020-08-01,Invalid OHLC O=3624.0 H=3786.23 L=3631.98 C=3691.19,CRITICAL
+DQ-14,stock_prices,OHLC,INDIGO,2022-02-01,Invalid OHLC O=2491.79 H=2576.72 L=2494.59 C=2522.2,CRITICAL
+DQ-14,stock_prices,OHLC,INDUSINDBK,2022-03-01,Invalid OHLC O=4417.94 H=4397.92 L=4114.72 C=4340.65,CRITICAL
+DQ-14,stock_prices,OHLC,INFY,2021-09-01,Invalid OHLC O=4302.19 H=4279.37 L=3951.08 C=4231.41,CRITICAL
+DQ-14,stock_prices,OHLC,IOC,2022-02-01,Invalid OHLC O=754.68 H=753.81 L=718.87 C=746.05,CRITICAL
+DQ-14,stock_prices,OHLC,IOC,2022-08-01,Invalid OHLC O=1108.96 H=1108.65 L=1072.45 C=1097.64,CRITICAL
+DQ-14,stock_prices,OHLC,IRCTC,2022-05-01,Invalid OHLC O=6671.26 H=6640.61 L=5999.08 C=6543.04,CRITICAL
+DQ-14,stock_prices,OHLC,IRCTC,2023-01-01,Invalid OHLC O=7278.95 H=7783.24 L=7343.22 C=7420.09,CRITICAL
+DQ-14,stock_prices,OHLC,IRCTC,2024-06-01,Invalid OHLC O=9591.45 H=10801.8 L=9610.39 C=9745.82,CRITICAL
+DQ-14,stock_prices,OHLC,IRFC,2020-06-01,Invalid OHLC O=4237.71 H=4461.3 L=4256.11 C=4310.89,CRITICAL
+DQ-14,stock_prices,OHLC,IRFC,2021-03-01,Invalid OHLC O=4106.48 H=4240.86 L=4131.9 C=4175.38,CRITICAL
+DQ-14,stock_prices,OHLC,IRFC,2024-06-01,Invalid OHLC O=5321.02 H=5283.65 L=5043.35 C=5219.03,CRITICAL
+DQ-14,stock_prices,OHLC,JINDALSTEL,2020-02-01,Invalid OHLC O=5097.91 H=5489.38 L=5106.78 C=5186.99,CRITICAL
+DQ-14,stock_prices,OHLC,JINDALSTEL,2020-11-01,Invalid OHLC O=6236.09 H=6911.64 L=6286.65 C=6354.45,CRITICAL
+DQ-14,stock_prices,OHLC,JINDALSTEL,2023-05-01,Invalid OHLC O=6815.33 H=7219.47 L=6835.03 C=6928.05,CRITICAL
+DQ-14,stock_prices,OHLC,JIOFIN,2022-02-01,Invalid OHLC O=5753.57 H=5710.95 L=5455.35 C=5648.39,CRITICAL
+DQ-14,stock_prices,OHLC,JIOFIN,2023-12-01,Invalid OHLC O=8502.48 H=9373.47 L=8506.92 C=8599.67,CRITICAL
+DQ-14,stock_prices,OHLC,JIOFIN,2024-01-01,Invalid OHLC O=8469.8 H=8454.55 L=7987.84 C=8364.35,CRITICAL
+DQ-14,stock_prices,OHLC,JIOFIN,2024-12-01,Invalid OHLC O=9759.81 H=11055.34 L=9841.56 C=9945.52,CRITICAL
+DQ-14,stock_prices,OHLC,JSWENERGY,2020-11-01,Invalid OHLC O=5046.93 H=5681.39 L=5058.05 C=5148.26,CRITICAL
+DQ-14,stock_prices,OHLC,JSWENERGY,2022-03-01,Invalid OHLC O=8436.25 H=9530.12 L=8475.13 C=8570.33,CRITICAL
+DQ-14,stock_prices,OHLC,JSWENERGY,2023-04-01,Invalid OHLC O=9290.93 H=9280.72 L=8247.47 C=9172.55,CRITICAL
+DQ-14,stock_prices,OHLC,JSWENERGY,2023-06-01,Invalid OHLC O=8619.9 H=8610.1 L=8107.53 C=8452.59,CRITICAL
+DQ-14,stock_prices,OHLC,JSWENERGY,2023-09-01,Invalid OHLC O=6328.2 H=7176.04 L=6352.98 C=6424.02,CRITICAL
+DQ-14,stock_prices,OHLC,JSWENERGY,2024-05-01,Invalid OHLC O=7059.52 H=7601.52 L=7105.17 C=7199.04,CRITICAL
+DQ-14,stock_prices,OHLC,KOTAKBANK,2023-07-01,Invalid OHLC O=1415.31 H=1458.23 L=1418.05 C=1436.48,CRITICAL
+DQ-14,stock_prices,OHLC,LICI,2020-07-01,Invalid OHLC O=281.64 H=311.59 L=282.36 C=286.39,CRITICAL
+DQ-14,stock_prices,OHLC,LT,2023-03-01,Invalid OHLC O=2472.11 H=2816.44 L=2489.76 C=2516.0,CRITICAL
+DQ-14,stock_prices,OHLC,LT,2024-10-01,Invalid OHLC O=2917.68 H=3216.88 L=2935.62 C=2966.18,CRITICAL
+DQ-14,stock_prices,OHLC,MARUTI,2021-03-01,Invalid OHLC O=1779.51 H=1971.05 L=1780.41 C=1805.24,CRITICAL
+DQ-14,stock_prices,OHLC,MOTHERSON,2020-05-01,Invalid OHLC O=1511.03 H=1604.36 L=1517.6 C=1541.64,CRITICAL
+DQ-14,stock_prices,OHLC,MOTHERSON,2023-04-01,Invalid OHLC O=2547.79 H=2545.54 L=2365.34 C=2501.67,CRITICAL
+DQ-14,stock_prices,OHLC,NAUKRI,2024-02-01,Invalid OHLC O=3512.2 H=3775.02 L=3519.14 C=3570.82,CRITICAL
+DQ-14,stock_prices,OHLC,NESTLEIND,2023-01-01,Invalid OHLC O=500.46 H=499.78 L=443.34 C=494.48,CRITICAL
+DQ-14,stock_prices,OHLC,NHPC,2023-11-01,Invalid OHLC O=8927.35 H=8875.96 L=7776.26 C=8764.38,CRITICAL
+DQ-14,stock_prices,OHLC,ONGC,2022-06-01,Invalid OHLC O=7757.04 H=7731.56 L=7191.33 C=7609.18,CRITICAL
+DQ-14,stock_prices,OHLC,PFC,2022-10-01,Invalid OHLC O=7809.71 H=7807.18 L=7551.47 C=7696.24,CRITICAL
+DQ-14,stock_prices,OHLC,PFC,2023-10-01,Invalid OHLC O=6799.54 H=6772.9 L=6527.33 C=6667.23,CRITICAL
+DQ-14,stock_prices,OHLC,PIDILITIND,2023-01-01,Invalid OHLC O=764.07 H=762.91 L=718.22 C=749.18,CRITICAL
+DQ-14,stock_prices,OHLC,PNB,2022-06-01,Invalid OHLC O=139.09 H=138.76 L=129.07 C=136.49,CRITICAL
+DQ-14,stock_prices,OHLC,POWERGRID,2024-11-01,Invalid OHLC O=6672.46 H=6653.54 L=6444.57 C=6547.57,CRITICAL
+DQ-14,stock_prices,OHLC,RECLTD,2020-05-01,Invalid OHLC O=4164.6 H=4149.22 L=3866.96 C=4094.41,CRITICAL
+DQ-14,stock_prices,OHLC,RECLTD,2021-03-01,Invalid OHLC O=5782.74 H=5746.03 L=5610.99 C=5687.84,CRITICAL
+DQ-14,stock_prices,OHLC,RELIANCE,2022-10-01,Invalid OHLC O=2508.51 H=2805.45 L=2522.75 C=2555.62,CRITICAL
+DQ-14,stock_prices,OHLC,RELIANCE,2024-07-01,Invalid OHLC O=2221.78 H=2322.12 L=2225.64 C=2261.27,CRITICAL
+DQ-14,stock_prices,OHLC,SBIN,2021-07-01,Invalid OHLC O=651.56 H=690.19 L=655.88 C=664.67,CRITICAL
+DQ-14,stock_prices,OHLC,SHREECEM,2021-02-01,Invalid OHLC O=1218.67 H=1303.82 L=1228.08 C=1243.17,CRITICAL
+DQ-14,stock_prices,OHLC,SHREECEM,2023-11-01,Invalid OHLC O=2644.65 H=2638.67 L=2554.78 C=2601.72,CRITICAL
+DQ-14,stock_prices,OHLC,SHREECEM,2024-09-01,Invalid OHLC O=2517.31 H=2767.58 L=2523.14 C=2562.33,CRITICAL
+DQ-14,stock_prices,OHLC,SHREECEM,2024-10-01,Invalid OHLC O=2570.15 H=2817.21 L=2581.18 C=2617.1,CRITICAL
+DQ-14,stock_prices,OHLC,SHRIRAMFIN,2022-02-01,Invalid OHLC O=1127.48 H=1188.01 L=1130.95 C=1148.76,CRITICAL
+DQ-14,stock_prices,OHLC,SHRIRAMFIN,2022-07-01,Invalid OHLC O=1524.11 H=1524.1 L=1388.0 C=1501.14,CRITICAL
+DQ-14,stock_prices,OHLC,SHRIRAMFIN,2024-05-01,Invalid OHLC O=1149.16 H=1148.96 L=1027.38 C=1136.84,CRITICAL
+DQ-14,stock_prices,OHLC,SIEMENS,2021-07-01,Invalid OHLC O=4058.13 H=4592.62 L=4073.55 C=4140.4,CRITICAL
+DQ-14,stock_prices,OHLC,TATASTEEL,2021-11-01,Invalid OHLC O=2277.36 H=2345.02 L=2284.53 C=2314.96,CRITICAL
+DQ-14,stock_prices,OHLC,TCS,2024-07-01,Invalid OHLC O=5044.73 H=5042.8 L=4613.67 C=4966.5,CRITICAL
+DQ-14,stock_prices,OHLC,TORNTPHARM,2020-01-01,Invalid OHLC O=2333.77 H=2560.3 L=2339.89 C=2375.4,CRITICAL
+DQ-14,stock_prices,OHLC,TORNTPHARM,2022-11-01,Invalid OHLC O=1784.99 H=1777.19 L=1662.67 C=1755.51,CRITICAL
+DQ-14,stock_prices,OHLC,TORNTPHARM,2023-09-01,Invalid OHLC O=1952.98 H=1952.57 L=1703.72 C=1915.22,CRITICAL
+DQ-14,stock_prices,OHLC,TORNTPHARM,2024-11-01,Invalid OHLC O=2158.88 H=2318.0 L=2164.57 C=2193.28,CRITICAL
+DQ-14,stock_prices,OHLC,TRENT,2023-11-01,Invalid OHLC O=1442.21 H=1594.47 L=1446.87 C=1466.02,CRITICAL
+DQ-15,profitandloss,year,JIOFIN,,Insufficient year coverage (3 years),WARNING

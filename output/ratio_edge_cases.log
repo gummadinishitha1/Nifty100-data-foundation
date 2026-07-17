@@ -1,0 +1,1101 @@
+company_id,year,metric,computed_value,source_value,category,explanation
+ABB,Dec 2012,ROCE,36.3215,46.0,version difference,computed ROCE differs from company-level source display value by 9.6785 percentage points
+ABB,Dec 2012,ROE,22.4111,34.9,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+ABB,Mar 2014,ROCE,40.1015,46.0,version difference,computed ROCE differs from company-level source display value by 5.8985 percentage points
+ABB,Mar 2014,ROE,25.1269,34.9,version difference,computed ROE retained for analytics; source value retained only for display
+ABB,Mar 2015,ROCE,38.4205,46.0,version difference,computed ROCE differs from company-level source display value by 7.5795 percentage points
+ABB,Mar 2015,ROE,24.4397,34.9,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+ABB,Mar 2016,ROCE,34.7280,46.0,formula discrepancy,computed ROCE differs from company-level source display value by 11.2720 percentage points
+ABB,Mar 2016,ROE,21.3389,34.9,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+ABB,Mar 2017,ROCE,32.8046,46.0,formula discrepancy,computed ROCE differs from company-level source display value by 13.1954 percentage points
+ABB,Mar 2017,ROE,19.9712,34.9,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+ABB,Mar 2018,ROCE,37.9209,46.0,version difference,computed ROCE differs from company-level source display value by 8.0791 percentage points
+ABB,Mar 2018,ROE,23.6858,34.9,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+ABB,Mar 2019,ROCE,35.7570,46.0,formula discrepancy,computed ROCE differs from company-level source display value by 10.2430 percentage points
+ABB,Mar 2019,ROE,22.4104,34.9,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+ABB,Mar 2020,ROCE,33.4229,46.0,formula discrepancy,computed ROCE differs from company-level source display value by 12.5771 percentage points
+ABB,Mar 2020,ROE,24.3933,34.9,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+ABB,Mar 2021,ROCE,36.4065,46.0,version difference,computed ROCE differs from company-level source display value by 9.5935 percentage points
+ABB,Mar 2021,ROE,26.5565,34.9,version difference,computed ROE retained for analytics; source value retained only for display
+ABB,Mar 2022,ROCE,39.1992,46.0,version difference,computed ROCE differs from company-level source display value by 6.8008 percentage points
+ABB,Mar 2022,ROE,28.3333,34.9,version difference,computed ROE retained for analytics; source value retained only for display
+ABB,Mar 2023,ROE,29.7679,34.9,version difference,computed ROE retained for analytics; source value retained only for display
+ADANIENSOL,Mar 2014,ROCE,0.0000,9.0,version difference,computed ROCE differs from company-level source display value by 9.0000 percentage points
+ADANIENSOL,Mar 2014,ROE,0.0000,8.59,version difference,computed ROE retained for analytics; source value retained only for display
+ADANIENSOL,Mar 2015,ROCE,0.9644,9.0,version difference,computed ROCE differs from company-level source display value by 8.0356 percentage points
+ADANIENSOL,Mar 2015,ROE,-0.6464,8.59,version difference,computed ROE retained for analytics; source value retained only for display
+ADANIENSOL,Mar 2016,ROCE,17.7401,9.0,version difference,computed ROCE differs from company-level source display value by 8.7401 percentage points
+ADANIENSOL,Mar 2016,ROE,13.7725,8.59,version difference,computed ROE retained for analytics; source value retained only for display
+ADANIENSOL,Mar 2017,ROCE,16.8176,9.0,version difference,computed ROCE differs from company-level source display value by 7.8176 percentage points
+ADANIENSOL,Mar 2017,ROE,14.1161,8.59,version difference,computed ROE retained for analytics; source value retained only for display
+ADANIENSOL,Mar 2018,ROCE,17.8162,9.0,version difference,computed ROCE differs from company-level source display value by 8.8162 percentage points
+ADANIENSOL,Mar 2018,ROE,18.8707,8.59,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+ADANIENSOL,Mar 2021,ROCE,14.0640,9.0,version difference,computed ROCE differs from company-level source display value by 5.0640 percentage points
+ADANIENSOL,Mar 2021,ROE,14.4635,8.59,version difference,computed ROE retained for analytics; source value retained only for display
+ADANIENT,Mar 2013,ROE,5.6927,13.64,version difference,computed ROE retained for analytics; source value retained only for display
+ADANIENT,Mar 2016,ROE,7.4750,13.64,version difference,computed ROE retained for analytics; source value retained only for display
+ADANIENT,Mar 2017,ROE,6.5436,13.64,version difference,computed ROE retained for analytics; source value retained only for display
+ADANIENT,Mar 2018,ROE,3.9366,13.64,version difference,computed ROE retained for analytics; source value retained only for display
+ADANIENT,Mar 2019,ROE,3.4291,13.64,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+ADANIENT,Mar 2020,ROE,6.1368,13.64,version difference,computed ROE retained for analytics; source value retained only for display
+ADANIENT,Mar 2021,ROE,6.0959,13.64,version difference,computed ROE retained for analytics; source value retained only for display
+ADANIENT,Mar 2022,ROE,3.5405,13.64,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+ADANIENT,Mar 2023,ROE,7.3281,13.64,version difference,computed ROE retained for analytics; source value retained only for display
+ADANIENT,Mar 2024,ROE,8.5347,13.64,version difference,computed ROE retained for analytics; source value retained only for display
+ADANIGREEN,Mar 2017,ROCE,8.7027,96.5,formula discrepancy,computed ROCE differs from company-level source display value by 87.7973 percentage points
+ADANIGREEN,Mar 2017,ROE,-3.9069,14.7,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+ADANIGREEN,Mar 2018,ROCE,7.8983,96.5,formula discrepancy,computed ROCE differs from company-level source display value by 88.6017 percentage points
+ADANIGREEN,Mar 2018,ROE,-10.2908,14.7,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+ADANIGREEN,Mar 2019,ROCE,12.2294,96.5,formula discrepancy,computed ROCE differs from company-level source display value by 84.2706 percentage points
+ADANIGREEN,Mar 2019,ROE,-24.5732,14.7,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+ADANIGREEN,Mar 2020,ROCE,7.7745,96.5,formula discrepancy,computed ROCE differs from company-level source display value by 88.7255 percentage points
+ADANIGREEN,Mar 2020,ROE,-2.8850,14.7,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+ADANIGREEN,Mar 2021,ROCE,9.9663,96.5,formula discrepancy,computed ROCE differs from company-level source display value by 86.5337 percentage points
+ADANIGREEN,Mar 2021,ROE,8.2727,14.7,version difference,computed ROE retained for analytics; source value retained only for display
+ADANIGREEN,Mar 2022,ROCE,7.2485,96.5,formula discrepancy,computed ROCE differs from company-level source display value by 89.2515 percentage points
+ADANIGREEN,Mar 2023,ROCE,9.1618,96.5,formula discrepancy,computed ROCE differs from company-level source display value by 87.3382 percentage points
+ADANIGREEN,Mar 2024,ROCE,11.4872,96.5,formula discrepancy,computed ROCE differs from company-level source display value by 85.0128 percentage points
+ADANIPORTS,Mar 2013,ROE,25.6334,18.1,version difference,computed ROE retained for analytics; source value retained only for display
+ADANIPORTS,Mar 2018,ROCE,18.4896,12.9,version difference,computed ROCE differs from company-level source display value by 5.5896 percentage points
+ADANIPORTS,Mar 2022,ROE,11.8433,18.1,version difference,computed ROE retained for analytics; source value retained only for display
+ADANIPORTS,Mar 2023,ROE,11.8773,18.1,version difference,computed ROE retained for analytics; source value retained only for display
+ADANIPOWER,Mar 2013,ROCE,2.5495,32.2,formula discrepancy,computed ROCE differs from company-level source display value by 29.6505 percentage points
+ADANIPOWER,Mar 2013,ROE,-53.4591,57.1,data source issue,computed ROE retained for analytics; source value retained only for display
+ADANIPOWER,Mar 2014,ROCE,9.3307,32.2,formula discrepancy,computed ROCE differs from company-level source display value by 22.8693 percentage points
+ADANIPOWER,Mar 2014,ROE,-4.4475,57.1,data source issue,computed ROE retained for analytics; source value retained only for display
+ADANIPOWER,Mar 2015,ROCE,11.6234,32.2,formula discrepancy,computed ROCE differs from company-level source display value by 20.5766 percentage points
+ADANIPOWER,Mar 2015,ROE,-14.2533,57.1,data source issue,computed ROE retained for analytics; source value retained only for display
+ADANIPOWER,Mar 2016,ROCE,14.2881,32.2,formula discrepancy,computed ROCE differs from company-level source display value by 17.9119 percentage points
+ADANIPOWER,Mar 2016,ROE,7.3781,57.1,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+ADANIPOWER,Mar 2017,ROCE,4.1706,32.2,formula discrepancy,computed ROCE differs from company-level source display value by 28.0294 percentage points
+ADANIPOWER,Mar 2017,ROE,-205.8000,57.1,data source issue,computed ROE retained for analytics; source value retained only for display
+ADANIPOWER,Mar 2018,ROCE,11.5219,32.2,formula discrepancy,computed ROCE differs from company-level source display value by 20.6781 percentage points
+ADANIPOWER,Mar 2018,ROE,-236.5579,57.1,data source issue,computed ROE retained for analytics; source value retained only for display
+ADANIPOWER,Mar 2019,ROCE,13.5870,32.2,formula discrepancy,computed ROCE differs from company-level source display value by 18.6130 percentage points
+ADANIPOWER,Mar 2019,ROE,-12.7593,57.1,data source issue,computed ROE retained for analytics; source value retained only for display
+ADANIPOWER,Mar 2020,ROCE,9.8200,32.2,formula discrepancy,computed ROCE differs from company-level source display value by 22.3800 percentage points
+ADANIPOWER,Mar 2020,ROE,-35.1026,57.1,data source issue,computed ROE retained for analytics; source value retained only for display
+ADANIPOWER,Mar 2021,ROCE,16.1461,32.2,formula discrepancy,computed ROCE differs from company-level source display value by 16.0539 percentage points
+ADANIPOWER,Mar 2021,ROE,9.6850,57.1,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+ADANIPOWER,Mar 2022,ROCE,20.3973,32.2,formula discrepancy,computed ROCE differs from company-level source display value by 11.8027 percentage points
+ADANIPOWER,Mar 2022,ROE,26.6132,57.1,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+ADANIPOWER,Mar 2023,ROCE,19.8156,32.2,formula discrepancy,computed ROCE differs from company-level source display value by 12.3844 percentage points
+ADANIPOWER,Mar 2023,ROE,35.9051,57.1,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+ADANIPOWER,Mar 2024,ROE,48.2767,57.1,version difference,computed ROE retained for analytics; source value retained only for display
+AMBUJACEM,Dec 2012,ROCE,28.7005,12.8,formula discrepancy,computed ROCE differs from company-level source display value by 15.9005 percentage points
+AMBUJACEM,Dec 2012,ROE,14.6868,9.24,version difference,computed ROE retained for analytics; source value retained only for display
+AMBUJACEM,Dec 2013,ROCE,21.6509,12.8,version difference,computed ROCE differs from company-level source display value by 8.8509 percentage points
+AMBUJACEM,Dec 2014,ROCE,23.2878,12.8,formula discrepancy,computed ROCE differs from company-level source display value by 10.4878 percentage points
+AMBUJACEM,Dec 2014,ROE,14.7666,9.24,version difference,computed ROE retained for analytics; source value retained only for display
+AMBUJACEM,Dec 2015,ROCE,18.3873,12.8,version difference,computed ROCE differs from company-level source display value by 5.5873 percentage points
+AMBUJACEM,Dec 2016,ROCE,18.2469,12.8,version difference,computed ROCE differs from company-level source display value by 5.4469 percentage points
+AMBUJACEM,Dec 2017,ROCE,20.2600,12.8,version difference,computed ROCE differs from company-level source display value by 7.4600 percentage points
+AMBUJACEM,Dec 2018,ROCE,18.9335,12.8,version difference,computed ROCE differs from company-level source display value by 6.1335 percentage points
+AMBUJACEM,Dec 2019,ROCE,21.5515,12.8,version difference,computed ROCE differs from company-level source display value by 8.7515 percentage points
+AMBUJACEM,Dec 2020,ROCE,22.7915,12.8,version difference,computed ROCE differs from company-level source display value by 9.9915 percentage points
+AMBUJACEM,Dec 2021,ROCE,25.0165,12.8,formula discrepancy,computed ROCE differs from company-level source display value by 12.2165 percentage points
+AMBUJACEM,Dec 2021,ROE,14.6367,9.24,version difference,computed ROE retained for analytics; source value retained only for display
+AMBUJACEM,Mar 2024,ROCE,18.5055,12.8,version difference,computed ROCE differs from company-level source display value by 5.7055 percentage points
+APOLLOHOSP,Mar 2016,ROE,7.0528,13.81,version difference,computed ROE retained for analytics; source value retained only for display
+APOLLOHOSP,Mar 2017,ROE,3.9529,13.81,version difference,computed ROE retained for analytics; source value retained only for display
+APOLLOHOSP,Mar 2018,ROE,1.8450,13.81,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+APOLLOHOSP,Mar 2019,ROE,5.9988,13.81,version difference,computed ROE retained for analytics; source value retained only for display
+APOLLOHOSP,Mar 2020,ROCE,26.1390,17.2,version difference,computed ROCE differs from company-level source display value by 8.9390 percentage points
+APOLLOHOSP,Mar 2021,ROE,2.9763,13.81,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+APOLLOHOSP,Mar 2022,ROCE,26.3853,17.2,version difference,computed ROCE differs from company-level source display value by 9.1853 percentage points
+APOLLOHOSP,Mar 2022,ROE,19.7048,13.81,version difference,computed ROE retained for analytics; source value retained only for display
+ASIANPAINT,Mar 2013,ROCE,50.9216,41.75,version difference,computed ROCE differs from company-level source display value by 9.1716 percentage points
+ASIANPAINT,Mar 2014,ROCE,49.6269,41.75,version difference,computed ROCE differs from company-level source display value by 7.8769 percentage points
+ASIANPAINT,Mar 2018,ROE,24.9465,31.45,version difference,computed ROE retained for analytics; source value retained only for display
+ASIANPAINT,Mar 2019,ROE,23.3133,31.45,version difference,computed ROE retained for analytics; source value retained only for display
+ASIANPAINT,Mar 2021,ROE,25.0429,31.45,version difference,computed ROE retained for analytics; source value retained only for display
+ASIANPAINT,Mar 2022,ROCE,33.1190,41.75,version difference,computed ROCE differs from company-level source display value by 8.6310 percentage points
+ASIANPAINT,Mar 2022,ROE,22.3357,31.45,version difference,computed ROE retained for analytics; source value retained only for display
+ASIANPAINT,Mar 2023,ROE,26.2319,31.45,version difference,computed ROE retained for analytics; source value retained only for display
+ATGL,Mar 2019,ROCE,34.3583,21.2,formula discrepancy,computed ROCE differs from company-level source display value by 13.1583 percentage points
+ATGL,Mar 2020,ROCE,33.6493,21.2,formula discrepancy,computed ROCE differs from company-level source display value by 12.4493 percentage points
+ATGL,Mar 2020,ROE,29.6397,20.5,version difference,computed ROE retained for analytics; source value retained only for display
+ATGL,Mar 2021,ROCE,29.8011,21.2,version difference,computed ROCE differs from company-level source display value by 8.6011 percentage points
+AXISBANK,Mar 2017,ROE,6.5254,18.4,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+AXISBANK,Mar 2018,ROE,0.4299,18.4,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+AXISBANK,Mar 2019,ROE,6.8980,18.4,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+AXISBANK,Mar 2020,ROE,1.8844,18.4,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+AXISBANK,Mar 2021,ROE,6.3594,18.4,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+AXISBANK,Mar 2022,ROE,11.0138,18.4,version difference,computed ROE retained for analytics; source value retained only for display
+AXISBANK,Mar 2023,ROE,7.3817,18.4,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+BAJAJ-AUTO,Mar 2013,ROCE,54.3454,33.5,formula discrepancy,computed ROCE differs from company-level source display value by 20.8454 percentage points
+BAJAJ-AUTO,Mar 2013,ROE,38.8469,26.5,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+BAJAJ-AUTO,Mar 2014,ROCE,47.3010,33.5,formula discrepancy,computed ROCE differs from company-level source display value by 13.8010 percentage points
+BAJAJ-AUTO,Mar 2014,ROE,33.2448,26.5,version difference,computed ROE retained for analytics; source value retained only for display
+BAJAJ-AUTO,Mar 2015,ROCE,38.8686,33.5,version difference,computed ROCE differs from company-level source display value by 5.3686 percentage points
+BAJAJ-AUTO,Mar 2016,ROCE,42.3469,33.5,version difference,computed ROCE differs from company-level source display value by 8.8469 percentage points
+BAJAJ-AUTO,Mar 2018,ROE,20.6561,26.5,version difference,computed ROE retained for analytics; source value retained only for display
+BAJAJ-AUTO,Mar 2019,ROE,21.2112,26.5,version difference,computed ROE retained for analytics; source value retained only for display
+BAJAJ-AUTO,Mar 2021,ROCE,23.7570,33.5,version difference,computed ROCE differs from company-level source display value by 9.7430 percentage points
+BAJAJ-AUTO,Mar 2021,ROE,17.8088,26.5,version difference,computed ROE retained for analytics; source value retained only for display
+BAJAJ-AUTO,Mar 2022,ROCE,26.4492,33.5,version difference,computed ROCE differs from company-level source display value by 7.0508 percentage points
+BAJAJ-AUTO,Mar 2022,ROE,20.6504,26.5,version difference,computed ROE retained for analytics; source value retained only for display
+BAJAJ-AUTO,Mar 2023,ROCE,27.7013,33.5,version difference,computed ROCE differs from company-level source display value by 5.7987 percentage points
+BAJAJ-AUTO,Mar 2023,ROE,20.6389,26.5,version difference,computed ROE retained for analytics; source value retained only for display
+BAJAJFINSV,Mar 2013,ROE,28.3773,11.72,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+BAJAJFINSV,Mar 2014,ROCE,15.5939,21.14,version difference,computed ROCE differs from company-level source display value by 5.5461 percentage points
+BAJAJFINSV,Mar 2014,ROE,23.5288,11.72,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+BAJAJFINSV,Mar 2015,ROCE,14.7563,21.14,version difference,computed ROCE differs from company-level source display value by 6.3837 percentage points
+BAJAJFINSV,Mar 2015,ROE,21.7242,11.72,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+BAJAJFINSV,Mar 2016,ROCE,13.5700,21.14,version difference,computed ROCE differs from company-level source display value by 7.5700 percentage points
+BAJAJFINSV,Mar 2016,ROE,20.4059,11.72,version difference,computed ROE retained for analytics; source value retained only for display
+BAJAJFINSV,Mar 2017,ROCE,13.5226,21.14,version difference,computed ROCE differs from company-level source display value by 7.6174 percentage points
+BAJAJFINSV,Mar 2017,ROE,21.3609,11.72,version difference,computed ROE retained for analytics; source value retained only for display
+BAJAJFINSV,Mar 2018,ROCE,12.5194,21.14,version difference,computed ROCE differs from company-level source display value by 8.6206 percentage points
+BAJAJFINSV,Mar 2018,ROE,20.3876,11.72,version difference,computed ROE retained for analytics; source value retained only for display
+BAJAJFINSV,Mar 2019,ROCE,12.1779,21.14,version difference,computed ROCE differs from company-level source display value by 8.9621 percentage points
+BAJAJFINSV,Mar 2019,ROE,22.6369,11.72,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+BAJAJFINSV,Mar 2020,ROCE,11.5182,21.14,version difference,computed ROCE differs from company-level source display value by 9.6218 percentage points
+BAJAJFINSV,Mar 2020,ROE,19.1489,11.72,version difference,computed ROE retained for analytics; source value retained only for display
+BAJAJFINSV,Mar 2021,ROCE,11.9507,21.14,version difference,computed ROCE differs from company-level source display value by 9.1893 percentage points
+BAJAJFINSV,Mar 2021,ROE,20.5610,11.72,version difference,computed ROE retained for analytics; source value retained only for display
+BAJAJFINSV,Mar 2022,ROCE,10.6555,21.14,formula discrepancy,computed ROCE differs from company-level source display value by 10.4845 percentage points
+BAJAJFINSV,Mar 2022,ROE,20.6574,11.72,version difference,computed ROE retained for analytics; source value retained only for display
+BAJAJFINSV,Mar 2023,ROCE,11.5471,21.14,version difference,computed ROCE differs from company-level source display value by 9.5929 percentage points
+BAJAJFINSV,Mar 2023,ROE,26.3107,11.72,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+BAJAJFINSV,Mar 2024,ROCE,11.7053,21.14,version difference,computed ROCE differs from company-level source display value by 9.4347 percentage points
+BAJAJFINSV,Mar 2024,ROE,25.8504,11.72,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+BAJAJHLDNG,Mar 2013,ROCE,3.1416,13.1,version difference,computed ROCE differs from company-level source display value by 9.9584 percentage points
+BAJAJHLDNG,Mar 2014,ROCE,3.3753,13.1,version difference,computed ROCE differs from company-level source display value by 9.7247 percentage points
+BAJAJHLDNG,Mar 2015,ROCE,3.8752,13.1,version difference,computed ROCE differs from company-level source display value by 9.2248 percentage points
+BAJAJHLDNG,Mar 2016,ROCE,2.8510,13.1,formula discrepancy,computed ROCE differs from company-level source display value by 10.2490 percentage points
+BAJAJHLDNG,Mar 2017,ROCE,3.5694,13.1,version difference,computed ROCE differs from company-level source display value by 9.5306 percentage points
+BAJAJHLDNG,Mar 2022,ROE,9.6307,14.8,version difference,computed ROE retained for analytics; source value retained only for display
+BAJFINANCE,Mar 2015,ROCE,5.6493,11.9,version difference,computed ROCE differs from company-level source display value by 6.2507 percentage points
+BAJFINANCE,Mar 2016,ROCE,5.3563,11.9,version difference,computed ROCE differs from company-level source display value by 6.5437 percentage points
+BAJFINANCE,Mar 2017,ROCE,5.5718,11.9,version difference,computed ROCE differs from company-level source display value by 6.3282 percentage points
+BAJFINANCE,Mar 2018,ROCE,5.0312,11.9,version difference,computed ROCE differs from company-level source display value by 6.8688 percentage points
+BAJFINANCE,Mar 2018,ROE,15.7496,22.1,version difference,computed ROE retained for analytics; source value retained only for display
+BAJFINANCE,Mar 2019,ROCE,4.5249,11.9,version difference,computed ROCE differs from company-level source display value by 7.3751 percentage points
+BAJFINANCE,Mar 2020,ROCE,5.6669,11.9,version difference,computed ROCE differs from company-level source display value by 6.2331 percentage points
+BAJFINANCE,Mar 2020,ROE,16.2831,22.1,version difference,computed ROE retained for analytics; source value retained only for display
+BAJFINANCE,Mar 2021,ROCE,6.4449,11.9,version difference,computed ROCE differs from company-level source display value by 5.4551 percentage points
+BAJFINANCE,Mar 2021,ROE,11.9725,22.1,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+BAJFINANCE,Mar 2022,ROCE,5.7005,11.9,version difference,computed ROCE differs from company-level source display value by 6.1995 percentage points
+BAJFINANCE,Mar 2022,ROE,16.0776,22.1,version difference,computed ROE retained for analytics; source value retained only for display
+BAJFINANCE,Mar 2023,ROCE,4.6971,11.9,version difference,computed ROCE differs from company-level source display value by 7.2029 percentage points
+BAJFINANCE,Mar 2024,ROCE,4.3603,11.9,version difference,computed ROCE differs from company-level source display value by 7.5397 percentage points
+BANKBARODA,Mar 2015,ROE,9.4007,16.7,version difference,computed ROE retained for analytics; source value retained only for display
+BANKBARODA,Mar 2016,ROE,-11.8415,16.7,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+BANKBARODA,Mar 2017,ROE,4.3072,16.7,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+BANKBARODA,Mar 2018,ROE,-3.9428,16.7,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+BANKBARODA,Mar 2019,ROE,2.1202,16.7,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+BANKBARODA,Mar 2020,ROE,1.2890,16.7,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+BANKBARODA,Mar 2021,ROE,1.9663,16.7,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+BANKBARODA,Mar 2022,ROE,8.6351,16.7,version difference,computed ROE retained for analytics; source value retained only for display
+BEL,Mar 2013,ROCE,4303.3333,34.6,formula discrepancy,computed ROCE differs from company-level source display value by 4268.7333 percentage points
+BEL,Mar 2013,ROE,15183.3333,26.3,data source issue,computed ROE retained for analytics; source value retained only for display
+BEL,Mar 2014,ROCE,4867.8571,34.6,formula discrepancy,computed ROCE differs from company-level source display value by 4833.2571 percentage points
+BEL,Mar 2014,ROE,13600.0000,26.3,data source issue,computed ROE retained for analytics; source value retained only for display
+BEL,Mar 2015,ROCE,5109.0909,34.6,formula discrepancy,computed ROCE differs from company-level source display value by 5074.4909 percentage points
+BEL,Mar 2015,ROE,17100.0000,26.3,data source issue,computed ROE retained for analytics; source value retained only for display
+BEL,Mar 2016,ROCE,5313.5135,34.6,formula discrepancy,computed ROCE differs from company-level source display value by 5278.9135 percentage points
+BEL,Mar 2016,ROE,11141.6667,26.3,data source issue,computed ROE retained for analytics; source value retained only for display
+BEL,Mar 2017,ROCE,5027.2727,34.6,formula discrepancy,computed ROCE differs from company-level source display value by 4992.6727 percentage points
+BEL,Mar 2017,ROE,10153.3333,26.3,data source issue,computed ROE retained for analytics; source value retained only for display
+BEL,Mar 2018,ROCE,2829.1139,34.6,formula discrepancy,computed ROCE differs from company-level source display value by 2794.5139 percentage points
+BEL,Mar 2018,ROE,4616.1290,26.3,data source issue,computed ROE retained for analytics; source value retained only for display
+BEL,Mar 2019,ROCE,3106.2500,34.6,formula discrepancy,computed ROCE differs from company-level source display value by 3071.6500 percentage points
+BEL,Mar 2019,ROE,3851.0204,26.3,data source issue,computed ROE retained for analytics; source value retained only for display
+BEL,Mar 2020,ROCE,2886.8687,34.6,formula discrepancy,computed ROCE differs from company-level source display value by 2852.2687 percentage points
+BEL,Mar 2020,ROE,3318.1818,26.3,data source issue,computed ROE retained for analytics; source value retained only for display
+BEL,Mar 2021,ROCE,3091.6667,34.6,formula discrepancy,computed ROCE differs from company-level source display value by 3057.0667 percentage points
+BEL,Mar 2021,ROE,3559.3220,26.3,data source issue,computed ROE retained for analytics; source value retained only for display
+BEL,Mar 2022,ROCE,2815.7480,34.6,formula discrepancy,computed ROCE differs from company-level source display value by 2781.1480 percentage points
+BEL,Mar 2022,ROE,3478.2609,26.3,data source issue,computed ROE retained for analytics; source value retained only for display
+BEL,Mar 2023,ROCE,3834.2105,34.6,formula discrepancy,computed ROCE differs from company-level source display value by 3799.6105 percentage points
+BEL,Mar 2023,ROE,3981.3333,26.3,data source issue,computed ROE retained for analytics; source value retained only for display
+BEL,Mar 2024,ROCE,4504.7244,34.6,formula discrepancy,computed ROCE differs from company-level source display value by 4470.1244 percentage points
+BEL,Mar 2024,ROE,4744.0476,26.3,data source issue,computed ROE retained for analytics; source value retained only for display
+BHARTIARTL,Mar 2013,ROCE,20.6043,13.1,version difference,computed ROCE differs from company-level source display value by 7.5043 percentage points
+BHARTIARTL,Mar 2013,ROE,4.5050,14.9,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+BHARTIARTL,Mar 2014,ROCE,21.6679,13.1,version difference,computed ROCE differs from company-level source display value by 8.5679 percentage points
+BHARTIARTL,Mar 2014,ROE,5.0522,14.9,version difference,computed ROE retained for analytics; source value retained only for display
+BHARTIARTL,Mar 2015,ROCE,28.2851,13.1,formula discrepancy,computed ROCE differs from company-level source display value by 15.1851 percentage points
+BHARTIARTL,Mar 2016,ROCE,23.2009,13.1,formula discrepancy,computed ROCE differs from company-level source display value by 10.1009 percentage points
+BHARTIARTL,Mar 2017,ROCE,21.1983,13.1,version difference,computed ROCE differs from company-level source display value by 8.0983 percentage points
+BHARTIARTL,Mar 2017,ROE,6.2870,14.9,version difference,computed ROE retained for analytics; source value retained only for display
+BHARTIARTL,Mar 2018,ROE,3.1409,14.9,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+BHARTIARTL,Mar 2019,ROE,2.3634,14.9,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+BHARTIARTL,Mar 2020,ROCE,-0.5169,13.1,formula discrepancy,computed ROCE differs from company-level source display value by 13.6169 percentage points
+BHARTIARTL,Mar 2020,ROE,-39.7485,14.9,data source issue,computed ROE retained for analytics; source value retained only for display
+BHARTIARTL,Mar 2021,ROCE,18.5192,13.1,version difference,computed ROCE differs from company-level source display value by 5.4192 percentage points
+BHARTIARTL,Mar 2021,ROE,-20.9726,14.9,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+BHARTIARTL,Mar 2022,ROCE,26.3258,13.1,formula discrepancy,computed ROCE differs from company-level source display value by 13.2258 percentage points
+BHARTIARTL,Mar 2023,ROCE,23.8133,13.1,formula discrepancy,computed ROCE differs from company-level source display value by 10.7133 percentage points
+BHARTIARTL,Mar 2024,ROCE,25.1044,13.1,formula discrepancy,computed ROCE differs from company-level source display value by 12.0044 percentage points
+BHEL,Mar 2013,ROCE,31.9277,3.28,formula discrepancy,computed ROCE differs from company-level source display value by 28.6477 percentage points
+BHEL,Mar 2013,ROE,21.9091,1.05,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+BHEL,Mar 2014,ROCE,16.3638,3.28,formula discrepancy,computed ROCE differs from company-level source display value by 13.0838 percentage points
+BHEL,Mar 2014,ROE,10.5574,1.05,version difference,computed ROE retained for analytics; source value retained only for display
+BHEL,Mar 2015,ROCE,9.3141,3.28,version difference,computed ROCE differs from company-level source display value by 6.0341 percentage points
+BHEL,Mar 2020,ROE,-5.1221,1.05,version difference,computed ROE retained for analytics; source value retained only for display
+BHEL,Mar 2021,ROCE,-8.5860,3.28,formula discrepancy,computed ROCE differs from company-level source display value by 11.8660 percentage points
+BHEL,Mar 2021,ROE,-10.3914,1.05,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+BOSCHLTD,Dec 2012,ROCE,29.6226,20.6,version difference,computed ROCE differs from company-level source display value by 9.0226 percentage points
+BOSCHLTD,Mar 2015,ROCE,33.7624,20.6,formula discrepancy,computed ROCE differs from company-level source display value by 13.1624 percentage points
+BOSCHLTD,Mar 2016,ROCE,26.0929,20.6,version difference,computed ROCE differs from company-level source display value by 5.4929 percentage points
+BOSCHLTD,Mar 2017,ROCE,32.6742,20.6,formula discrepancy,computed ROCE differs from company-level source display value by 12.0742 percentage points
+BOSCHLTD,Mar 2019,ROCE,30.1742,20.6,version difference,computed ROCE differs from company-level source display value by 9.5742 percentage points
+BOSCHLTD,Mar 2020,ROCE,14.7474,20.6,version difference,computed ROCE differs from company-level source display value by 5.8526 percentage points
+BOSCHLTD,Mar 2020,ROE,7.0119,16.0,version difference,computed ROE retained for analytics; source value retained only for display
+BOSCHLTD,Mar 2021,ROCE,9.3348,20.6,formula discrepancy,computed ROCE differs from company-level source display value by 11.2652 percentage points
+BOSCHLTD,Mar 2021,ROE,4.9069,16.0,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+BOSCHLTD,Mar 2024,ROCE,30.2487,20.6,version difference,computed ROCE differs from company-level source display value by 9.6487 percentage points
+BPCL,Mar 2013,ROCE,16.4243,32.1,formula discrepancy,computed ROCE differs from company-level source display value by 15.6757 percentage points
+BPCL,Mar 2013,ROE,11.5410,41.9,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+BPCL,Mar 2014,ROCE,20.4556,32.1,formula discrepancy,computed ROCE differs from company-level source display value by 11.6444 percentage points
+BPCL,Mar 2014,ROE,20.8488,41.9,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+BPCL,Mar 2015,ROCE,24.7576,32.1,version difference,computed ROCE differs from company-level source display value by 7.3424 percentage points
+BPCL,Mar 2015,ROE,22.5246,41.9,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+BPCL,Mar 2016,ROE,29.1034,41.9,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+BPCL,Mar 2017,ROCE,24.8016,32.1,version difference,computed ROCE differs from company-level source display value by 7.2984 percentage points
+BPCL,Mar 2017,ROE,30.8479,41.9,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+BPCL,Mar 2018,ROCE,24.5618,32.1,version difference,computed ROCE differs from company-level source display value by 7.5382 percentage points
+BPCL,Mar 2018,ROE,26.7402,41.9,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+BPCL,Mar 2019,ROCE,21.6341,32.1,formula discrepancy,computed ROCE differs from company-level source display value by 10.4659 percentage points
+BPCL,Mar 2019,ROE,21.9992,41.9,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+BPCL,Mar 2020,ROCE,10.1639,32.1,formula discrepancy,computed ROCE differs from company-level source display value by 21.9361 percentage points
+BPCL,Mar 2020,ROE,10.0350,41.9,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+BPCL,Mar 2021,ROCE,26.3584,32.1,version difference,computed ROCE differs from company-level source display value by 5.7416 percentage points
+BPCL,Mar 2021,ROE,32.3406,41.9,version difference,computed ROE retained for analytics; source value retained only for display
+BPCL,Mar 2022,ROCE,20.6769,32.1,formula discrepancy,computed ROCE differs from company-level source display value by 11.4231 percentage points
+BPCL,Mar 2022,ROE,22.5065,41.9,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+BPCL,Mar 2023,ROCE,10.5250,32.1,formula discrepancy,computed ROCE differs from company-level source display value by 21.5750 percentage points
+BPCL,Mar 2023,ROE,3.9815,41.9,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+BPCL,Mar 2024,ROE,35.5113,41.9,version difference,computed ROE retained for analytics; source value retained only for display
+BRITANNIA,Mar 2013,ROE,46.5950,57.1,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+BRITANNIA,Mar 2014,ROCE,69.7257,48.9,formula discrepancy,computed ROCE differs from company-level source display value by 20.8257 percentage points
+BRITANNIA,Mar 2014,ROE,49.4987,57.1,version difference,computed ROE retained for analytics; source value retained only for display
+BRITANNIA,Mar 2015,ROCE,78.9928,48.9,formula discrepancy,computed ROCE differs from company-level source display value by 30.0928 percentage points
+BRITANNIA,Mar 2016,ROCE,60.2339,48.9,formula discrepancy,computed ROCE differs from company-level source display value by 11.3339 percentage points
+BRITANNIA,Mar 2016,ROE,39.4359,57.1,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+BRITANNIA,Mar 2017,ROE,32.8264,57.1,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+BRITANNIA,Mar 2018,ROE,29.4774,57.1,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+BRITANNIA,Mar 2019,ROE,27.1573,57.1,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+BRITANNIA,Mar 2020,ROCE,35.4486,48.9,formula discrepancy,computed ROCE differs from company-level source display value by 13.4514 percentage points
+BRITANNIA,Mar 2020,ROE,31.6602,57.1,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+BRITANNIA,Mar 2023,ROE,65.5348,57.1,version difference,computed ROE retained for analytics; source value retained only for display
+BRITANNIA,Mar 2024,ROCE,56.2438,48.9,version difference,computed ROCE differs from company-level source display value by 7.3438 percentage points
+CANBK,Mar 2013,ROE,11.8963,17.9,version difference,computed ROE retained for analytics; source value retained only for display
+CANBK,Mar 2014,ROE,8.8547,17.9,version difference,computed ROE retained for analytics; source value retained only for display
+CANBK,Mar 2015,ROE,9.0207,17.9,version difference,computed ROE retained for analytics; source value retained only for display
+CANBK,Mar 2016,ROE,-7.8217,17.9,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+CANBK,Mar 2017,ROE,4.0680,17.9,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+CANBK,Mar 2018,ROE,-10.4968,17.9,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+CANBK,Mar 2019,ROE,1.8467,17.9,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+CANBK,Mar 2020,ROE,-4.6619,17.9,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+CANBK,Mar 2021,ROE,4.7380,17.9,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+CANBK,Mar 2022,ROE,8.8020,17.9,version difference,computed ROE retained for analytics; source value retained only for display
+CHOLAFIN,Mar 2013,ROCE,4.0996,10.4,version difference,computed ROCE differs from company-level source display value by 6.3004 percentage points
+CHOLAFIN,Mar 2014,ROCE,4.6656,10.4,version difference,computed ROCE differs from company-level source display value by 5.7344 percentage points
+CHOLAFIN,Mar 2015,ROCE,4.7735,10.4,version difference,computed ROCE differs from company-level source display value by 5.6265 percentage points
+CHOLAFIN,Mar 2016,ROCE,4.9092,10.4,version difference,computed ROCE differs from company-level source display value by 5.4908 percentage points
+CHOLAFIN,Mar 2017,ROCE,4.7446,10.4,version difference,computed ROCE differs from company-level source display value by 5.6554 percentage points
+CHOLAFIN,Mar 2018,ROCE,3.3989,10.4,version difference,computed ROCE differs from company-level source display value by 7.0011 percentage points
+CHOLAFIN,Mar 2019,ROCE,2.9221,10.4,version difference,computed ROCE differs from company-level source display value by 7.4779 percentage points
+CHOLAFIN,Mar 2020,ROCE,3.8620,10.4,version difference,computed ROCE differs from company-level source display value by 6.5380 percentage points
+CHOLAFIN,Mar 2020,ROE,12.8537,20.2,version difference,computed ROE retained for analytics; source value retained only for display
+CHOLAFIN,Mar 2021,ROCE,4.0025,10.4,version difference,computed ROCE differs from company-level source display value by 6.3975 percentage points
+CHOLAFIN,Mar 2022,ROCE,3.6507,10.4,version difference,computed ROCE differs from company-level source display value by 6.7493 percentage points
+CHOLAFIN,Mar 2023,ROCE,3.2658,10.4,version difference,computed ROCE differs from company-level source display value by 7.1342 percentage points
+CHOLAFIN,Mar 2024,ROCE,3.5108,10.4,version difference,computed ROCE differs from company-level source display value by 6.8892 percentage points
+CIPLA,Mar 2013,ROCE,61.0054,22.8,formula discrepancy,computed ROCE differs from company-level source display value by 38.2054 percentage points
+CIPLA,Mar 2014,ROCE,71.2187,22.8,formula discrepancy,computed ROCE differs from company-level source display value by 48.4187 percentage points
+CIPLA,Mar 2015,ROCE,73.5866,22.8,formula discrepancy,computed ROCE differs from company-level source display value by 50.7866 percentage points
+CIPLA,Mar 2015,ROE,11.3775,16.8,version difference,computed ROE retained for analytics; source value retained only for display
+CIPLA,Mar 2016,ROCE,67.7552,22.8,formula discrepancy,computed ROCE differs from company-level source display value by 44.9552 percentage points
+CIPLA,Mar 2017,ROCE,71.5315,22.8,formula discrepancy,computed ROCE differs from company-level source display value by 48.7315 percentage points
+CIPLA,Mar 2017,ROE,8.2510,16.8,version difference,computed ROE retained for analytics; source value retained only for display
+CIPLA,Mar 2018,ROCE,67.3760,22.8,formula discrepancy,computed ROCE differs from company-level source display value by 44.5760 percentage points
+CIPLA,Mar 2018,ROE,9.9585,16.8,version difference,computed ROE retained for analytics; source value retained only for display
+CIPLA,Mar 2019,ROCE,68.7293,22.8,formula discrepancy,computed ROCE differs from company-level source display value by 45.9293 percentage points
+CIPLA,Mar 2019,ROE,9.9387,16.8,version difference,computed ROE retained for analytics; source value retained only for display
+CIPLA,Mar 2020,ROCE,75.0579,22.8,formula discrepancy,computed ROCE differs from company-level source display value by 52.2579 percentage points
+CIPLA,Mar 2020,ROE,9.5160,16.8,version difference,computed ROE retained for analytics; source value retained only for display
+CIPLA,Mar 2021,ROCE,73.3972,22.8,formula discrepancy,computed ROCE differs from company-level source display value by 50.5972 percentage points
+CIPLA,Mar 2022,ROCE,78.6957,22.8,formula discrepancy,computed ROCE differs from company-level source display value by 55.8957 percentage points
+CIPLA,Mar 2023,ROCE,73.3086,22.8,formula discrepancy,computed ROCE differs from company-level source display value by 50.5086 percentage points
+CIPLA,Mar 2024,ROCE,71.5459,22.8,formula discrepancy,computed ROCE differs from company-level source display value by 48.7459 percentage points
+COALINDIA,Mar 2013,ROCE,100.9342,63.6,formula discrepancy,computed ROCE differs from company-level source display value by 37.3342 percentage points
+COALINDIA,Mar 2013,ROE,35.8062,52.0,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+COALINDIA,Mar 2014,ROCE,124.1534,63.6,formula discrepancy,computed ROCE differs from company-level source display value by 60.5534 percentage points
+COALINDIA,Mar 2014,ROE,35.6381,52.0,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+COALINDIA,Mar 2015,ROCE,139.3489,63.6,formula discrepancy,computed ROCE differs from company-level source display value by 75.7489 percentage points
+COALINDIA,Mar 2015,ROE,34.0173,52.0,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+COALINDIA,Mar 2016,ROCE,164.2179,63.6,formula discrepancy,computed ROCE differs from company-level source display value by 100.6179 percentage points
+COALINDIA,Mar 2016,ROE,40.9583,52.0,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+COALINDIA,Mar 2017,ROCE,238.7476,63.6,formula discrepancy,computed ROCE differs from company-level source display value by 175.1476 percentage points
+COALINDIA,Mar 2017,ROE,37.8497,52.0,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+COALINDIA,Mar 2018,ROCE,349.8204,63.6,formula discrepancy,computed ROCE differs from company-level source display value by 286.2204 percentage points
+COALINDIA,Mar 2018,ROE,34.8796,52.0,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+COALINDIA,Mar 2019,ROCE,260.2616,63.6,formula discrepancy,computed ROCE differs from company-level source display value by 196.6616 percentage points
+COALINDIA,Mar 2019,ROE,66.0140,52.0,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+COALINDIA,Mar 2020,ROCE,193.1072,63.6,formula discrepancy,computed ROCE differs from company-level source display value by 129.5072 percentage points
+COALINDIA,Mar 2021,ROCE,168.4331,63.6,formula discrepancy,computed ROCE differs from company-level source display value by 104.8331 percentage points
+COALINDIA,Mar 2021,ROE,34.7828,52.0,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+COALINDIA,Mar 2022,ROCE,182.2192,63.6,formula discrepancy,computed ROCE differs from company-level source display value by 118.6192 percentage points
+COALINDIA,Mar 2022,ROE,40.2800,52.0,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+COALINDIA,Mar 2023,ROCE,144.3091,63.6,formula discrepancy,computed ROCE differs from company-level source display value by 80.7091 percentage points
+COALINDIA,Mar 2024,ROCE,105.7511,63.6,formula discrepancy,computed ROCE differs from company-level source display value by 42.1511 percentage points
+COALINDIA,Mar 2024,ROE,45.1698,52.0,version difference,computed ROE retained for analytics; source value retained only for display
+DABUR,Mar 2013,ROCE,33.6414,22.3,formula discrepancy,computed ROCE differs from company-level source display value by 11.3414 percentage points
+DABUR,Mar 2013,ROE,36.5632,19.2,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+DABUR,Mar 2014,ROCE,38.2878,22.3,formula discrepancy,computed ROCE differs from company-level source display value by 15.9878 percentage points
+DABUR,Mar 2014,ROE,34.4880,19.2,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+DABUR,Mar 2015,ROCE,36.0568,22.3,formula discrepancy,computed ROCE differs from company-level source display value by 13.7568 percentage points
+DABUR,Mar 2015,ROE,31.8426,19.2,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+DABUR,Mar 2016,ROCE,34.8674,22.3,formula discrepancy,computed ROCE differs from company-level source display value by 12.5674 percentage points
+DABUR,Mar 2016,ROE,30.0647,19.2,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+DABUR,Mar 2017,ROCE,31.0546,22.3,version difference,computed ROCE differs from company-level source display value by 8.7546 percentage points
+DABUR,Mar 2017,ROE,26.4081,19.2,version difference,computed ROE retained for analytics; source value retained only for display
+DABUR,Mar 2018,ROCE,28.7176,22.3,version difference,computed ROCE differs from company-level source display value by 6.4176 percentage points
+DABUR,Mar 2019,ROCE,30.9904,22.3,version difference,computed ROCE differs from company-level source display value by 8.6904 percentage points
+DABUR,Mar 2019,ROE,25.6747,19.2,version difference,computed ROE retained for analytics; source value retained only for display
+DABUR,Mar 2020,ROCE,28.0163,22.3,version difference,computed ROCE differs from company-level source display value by 5.7163 percentage points
+DABUR,Mar 2021,ROCE,28.4718,22.3,version difference,computed ROCE differs from company-level source display value by 6.1718 percentage points
+DIVISLAB,Mar 2013,ROCE,33.9779,16.5,formula discrepancy,computed ROCE differs from company-level source display value by 17.4779 percentage points
+DIVISLAB,Mar 2013,ROE,24.0704,12.2,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+DIVISLAB,Mar 2014,ROCE,36.4185,16.5,formula discrepancy,computed ROCE differs from company-level source display value by 19.9185 percentage points
+DIVISLAB,Mar 2014,ROE,26.0796,12.2,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+DIVISLAB,Mar 2015,ROCE,34.3741,16.5,formula discrepancy,computed ROCE differs from company-level source display value by 17.8741 percentage points
+DIVISLAB,Mar 2015,ROE,24.3707,12.2,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+DIVISLAB,Mar 2016,ROCE,34.9712,16.5,formula discrepancy,computed ROCE differs from company-level source display value by 18.4712 percentage points
+DIVISLAB,Mar 2016,ROE,26.2287,12.2,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+DIVISLAB,Mar 2017,ROCE,28.2218,16.5,formula discrepancy,computed ROCE differs from company-level source display value by 11.7218 percentage points
+DIVISLAB,Mar 2017,ROE,19.7872,12.2,version difference,computed ROE retained for analytics; source value retained only for display
+DIVISLAB,Mar 2018,ROCE,22.9793,16.5,version difference,computed ROCE differs from company-level source display value by 6.4793 percentage points
+DIVISLAB,Mar 2019,ROCE,28.7130,16.5,formula discrepancy,computed ROCE differs from company-level source display value by 12.2130 percentage points
+DIVISLAB,Mar 2019,ROE,19.4480,12.2,version difference,computed ROE retained for analytics; source value retained only for display
+DIVISLAB,Mar 2020,ROCE,27.3779,16.5,formula discrepancy,computed ROCE differs from company-level source display value by 10.8779 percentage points
+DIVISLAB,Mar 2020,ROE,18.8372,12.2,version difference,computed ROE retained for analytics; source value retained only for display
+DIVISLAB,Mar 2021,ROCE,31.4409,16.5,formula discrepancy,computed ROCE differs from company-level source display value by 14.9409 percentage points
+DIVISLAB,Mar 2021,ROE,21.3448,12.2,version difference,computed ROE retained for analytics; source value retained only for display
+DIVISLAB,Mar 2022,ROCE,34.0692,16.5,formula discrepancy,computed ROCE differs from company-level source display value by 17.5692 percentage points
+DIVISLAB,Mar 2022,ROE,25.2387,12.2,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+DLF,Mar 2015,ROE,1.8525,6.95,version difference,computed ROE retained for analytics; source value retained only for display
+DLF,Mar 2016,ROE,1.2672,6.95,version difference,computed ROE retained for analytics; source value retained only for display
+DLF,Mar 2018,ROCE,22.9158,5.74,formula discrepancy,computed ROCE differs from company-level source display value by 17.1758 percentage points
+DLF,Mar 2018,ROE,12.6788,6.95,version difference,computed ROE retained for analytics; source value retained only for display
+DLF,Mar 2020,ROE,-1.7128,6.95,version difference,computed ROE retained for analytics; source value retained only for display
+DMART,Mar 2016,ROCE,25.1014,19.4,version difference,computed ROCE differs from company-level source display value by 5.7014 percentage points
+DMART,Mar 2016,ROE,21.0388,14.5,version difference,computed ROE retained for analytics; source value retained only for display
+DMART,Mar 2018,ROCE,28.2106,19.4,version difference,computed ROCE differs from company-level source display value by 8.8106 percentage points
+DMART,Mar 2019,ROCE,26.7377,19.4,version difference,computed ROCE differs from company-level source display value by 7.3377 percentage points
+DMART,Mar 2021,ROE,9.0200,14.5,version difference,computed ROE retained for analytics; source value retained only for display
+DRREDDY,Mar 2017,ROCE,15.3900,26.5,formula discrepancy,computed ROCE differs from company-level source display value by 11.1100 percentage points
+DRREDDY,Mar 2017,ROE,10.5366,21.4,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+DRREDDY,Mar 2018,ROCE,14.2039,26.5,formula discrepancy,computed ROCE differs from company-level source display value by 12.2961 percentage points
+DRREDDY,Mar 2018,ROE,7.5326,21.4,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+DRREDDY,Mar 2019,ROCE,19.9250,26.5,version difference,computed ROCE differs from company-level source display value by 6.5750 percentage points
+DRREDDY,Mar 2019,ROE,13.9047,21.4,version difference,computed ROE retained for analytics; source value retained only for display
+DRREDDY,Mar 2020,ROCE,17.6708,26.5,version difference,computed ROCE differs from company-level source display value by 8.8292 percentage points
+DRREDDY,Mar 2020,ROE,12.9880,21.4,version difference,computed ROE retained for analytics; source value retained only for display
+DRREDDY,Mar 2021,ROCE,20.3609,26.5,version difference,computed ROCE differs from company-level source display value by 6.1391 percentage points
+DRREDDY,Mar 2021,ROE,11.0651,21.4,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+DRREDDY,Mar 2022,ROCE,19.1317,26.5,version difference,computed ROCE differs from company-level source display value by 7.3683 percentage points
+DRREDDY,Mar 2022,ROE,11.3575,21.4,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+EICHERMOT,Dec 2012,ROCE,38.5827,31.1,version difference,computed ROCE differs from company-level source display value by 7.4827 percentage points
+EICHERMOT,Dec 2013,ROCE,37.7747,31.1,version difference,computed ROCE differs from company-level source display value by 6.6747 percentage points
+EICHERMOT,Dec 2014,ROCE,47.5136,31.1,formula discrepancy,computed ROCE differs from company-level source display value by 16.4136 percentage points
+EICHERMOT,Mar 2016,ROCE,54.8422,31.1,formula discrepancy,computed ROCE differs from company-level source display value by 23.7422 percentage points
+EICHERMOT,Mar 2016,ROE,36.6274,24.2,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+EICHERMOT,Mar 2017,ROCE,47.4620,31.1,formula discrepancy,computed ROCE differs from company-level source display value by 16.3620 percentage points
+EICHERMOT,Mar 2017,ROE,31.1880,24.2,version difference,computed ROE retained for analytics; source value retained only for display
+EICHERMOT,Mar 2018,ROCE,46.5813,31.1,formula discrepancy,computed ROCE differs from company-level source display value by 15.4813 percentage points
+EICHERMOT,Mar 2019,ROCE,39.5936,31.1,version difference,computed ROCE differs from company-level source display value by 8.4936 percentage points
+EICHERMOT,Mar 2020,ROE,18.3048,24.2,version difference,computed ROE retained for analytics; source value retained only for display
+EICHERMOT,Mar 2021,ROCE,19.4304,31.1,formula discrepancy,computed ROCE differs from company-level source display value by 11.6696 percentage points
+EICHERMOT,Mar 2021,ROE,11.7765,24.2,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+EICHERMOT,Mar 2022,ROCE,21.0286,31.1,formula discrepancy,computed ROCE differs from company-level source display value by 10.0714 percentage points
+EICHERMOT,Mar 2022,ROE,13.3011,24.2,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+GAIL,Mar 2016,ROE,5.1479,14.0,version difference,computed ROE retained for analytics; source value retained only for display
+GAIL,Mar 2017,ROE,8.5841,14.0,version difference,computed ROE retained for analytics; source value retained only for display
+GAIL,Mar 2019,ROCE,24.1706,14.7,version difference,computed ROCE differs from company-level source display value by 9.4706 percentage points
+GAIL,Mar 2020,ROCE,22.8159,14.7,version difference,computed ROCE differs from company-level source display value by 8.1159 percentage points
+GAIL,Mar 2020,ROE,19.3127,14.0,version difference,computed ROE retained for analytics; source value retained only for display
+GAIL,Mar 2022,ROCE,24.6638,14.7,version difference,computed ROCE differs from company-level source display value by 9.9638 percentage points
+GAIL,Mar 2022,ROE,19.1908,14.0,version difference,computed ROE retained for analytics; source value retained only for display
+GAIL,Mar 2023,ROE,8.6189,14.0,version difference,computed ROE retained for analytics; source value retained only for display
+GODREJCP,Mar 2013,ROCE,20.6102,26.49,version difference,computed ROCE differs from company-level source display value by 5.8798 percentage points
+GODREJCP,Mar 2013,ROE,25.5056,6.77,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+GODREJCP,Mar 2014,ROCE,20.0228,26.49,version difference,computed ROCE differs from company-level source display value by 6.4672 percentage points
+GODREJCP,Mar 2014,ROE,21.6954,6.77,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+GODREJCP,Mar 2015,ROCE,20.6602,26.49,version difference,computed ROCE differs from company-level source display value by 5.8298 percentage points
+GODREJCP,Mar 2015,ROE,22.6398,6.77,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+GODREJCP,Mar 2016,ROCE,19.4887,26.49,version difference,computed ROCE differs from company-level source display value by 7.0013 percentage points
+GODREJCP,Mar 2016,ROE,19.4750,6.77,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+GODREJCP,Mar 2017,ROCE,21.3157,26.49,version difference,computed ROCE differs from company-level source display value by 5.1743 percentage points
+GODREJCP,Mar 2017,ROE,24.6699,6.77,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+GODREJCP,Mar 2018,ROE,26.1106,6.77,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+GODREJCP,Mar 2019,ROE,32.2279,6.77,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+GODREJCP,Mar 2020,ROCE,19.0534,26.49,version difference,computed ROCE differs from company-level source display value by 7.4366 percentage points
+GODREJCP,Mar 2020,ROE,18.9542,6.77,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+GODREJCP,Mar 2021,ROCE,21.4279,26.49,version difference,computed ROCE differs from company-level source display value by 5.0621 percentage points
+GODREJCP,Mar 2021,ROE,18.2329,6.77,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+GODREJCP,Mar 2022,ROCE,18.7557,26.49,version difference,computed ROCE differs from company-level source display value by 7.7343 percentage points
+GODREJCP,Mar 2022,ROE,15.4292,6.77,version difference,computed ROE retained for analytics; source value retained only for display
+GODREJCP,Mar 2023,ROCE,17.1335,26.49,version difference,computed ROCE differs from company-level source display value by 9.3565 percentage points
+GODREJCP,Mar 2023,ROE,12.3387,6.77,version difference,computed ROE retained for analytics; source value retained only for display
+GODREJCP,Mar 2024,ROCE,4.7282,26.49,formula discrepancy,computed ROCE differs from company-level source display value by 21.7618 percentage points
+GODREJCP,Mar 2024,ROE,-4.4531,6.77,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+GRASIM,Mar 2013,ROCE,23.1041,9.3,formula discrepancy,computed ROCE differs from company-level source display value by 13.8041 percentage points
+GRASIM,Mar 2013,ROE,19.2196,6.9,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+GRASIM,Mar 2014,ROCE,17.5454,9.3,version difference,computed ROCE differs from company-level source display value by 8.2454 percentage points
+GRASIM,Mar 2014,ROE,13.6664,6.9,version difference,computed ROE retained for analytics; source value retained only for display
+GRASIM,Mar 2015,ROCE,16.1791,9.3,version difference,computed ROCE differs from company-level source display value by 6.8791 percentage points
+GRASIM,Mar 2016,ROCE,18.1074,9.3,version difference,computed ROCE differs from company-level source display value by 8.8074 percentage points
+GRASIM,Mar 2016,ROE,12.5962,6.9,version difference,computed ROE retained for analytics; source value retained only for display
+GRASIM,Mar 2017,ROCE,20.8448,9.3,formula discrepancy,computed ROCE differs from company-level source display value by 11.5448 percentage points
+GRASIM,Mar 2017,ROE,13.5279,6.9,version difference,computed ROE retained for analytics; source value retained only for display
+GRASIM,Mar 2022,ROCE,14.6760,9.3,version difference,computed ROCE differs from company-level source display value by 5.3760 percentage points
+GRASIM,Mar 2022,ROE,14.8034,6.9,version difference,computed ROE retained for analytics; source value retained only for display
+GRASIM,Mar 2023,ROE,14.0687,6.9,version difference,computed ROE retained for analytics; source value retained only for display
+HAL,Mar 2016,ROCE,2953.6232,38.9,formula discrepancy,computed ROCE differs from company-level source display value by 2914.7232 percentage points
+HAL,Mar 2016,ROE,1665.0000,28.9,data source issue,computed ROE retained for analytics; source value retained only for display
+HAL,Mar 2017,ROCE,3170.3704,38.9,formula discrepancy,computed ROCE differs from company-level source display value by 3131.4704 percentage points
+HAL,Mar 2017,ROE,1966.9173,28.9,data source issue,computed ROE retained for analytics; source value retained only for display
+HAL,Mar 2018,ROCE,3173.6842,38.9,formula discrepancy,computed ROCE differs from company-level source display value by 3134.7842 percentage points
+HAL,Mar 2018,ROE,1528.4615,28.9,data source issue,computed ROE retained for analytics; source value retained only for display
+HAL,Mar 2019,ROCE,3507.0922,38.9,formula discrepancy,computed ROCE differs from company-level source display value by 3468.1922 percentage points
+HAL,Mar 2019,ROE,1763.9098,28.9,data source issue,computed ROE retained for analytics; source value retained only for display
+HAL,Mar 2020,ROCE,3782.1429,38.9,formula discrepancy,computed ROCE differs from company-level source display value by 3743.2429 percentage points
+HAL,Mar 2020,ROE,2059.4203,28.9,data source issue,computed ROE retained for analytics; source value retained only for display
+HAL,Mar 2021,ROCE,3800.6667,38.9,formula discrepancy,computed ROCE differs from company-level source display value by 3761.7667 percentage points
+HAL,Mar 2021,ROE,2249.3056,28.9,data source issue,computed ROE retained for analytics; source value retained only for display
+HAL,Mar 2022,ROCE,3882.4242,38.9,formula discrepancy,computed ROCE differs from company-level source display value by 3843.5242 percentage points
+HAL,Mar 2022,ROE,3324.1830,28.9,data source issue,computed ROE retained for analytics; source value retained only for display
+HAL,Mar 2023,ROCE,3723.6607,38.9,formula discrepancy,computed ROCE differs from company-level source display value by 3684.7607 percentage points
+HAL,Mar 2023,ROE,3283.0508,28.9,data source issue,computed ROE retained for analytics; source value retained only for display
+HAL,Mar 2024,ROCE,3617.3913,38.9,formula discrepancy,computed ROCE differs from company-level source display value by 3578.4913 percentage points
+HAL,Mar 2024,ROE,3816.5829,28.9,data source issue,computed ROE retained for analytics; source value retained only for display
+HAVELLS,Mar 2013,ROCE,36.9637,24.4,formula discrepancy,computed ROCE differs from company-level source display value by 12.5637 percentage points
+HAVELLS,Mar 2013,ROE,40.2913,18.0,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+HAVELLS,Mar 2014,ROCE,29.8529,24.4,version difference,computed ROCE differs from company-level source display value by 5.4529 percentage points
+HAVELLS,Mar 2014,ROE,26.7707,18.0,version difference,computed ROE retained for analytics; source value retained only for display
+HAVELLS,Mar 2015,ROCE,35.8162,24.4,formula discrepancy,computed ROCE differs from company-level source display value by 11.4162 percentage points
+HAVELLS,Mar 2016,ROCE,55.2040,24.4,formula discrepancy,computed ROCE differs from company-level source display value by 30.8040 percentage points
+HAVELLS,Mar 2016,ROE,42.9468,18.0,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+HAVELLS,Mar 2019,ROCE,30.5918,24.4,version difference,computed ROCE differs from company-level source display value by 6.1918 percentage points
+HAVELLS,Mar 2021,ROCE,31.1688,24.4,version difference,computed ROCE differs from company-level source display value by 6.7688 percentage points
+HCLTECH,Jun 2013,ROCE,42.3142,29.6,formula discrepancy,computed ROCE differs from company-level source display value by 12.7142 percentage points
+HCLTECH,Jun 2013,ROE,30.6898,23.3,version difference,computed ROE retained for analytics; source value retained only for display
+HCLTECH,Jun 2014,ROCE,42.3571,29.6,formula discrepancy,computed ROCE differs from company-level source display value by 12.7571 percentage points
+HCLTECH,Jun 2014,ROE,33.3913,23.3,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+HCLTECH,Jun 2015,ROCE,38.6459,29.6,version difference,computed ROCE differs from company-level source display value by 9.0459 percentage points
+HCLTECH,Jun 2015,ROE,30.3088,23.3,version difference,computed ROE retained for analytics; source value retained only for display
+HCLTECH,Mar 2024,ROCE,34.7104,29.6,version difference,computed ROCE differs from company-level source display value by 5.1104 percentage points
+HDFCBANK,Mar 2023,ROCE,2.5965,7.67,version difference,computed ROCE differs from company-level source display value by 5.0735 percentage points
+HDFCLIFE,Mar 2013,ROCE,1012.6402,6.61,formula discrepancy,computed ROCE differs from company-level source display value by 1006.0302 percentage points
+HDFCLIFE,Mar 2013,ROE,33.4331,11.4,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+HDFCLIFE,Mar 2014,ROCE,859.1805,6.61,formula discrepancy,computed ROCE differs from company-level source display value by 852.5705 percentage points
+HDFCLIFE,Mar 2014,ROE,37.6037,11.4,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+HDFCLIFE,Mar 2015,ROCE,1036.7572,6.61,formula discrepancy,computed ROCE differs from company-level source display value by 1030.1472 percentage points
+HDFCLIFE,Mar 2015,ROE,30.9327,11.4,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+HDFCLIFE,Mar 2016,ROCE,554.0445,6.61,formula discrepancy,computed ROCE differs from company-level source display value by 547.4345 percentage points
+HDFCLIFE,Mar 2016,ROE,26.3294,11.4,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+HDFCLIFE,Mar 2017,ROCE,775.6665,6.61,formula discrepancy,computed ROCE differs from company-level source display value by 769.0565 percentage points
+HDFCLIFE,Mar 2017,ROE,23.1835,11.4,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+HDFCLIFE,Mar 2018,ROCE,662.8905,6.61,formula discrepancy,computed ROCE differs from company-level source display value by 656.2805 percentage points
+HDFCLIFE,Mar 2018,ROE,23.5282,11.4,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+HDFCLIFE,Mar 2019,ROCE,667.1925,6.61,formula discrepancy,computed ROCE differs from company-level source display value by 660.5825 percentage points
+HDFCLIFE,Mar 2019,ROE,22.6515,11.4,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+HDFCLIFE,Mar 2020,ROCE,414.9111,6.61,formula discrepancy,computed ROCE differs from company-level source display value by 408.3011 percentage points
+HDFCLIFE,Mar 2020,ROE,19.0539,11.4,version difference,computed ROE retained for analytics; source value retained only for display
+HDFCLIFE,Mar 2021,ROCE,760.7792,6.61,formula discrepancy,computed ROCE differs from company-level source display value by 754.1692 percentage points
+HDFCLIFE,Mar 2022,ROCE,409.2081,6.61,formula discrepancy,computed ROCE differs from company-level source display value by 402.5981 percentage points
+HDFCLIFE,Mar 2023,ROCE,502.9549,6.61,formula discrepancy,computed ROCE differs from company-level source display value by 496.3449 percentage points
+HDFCLIFE,Mar 2024,ROCE,646.4652,6.61,formula discrepancy,computed ROCE differs from company-level source display value by 639.8552 percentage points
+HEROMOTOCO,Mar 2014,ROCE,367.9702,29.1,formula discrepancy,computed ROCE differs from company-level source display value by 338.8702 percentage points
+HEROMOTOCO,Mar 2014,ROE,37.3822,22.0,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+HEROMOTOCO,Mar 2015,ROCE,361.9127,29.1,formula discrepancy,computed ROCE differs from company-level source display value by 332.8127 percentage points
+HEROMOTOCO,Mar 2015,ROE,36.1468,22.0,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+HEROMOTOCO,Mar 2016,ROCE,265.2658,29.1,formula discrepancy,computed ROCE differs from company-level source display value by 236.1658 percentage points
+HEROMOTOCO,Mar 2016,ROE,35.2275,22.0,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+HEROMOTOCO,Mar 2017,ROCE,227.2951,29.1,formula discrepancy,computed ROCE differs from company-level source display value by 198.1951 percentage points
+HEROMOTOCO,Mar 2017,ROE,34.3738,22.0,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+HEROMOTOCO,Mar 2018,ROCE,222.4590,29.1,formula discrepancy,computed ROCE differs from company-level source display value by 193.3590 percentage points
+HEROMOTOCO,Mar 2018,ROE,31.0892,22.0,version difference,computed ROE retained for analytics; source value retained only for display
+HEROMOTOCO,Mar 2019,ROCE,215.6120,29.1,formula discrepancy,computed ROCE differs from company-level source display value by 186.5120 percentage points
+HEROMOTOCO,Mar 2020,ROCE,169.5807,29.1,formula discrepancy,computed ROCE differs from company-level source display value by 140.4807 percentage points
+HEROMOTOCO,Mar 2021,ROCE,168.2188,29.1,formula discrepancy,computed ROCE differs from company-level source display value by 139.1188 percentage points
+HEROMOTOCO,Mar 2022,ROCE,159.8955,29.1,formula discrepancy,computed ROCE differs from company-level source display value by 130.7955 percentage points
+HEROMOTOCO,Mar 2022,ROE,14.6968,22.0,version difference,computed ROE retained for analytics; source value retained only for display
+HEROMOTOCO,Mar 2023,ROCE,174.5936,29.1,formula discrepancy,computed ROCE differs from company-level source display value by 145.4936 percentage points
+HEROMOTOCO,Mar 2023,ROE,16.8108,22.0,version difference,computed ROE retained for analytics; source value retained only for display
+HEROMOTOCO,Mar 2024,ROCE,177.9186,29.1,formula discrepancy,computed ROCE differs from company-level source display value by 148.8186 percentage points
+HINDALCO,Mar 2013,ROCE,78.5687,11.3,formula discrepancy,computed ROCE differs from company-level source display value by 67.2687 percentage points
+HINDALCO,Mar 2014,ROCE,75.6264,11.3,formula discrepancy,computed ROCE differs from company-level source display value by 64.3264 percentage points
+HINDALCO,Mar 2015,ROCE,89.3705,11.3,formula discrepancy,computed ROCE differs from company-level source display value by 78.0705 percentage points
+HINDALCO,Mar 2015,ROE,0.6757,10.2,version difference,computed ROE retained for analytics; source value retained only for display
+HINDALCO,Mar 2016,ROCE,84.1237,11.3,formula discrepancy,computed ROCE differs from company-level source display value by 72.8237 percentage points
+HINDALCO,Mar 2016,ROE,-1.7287,10.2,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+HINDALCO,Mar 2017,ROCE,79.9802,11.3,formula discrepancy,computed ROCE differs from company-level source display value by 68.6802 percentage points
+HINDALCO,Mar 2017,ROE,4.0861,10.2,version difference,computed ROE retained for analytics; source value retained only for display
+HINDALCO,Mar 2018,ROCE,94.9255,11.3,formula discrepancy,computed ROCE differs from company-level source display value by 83.6255 percentage points
+HINDALCO,Mar 2019,ROCE,104.6645,11.3,formula discrepancy,computed ROCE differs from company-level source display value by 93.3645 percentage points
+HINDALCO,Mar 2020,ROCE,81.9549,11.3,formula discrepancy,computed ROCE differs from company-level source display value by 70.6549 percentage points
+HINDALCO,Mar 2021,ROCE,85.5861,11.3,formula discrepancy,computed ROCE differs from company-level source display value by 74.2861 percentage points
+HINDALCO,Mar 2022,ROCE,116.8563,11.3,formula discrepancy,computed ROCE differs from company-level source display value by 105.5563 percentage points
+HINDALCO,Mar 2022,ROE,17.5596,10.2,version difference,computed ROE retained for analytics; source value retained only for display
+HINDALCO,Mar 2023,ROCE,129.3036,11.3,formula discrepancy,computed ROCE differs from company-level source display value by 118.0036 percentage points
+HINDALCO,Mar 2024,ROCE,118.2145,11.3,formula discrepancy,computed ROCE differs from company-level source display value by 106.9145 percentage points
+HINDUNILVR,Mar 2013,ROCE,788.9273,27.2,formula discrepancy,computed ROCE differs from company-level source display value by 761.7273 percentage points
+HINDUNILVR,Mar 2013,ROE,133.9965,20.2,data source issue,computed ROE retained for analytics; source value retained only for display
+HINDUNILVR,Mar 2014,ROCE,683.5334,27.2,formula discrepancy,computed ROCE differs from company-level source display value by 656.3334 percentage points
+HINDUNILVR,Mar 2014,ROE,111.8462,20.2,data source issue,computed ROE retained for analytics; source value retained only for display
+HINDUNILVR,Mar 2015,ROCE,652.9975,27.2,formula discrepancy,computed ROCE differs from company-level source display value by 625.7975 percentage points
+HINDUNILVR,Mar 2015,ROE,108.6665,20.2,data source issue,computed ROE retained for analytics; source value retained only for display
+HINDUNILVR,Mar 2016,ROCE,389.5407,27.2,formula discrepancy,computed ROCE differs from company-level source display value by 362.3407 percentage points
+HINDUNILVR,Mar 2016,ROE,63.1523,20.2,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+HINDUNILVR,Mar 2017,ROCE,382.4669,27.2,formula discrepancy,computed ROCE differs from company-level source display value by 355.2669 percentage points
+HINDUNILVR,Mar 2017,ROE,66.5777,20.2,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+HINDUNILVR,Mar 2018,ROCE,385.4828,27.2,formula discrepancy,computed ROCE differs from company-level source display value by 358.2828 percentage points
+HINDUNILVR,Mar 2018,ROE,71.7896,20.2,data source issue,computed ROE retained for analytics; source value retained only for display
+HINDUNILVR,Mar 2019,ROCE,382.2872,27.2,formula discrepancy,computed ROCE differs from company-level source display value by 355.0872 percentage points
+HINDUNILVR,Mar 2019,ROE,77.0306,20.2,data source issue,computed ROE retained for analytics; source value retained only for display
+HINDUNILVR,Mar 2020,ROCE,363.9203,27.2,formula discrepancy,computed ROCE differs from company-level source display value by 336.7203 percentage points
+HINDUNILVR,Mar 2020,ROE,82.0999,20.2,data source issue,computed ROE retained for analytics; source value retained only for display
+HINDUNILVR,Mar 2021,ROCE,74.3109,27.2,formula discrepancy,computed ROCE differs from company-level source display value by 47.1109 percentage points
+HINDUNILVR,Mar 2022,ROCE,79.0635,27.2,formula discrepancy,computed ROCE differs from company-level source display value by 51.8635 percentage points
+HINDUNILVR,Mar 2023,ROCE,90.1656,27.2,formula discrepancy,computed ROCE differs from company-level source display value by 62.9656 percentage points
+HINDUNILVR,Mar 2024,ROCE,89.6759,27.2,formula discrepancy,computed ROCE differs from company-level source display value by 62.4759 percentage points
+ICICIBANK,Mar 2016,ROE,11.6108,18.8,version difference,computed ROE retained for analytics; source value retained only for display
+ICICIBANK,Mar 2017,ROE,10.8380,18.8,version difference,computed ROE retained for analytics; source value retained only for display
+ICICIBANK,Mar 2018,ROE,8.2256,18.8,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+ICICIBANK,Mar 2019,ROE,4.9793,18.8,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+ICICIBANK,Mar 2020,ROE,9.1290,18.8,version difference,computed ROE retained for analytics; source value retained only for display
+ICICIBANK,Mar 2021,ROE,12.9224,18.8,version difference,computed ROE retained for analytics; source value retained only for display
+ICICIGI,Mar 2013,ROCE,223.9037,22.5,formula discrepancy,computed ROCE differs from company-level source display value by 201.4037 percentage points
+ICICIGI,Mar 2014,ROCE,191.0192,22.5,formula discrepancy,computed ROCE differs from company-level source display value by 168.5192 percentage points
+ICICIGI,Mar 2015,ROCE,154.2273,22.5,formula discrepancy,computed ROCE differs from company-level source display value by 131.7273 percentage points
+ICICIGI,Mar 2016,ROCE,163.1758,22.5,formula discrepancy,computed ROCE differs from company-level source display value by 140.6758 percentage points
+ICICIGI,Mar 2017,ROCE,150.7752,22.5,formula discrepancy,computed ROCE differs from company-level source display value by 128.2752 percentage points
+ICICIGI,Mar 2018,ROCE,142.6582,22.5,formula discrepancy,computed ROCE differs from company-level source display value by 120.1582 percentage points
+ICICIGI,Mar 2019,ROCE,161.5803,22.5,formula discrepancy,computed ROCE differs from company-level source display value by 139.0803 percentage points
+ICICIGI,Mar 2020,ROCE,147.4543,22.5,formula discrepancy,computed ROCE differs from company-level source display value by 124.9543 percentage points
+ICICIGI,Mar 2021,ROCE,125.0247,22.5,formula discrepancy,computed ROCE differs from company-level source display value by 102.5247 percentage points
+ICICIGI,Mar 2022,ROCE,158.9331,22.5,formula discrepancy,computed ROCE differs from company-level source display value by 136.4331 percentage points
+ICICIGI,Mar 2023,ROCE,158.5934,22.5,formula discrepancy,computed ROCE differs from company-level source display value by 136.0934 percentage points
+ICICIGI,Mar 2024,ROCE,146.4297,22.5,formula discrepancy,computed ROCE differs from company-level source display value by 123.9297 percentage points
+ICICIPRULI,Mar 2013,ROCE,486.8468,8.75,formula discrepancy,computed ROCE differs from company-level source display value by 478.0968 percentage points
+ICICIPRULI,Mar 2013,ROE,38.2479,8.07,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+ICICIPRULI,Mar 2014,ROCE,465.2293,8.75,formula discrepancy,computed ROCE differs from company-level source display value by 456.4793 percentage points
+ICICIPRULI,Mar 2014,ROE,35.6149,8.07,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+ICICIPRULI,Mar 2015,ROCE,623.0389,8.75,formula discrepancy,computed ROCE differs from company-level source display value by 614.2889 percentage points
+ICICIPRULI,Mar 2015,ROE,31.1491,8.07,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+ICICIPRULI,Mar 2016,ROCE,299.3860,8.75,formula discrepancy,computed ROCE differs from company-level source display value by 290.6360 percentage points
+ICICIPRULI,Mar 2016,ROE,30.9976,8.07,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+ICICIPRULI,Mar 2017,ROCE,562.2073,8.75,formula discrepancy,computed ROCE differs from company-level source display value by 553.4573 percentage points
+ICICIPRULI,Mar 2017,ROE,26.2566,8.07,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+ICICIPRULI,Mar 2018,ROCE,563.8424,8.75,formula discrepancy,computed ROCE differs from company-level source display value by 555.0924 percentage points
+ICICIPRULI,Mar 2018,ROE,24.6273,8.07,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+ICICIPRULI,Mar 2019,ROCE,595.5902,8.75,formula discrepancy,computed ROCE differs from company-level source display value by 586.8402 percentage points
+ICICIPRULI,Mar 2019,ROE,16.5769,8.07,version difference,computed ROE retained for analytics; source value retained only for display
+ICICIPRULI,Mar 2020,ROCE,295.8824,8.75,formula discrepancy,computed ROCE differs from company-level source display value by 287.1324 percentage points
+ICICIPRULI,Mar 2020,ROE,14.7927,8.07,version difference,computed ROE retained for analytics; source value retained only for display
+ICICIPRULI,Mar 2021,ROCE,810.6703,8.75,formula discrepancy,computed ROCE differs from company-level source display value by 801.9203 percentage points
+ICICIPRULI,Mar 2022,ROCE,634.5337,8.75,formula discrepancy,computed ROCE differs from company-level source display value by 625.7837 percentage points
+ICICIPRULI,Mar 2023,ROCE,462.6395,8.75,formula discrepancy,computed ROCE differs from company-level source display value by 453.8895 percentage points
+ICICIPRULI,Mar 2024,ROCE,754.8873,8.75,formula discrepancy,computed ROCE differs from company-level source display value by 746.1373 percentage points
+INDIGO,Mar 2013,ROCE,54266.2338,24.5,formula discrepancy,computed ROCE differs from company-level source display value by 54241.7338 percentage points
+INDIGO,Mar 2014,ROCE,58086.9565,24.5,formula discrepancy,computed ROCE differs from company-level source display value by 58062.4565 percentage points
+INDIGO,Mar 2015,ROCE,39592.1053,24.5,formula discrepancy,computed ROCE differs from company-level source display value by 39567.6053 percentage points
+INDIGO,Mar 2016,ROCE,9458.5153,24.5,formula discrepancy,computed ROCE differs from company-level source display value by 9434.0153 percentage points
+INDIGO,Mar 2017,ROCE,10916.0000,24.5,formula discrepancy,computed ROCE differs from company-level source display value by 10891.5000 percentage points
+INDIGO,Mar 2018,ROCE,12989.6104,24.5,formula discrepancy,computed ROCE differs from company-level source display value by 12965.1104 percentage points
+INDIGO,Mar 2019,ROCE,13201.3825,24.5,formula discrepancy,computed ROCE differs from company-level source display value by 13176.8825 percentage points
+INDIGO,Mar 2020,ROCE,12479.5276,24.5,formula discrepancy,computed ROCE differs from company-level source display value by 12455.0276 percentage points
+INDIGO,Mar 2021,ROCE,2554.6248,24.5,formula discrepancy,computed ROCE differs from company-level source display value by 2530.1248 percentage points
+INDIGO,Mar 2022,ROCE,3833.0816,24.5,formula discrepancy,computed ROCE differs from company-level source display value by 3808.5816 percentage points
+INDIGO,Mar 2023,ROCE,6075.7921,24.5,formula discrepancy,computed ROCE differs from company-level source display value by 6051.2921 percentage points
+INDIGO,Mar 2024,ROCE,5643.4549,24.5,formula discrepancy,computed ROCE differs from company-level source display value by 5618.9549 percentage points
+INDUSINDBK,Mar 2013,ROCE,2.7399,7.93,version difference,computed ROCE differs from company-level source display value by 5.1901 percentage points
+INDUSINDBK,Mar 2021,ROE,6.5398,15.2,version difference,computed ROE retained for analytics; source value retained only for display
+INDUSINDBK,Mar 2022,ROE,9.6671,15.2,version difference,computed ROE retained for analytics; source value retained only for display
+INFY,Mar 2013,ROE,24.8171,31.8,version difference,computed ROE retained for analytics; source value retained only for display
+INFY,Mar 2014,ROE,23.9299,31.8,version difference,computed ROE retained for analytics; source value retained only for display
+INFY,Mar 2015,ROE,24.3851,31.8,version difference,computed ROE retained for analytics; source value retained only for display
+INFY,Mar 2016,ROCE,32.7141,40.0,version difference,computed ROCE differs from company-level source display value by 7.2859 percentage points
+INFY,Mar 2016,ROE,21.8467,31.8,version difference,computed ROE retained for analytics; source value retained only for display
+INFY,Mar 2017,ROCE,31.3908,40.0,version difference,computed ROCE differs from company-level source display value by 8.6092 percentage points
+INFY,Mar 2017,ROE,20.8069,31.8,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+INFY,Mar 2018,ROCE,34.0912,40.0,version difference,computed ROCE differs from company-level source display value by 5.9088 percentage points
+INFY,Mar 2018,ROE,24.6892,31.8,version difference,computed ROE retained for analytics; source value retained only for display
+INFY,Mar 2019,ROE,23.7267,31.8,version difference,computed ROE retained for analytics; source value retained only for display
+INFY,Mar 2020,ROE,25.4225,31.8,version difference,computed ROE retained for analytics; source value retained only for display
+INFY,Mar 2021,ROE,25.4391,31.8,version difference,computed ROE retained for analytics; source value retained only for display
+INFY,Mar 2023,ROCE,45.1951,40.0,version difference,computed ROCE differs from company-level source display value by 5.1951 percentage points
+IOC,Mar 2013,ROCE,11.3681,21.31,version difference,computed ROCE differs from company-level source display value by 9.9419 percentage points
+IOC,Mar 2013,ROE,5.7538,25.44,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+IOC,Mar 2014,ROCE,13.6868,21.31,version difference,computed ROCE differs from company-level source display value by 7.6232 percentage points
+IOC,Mar 2014,ROE,10.2587,25.44,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+IOC,Mar 2015,ROCE,12.2901,21.31,version difference,computed ROCE differs from company-level source display value by 9.0199 percentage points
+IOC,Mar 2015,ROE,7.0781,25.44,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+IOC,Mar 2016,ROE,13.7953,25.44,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+IOC,Mar 2017,ROE,19.9665,25.44,version difference,computed ROE retained for analytics; source value retained only for display
+IOC,Mar 2018,ROE,19.8693,25.44,version difference,computed ROE retained for analytics; source value retained only for display
+IOC,Mar 2019,ROE,15.3589,25.44,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+IOC,Mar 2020,ROCE,3.9469,21.31,formula discrepancy,computed ROCE differs from company-level source display value by 17.3631 percentage points
+IOC,Mar 2020,ROE,-1.9665,25.44,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+IOC,Mar 2021,ROE,19.4585,25.44,version difference,computed ROE retained for analytics; source value retained only for display
+IOC,Mar 2022,ROE,19.2661,25.44,version difference,computed ROE retained for analytics; source value retained only for display
+IOC,Mar 2023,ROCE,12.4029,21.31,version difference,computed ROCE differs from company-level source display value by 8.9071 percentage points
+IOC,Mar 2023,ROE,8.3767,25.44,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+IRCTC,Mar 2015,ROE,29.5045,40.4,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+IRCTC,Mar 2016,ROCE,60.7011,53.8,version difference,computed ROCE differs from company-level source display value by 6.9011 percentage points
+IRCTC,Mar 2016,ROE,34.8708,40.4,version difference,computed ROE retained for analytics; source value retained only for display
+IRCTC,Mar 2017,ROCE,48.4117,53.8,version difference,computed ROCE differs from company-level source display value by 5.3883 percentage points
+IRCTC,Mar 2017,ROE,29.0978,40.4,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+IRCTC,Mar 2018,ROCE,39.0576,53.8,formula discrepancy,computed ROCE differs from company-level source display value by 14.7424 percentage points
+IRCTC,Mar 2018,ROE,23.1414,40.4,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+IRCTC,Mar 2019,ROCE,47.5257,53.8,version difference,computed ROCE differs from company-level source display value by 6.2743 percentage points
+IRCTC,Mar 2019,ROE,28.8515,40.4,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+IRCTC,Mar 2020,ROCE,59.3607,53.8,version difference,computed ROCE differs from company-level source display value by 5.5607 percentage points
+IRCTC,Mar 2021,ROCE,20.3257,53.8,formula discrepancy,computed ROCE differs from company-level source display value by 33.4743 percentage points
+IRCTC,Mar 2021,ROE,12.8434,40.4,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+IRCTC,Mar 2022,ROCE,47.8987,53.8,version difference,computed ROCE differs from company-level source display value by 5.9013 percentage points
+IRCTC,Mar 2022,ROE,35.2941,40.4,version difference,computed ROE retained for analytics; source value retained only for display
+IRCTC,Mar 2024,ROCE,47.7812,53.8,version difference,computed ROCE differs from company-level source display value by 6.0188 percentage points
+IRCTC,Mar 2024,ROE,34.3963,40.4,version difference,computed ROE retained for analytics; source value retained only for display
+IRFC,Mar 2013,ROE,8.1639,13.7,version difference,computed ROE retained for analytics; source value retained only for display
+IRFC,Mar 2016,ROE,7.3666,13.7,version difference,computed ROE retained for analytics; source value retained only for display
+IRFC,Mar 2017,ROE,7.7775,13.7,version difference,computed ROE retained for analytics; source value retained only for display
+ITC,Mar 2013,ROCE,51.9046,34.76,formula discrepancy,computed ROCE differs from company-level source display value by 17.1446 percentage points
+ITC,Mar 2014,ROCE,51.1154,34.76,formula discrepancy,computed ROCE differs from company-level source display value by 16.3554 percentage points
+ITC,Mar 2015,ROCE,48.3706,34.76,formula discrepancy,computed ROCE differs from company-level source display value by 13.6106 percentage points
+ITC,Mar 2016,ROE,22.2610,29.47,version difference,computed ROE retained for analytics; source value retained only for display
+ITC,Mar 2017,ROE,22.5734,29.47,version difference,computed ROE retained for analytics; source value retained only for display
+ITC,Mar 2018,ROE,21.8873,29.47,version difference,computed ROE retained for analytics; source value retained only for display
+ITC,Mar 2019,ROE,21.7041,29.47,version difference,computed ROE retained for analytics; source value retained only for display
+ITC,Mar 2020,ROE,23.8889,29.47,version difference,computed ROE retained for analytics; source value retained only for display
+ITC,Mar 2021,ROE,22.1767,29.47,version difference,computed ROE retained for analytics; source value retained only for display
+ITC,Mar 2023,ROCE,40.0253,34.76,version difference,computed ROCE differs from company-level source display value by 5.2653 percentage points
+JINDALSTEL,Mar 2014,ROE,8.3857,14.1,version difference,computed ROE retained for analytics; source value retained only for display
+JINDALSTEL,Mar 2015,ROCE,6.1088,13.2,version difference,computed ROCE differs from company-level source display value by 7.0912 percentage points
+JINDALSTEL,Mar 2015,ROE,-6.9005,14.1,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+JINDALSTEL,Mar 2016,ROCE,4.2381,13.2,version difference,computed ROCE differs from company-level source display value by 8.9619 percentage points
+JINDALSTEL,Mar 2016,ROE,-9.5172,14.1,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+JINDALSTEL,Mar 2017,ROCE,5.7272,13.2,version difference,computed ROCE differs from company-level source display value by 7.4728 percentage points
+JINDALSTEL,Mar 2017,ROE,-8.4456,14.1,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+JINDALSTEL,Mar 2018,ROCE,8.0235,13.2,version difference,computed ROCE differs from company-level source display value by 5.1765 percentage points
+JINDALSTEL,Mar 2018,ROE,-5.3184,14.1,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+JINDALSTEL,Mar 2019,ROE,-7.5175,14.1,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+JINDALSTEL,Mar 2020,ROE,-1.2447,14.1,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+JINDALSTEL,Mar 2021,ROCE,18.2195,13.2,version difference,computed ROCE differs from company-level source display value by 5.0195 percentage points
+JINDALSTEL,Mar 2022,ROCE,27.8360,13.2,formula discrepancy,computed ROCE differs from company-level source display value by 14.6360 percentage points
+JSWENERGY,Mar 2013,ROCE,16.9471,8.59,version difference,computed ROCE differs from company-level source display value by 8.3571 percentage points
+JSWENERGY,Mar 2013,ROE,14.5229,8.4,version difference,computed ROE retained for analytics; source value retained only for display
+JSWENERGY,Mar 2014,ROCE,18.4446,8.59,version difference,computed ROCE differs from company-level source display value by 9.8546 percentage points
+JSWENERGY,Mar 2015,ROCE,22.7219,8.59,formula discrepancy,computed ROCE differs from company-level source display value by 14.1319 percentage points
+JSWENERGY,Mar 2015,ROE,18.0633,8.4,version difference,computed ROE retained for analytics; source value retained only for display
+JSWENERGY,Mar 2016,ROCE,17.7847,8.59,version difference,computed ROCE differs from company-level source display value by 9.1947 percentage points
+JSWENERGY,Mar 2016,ROE,15.0453,8.4,version difference,computed ROE retained for analytics; source value retained only for display
+JSWENERGY,Mar 2017,ROCE,14.3418,8.59,version difference,computed ROCE differs from company-level source display value by 5.7518 percentage points
+JSWENERGY,Mar 2018,ROE,0.7651,8.4,version difference,computed ROE retained for analytics; source value retained only for display
+JSWENERGY,Mar 2019,ROCE,14.5372,8.59,version difference,computed ROCE differs from company-level source display value by 5.9472 percentage points
+JSWENERGY,Mar 2020,ROCE,15.5124,8.59,version difference,computed ROCE differs from company-level source display value by 6.9224 percentage points
+JSWENERGY,Mar 2021,ROCE,13.8168,8.59,version difference,computed ROCE differs from company-level source display value by 5.2268 percentage points
+JSWENERGY,Mar 2022,ROCE,15.7334,8.59,version difference,computed ROCE differs from company-level source display value by 7.1434 percentage points
+JSWSTEEL,Mar 2013,ROE,5.4439,11.66,version difference,computed ROE retained for analytics; source value retained only for display
+JSWSTEEL,Mar 2014,ROE,1.8986,11.66,version difference,computed ROE retained for analytics; source value retained only for display
+JSWSTEEL,Mar 2016,ROCE,7.2846,13.36,version difference,computed ROCE differs from company-level source display value by 6.0754 percentage points
+JSWSTEEL,Mar 2016,ROE,-2.5361,11.66,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+JSWSTEEL,Mar 2017,ROCE,18.6811,13.36,version difference,computed ROCE differs from company-level source display value by 5.3211 percentage points
+JSWSTEEL,Mar 2018,ROCE,21.8709,13.36,version difference,computed ROCE differs from company-level source display value by 8.5109 percentage points
+JSWSTEEL,Mar 2018,ROE,21.8337,11.66,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+JSWSTEEL,Mar 2019,ROCE,23.2702,13.36,version difference,computed ROCE differs from company-level source display value by 9.9102 percentage points
+JSWSTEEL,Mar 2019,ROE,21.6238,11.66,version difference,computed ROE retained for analytics; source value retained only for display
+JSWSTEEL,Mar 2021,ROCE,18.9188,13.36,version difference,computed ROCE differs from company-level source display value by 5.5588 percentage points
+JSWSTEEL,Mar 2021,ROE,16.8356,11.66,version difference,computed ROE retained for analytics; source value retained only for display
+JSWSTEEL,Mar 2022,ROCE,29.1786,13.36,formula discrepancy,computed ROCE differs from company-level source display value by 15.8186 percentage points
+JSWSTEEL,Mar 2022,ROE,31.1128,11.66,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+JSWSTEEL,Mar 2023,ROE,6.3003,11.66,version difference,computed ROE retained for analytics; source value retained only for display
+LICI,Mar 2019,ROCE,3.1586,63.79,formula discrepancy,computed ROCE differs from company-level source display value by 60.6314 percentage points
+LICI,Mar 2019,ROE,324.3210,63.61,data source issue,computed ROE retained for analytics; source value retained only for display
+LICI,Mar 2020,ROCE,5.4725,63.79,formula discrepancy,computed ROCE differs from company-level source display value by 58.3175 percentage points
+LICI,Mar 2020,ROE,270.4591,63.61,data source issue,computed ROE retained for analytics; source value retained only for display
+LICI,Mar 2021,ROCE,182.4623,63.79,formula discrepancy,computed ROCE differs from company-level source display value by 118.6723 percentage points
+LICI,Mar 2021,ROE,43.2016,63.61,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+LICI,Mar 2022,ROCE,110.8916,63.79,formula discrepancy,computed ROCE differs from company-level source display value by 47.1016 percentage points
+LICI,Mar 2022,ROE,36.3821,63.61,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+LICI,Mar 2023,ROCE,90.8593,63.79,formula discrepancy,computed ROCE differs from company-level source display value by 27.0693 percentage points
+LICI,Mar 2023,ROE,77.8600,63.61,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+LICI,Mar 2024,ROCE,57.5344,63.79,version difference,computed ROCE differs from company-level source display value by 6.2556 percentage points
+LICI,Mar 2024,ROE,49.4471,63.61,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+LODHA,Mar 2011,ROE,35.4839,10.7,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+LODHA,Mar 2012,ROE,33.8366,10.7,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+LODHA,Mar 2015,ROE,24.2259,10.7,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+LODHA,Mar 2016,ROE,17.6944,10.7,version difference,computed ROE retained for analytics; source value retained only for display
+LODHA,Mar 2019,ROE,42.8014,10.7,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+LODHA,Mar 2020,ROE,16.3005,10.7,version difference,computed ROE retained for analytics; source value retained only for display
+LODHA,Mar 2021,ROCE,5.4537,11.1,version difference,computed ROCE differs from company-level source display value by 5.6463 percentage points
+LODHA,Mar 2021,ROE,1.0437,10.7,version difference,computed ROE retained for analytics; source value retained only for display
+LODHA,Mar 2023,ROCE,4.7277,11.1,version difference,computed ROCE differs from company-level source display value by 6.3723 percentage points
+LODHA,Mar 2023,ROE,3.8695,10.7,version difference,computed ROE retained for analytics; source value retained only for display
+LT,Mar 2013,ROCE,884.7425,17.18,formula discrepancy,computed ROCE differs from company-level source display value by 867.5625 percentage points
+LT,Mar 2013,ROE,395.1456,10.49,data source issue,computed ROE retained for analytics; source value retained only for display
+LT,Mar 2014,ROCE,896.6860,17.18,formula discrepancy,computed ROCE differs from company-level source display value by 879.5060 percentage points
+LT,Mar 2014,ROE,303.4161,10.49,data source issue,computed ROE retained for analytics; source value retained only for display
+LT,Mar 2015,ROCE,762.2995,17.18,formula discrepancy,computed ROCE differs from company-level source display value by 745.1195 percentage points
+LT,Mar 2015,ROE,245.1135,10.49,data source issue,computed ROE retained for analytics; source value retained only for display
+LT,Mar 2016,ROCE,766.2844,17.18,formula discrepancy,computed ROCE differs from company-level source display value by 749.1044 percentage points
+LT,Mar 2016,ROE,216.0941,10.49,data source issue,computed ROE retained for analytics; source value retained only for display
+LT,Mar 2017,ROCE,575.2545,17.18,formula discrepancy,computed ROCE differs from company-level source display value by 558.0745 percentage points
+LT,Mar 2017,ROE,206.2977,10.49,data source issue,computed ROE retained for analytics; source value retained only for display
+LT,Mar 2018,ROCE,558.9637,17.18,formula discrepancy,computed ROCE differs from company-level source display value by 541.7837 percentage points
+LT,Mar 2018,ROE,207.3575,10.49,data source issue,computed ROE retained for analytics; source value retained only for display
+LT,Mar 2019,ROCE,522.5220,17.18,formula discrepancy,computed ROCE differs from company-level source display value by 505.3420 percentage points
+LT,Mar 2019,ROE,208.8085,10.49,data source issue,computed ROE retained for analytics; source value retained only for display
+LT,Mar 2020,ROCE,436.4788,17.18,formula discrepancy,computed ROCE differs from company-level source display value by 419.2988 percentage points
+LT,Mar 2020,ROE,201.5914,10.49,data source issue,computed ROE retained for analytics; source value retained only for display
+LT,Mar 2021,ROCE,389.6692,17.18,formula discrepancy,computed ROCE differs from company-level source display value by 372.4892 percentage points
+LT,Mar 2021,ROE,176.9031,10.49,data source issue,computed ROE retained for analytics; source value retained only for display
+LT,Mar 2022,ROCE,183.4044,17.18,formula discrepancy,computed ROCE differs from company-level source display value by 166.2244 percentage points
+LT,Mar 2022,ROE,72.9213,10.49,data source issue,computed ROE retained for analytics; source value retained only for display
+LT,Mar 2023,ROCE,165.7586,17.18,formula discrepancy,computed ROCE differs from company-level source display value by 148.5786 percentage points
+LT,Mar 2023,ROE,75.5243,10.49,data source issue,computed ROE retained for analytics; source value retained only for display
+LT,Mar 2024,ROCE,152.6190,17.18,formula discrepancy,computed ROCE differs from company-level source display value by 135.4390 percentage points
+LT,Mar 2024,ROE,77.6651,10.49,data source issue,computed ROE retained for analytics; source value retained only for display
+LTIM,Mar 2013,ROCE,56.7069,34.1,formula discrepancy,computed ROCE differs from company-level source display value by 22.6069 percentage points
+LTIM,Mar 2013,ROE,41.9716,26.04,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+LTIM,Mar 2014,ROCE,79.3023,34.1,formula discrepancy,computed ROCE differs from company-level source display value by 45.2023 percentage points
+LTIM,Mar 2014,ROE,61.8634,26.04,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+LTIM,Mar 2015,ROCE,49.1979,34.1,formula discrepancy,computed ROCE differs from company-level source display value by 15.0979 percentage points
+LTIM,Mar 2015,ROE,37.9566,26.04,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+LTIM,Mar 2016,ROCE,55.7339,34.1,formula discrepancy,computed ROCE differs from company-level source display value by 21.6339 percentage points
+LTIM,Mar 2016,ROE,39.3412,26.04,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+LTIM,Mar 2017,ROCE,45.0700,34.1,formula discrepancy,computed ROCE differs from company-level source display value by 10.9700 percentage points
+LTIM,Mar 2018,ROCE,41.7876,34.1,version difference,computed ROCE differs from company-level source display value by 7.6876 percentage points
+LTIM,Mar 2019,ROCE,44.6556,34.1,formula discrepancy,computed ROCE differs from company-level source display value by 10.5556 percentage points
+LTIM,Mar 2022,ROCE,41.3516,34.1,version difference,computed ROCE differs from company-level source display value by 7.2516 percentage points
+MARUTI,Mar 2015,ROCE,30.8557,23.67,version difference,computed ROCE differs from company-level source display value by 7.1857 percentage points
+MARUTI,Mar 2016,ROCE,34.0001,23.67,formula discrepancy,computed ROCE differs from company-level source display value by 10.3301 percentage points
+MARUTI,Mar 2017,ROCE,34.1330,23.67,formula discrepancy,computed ROCE differs from company-level source display value by 10.4630 percentage points
+MARUTI,Mar 2018,ROCE,33.4419,23.67,version difference,computed ROCE differs from company-level source display value by 9.7719 percentage points
+MARUTI,Mar 2019,ROCE,29.0358,23.67,version difference,computed ROCE differs from company-level source display value by 5.3658 percentage points
+MARUTI,Mar 2021,ROCE,15.9440,23.67,version difference,computed ROCE differs from company-level source display value by 7.7260 percentage points
+MARUTI,Mar 2021,ROE,8.3598,15.75,version difference,computed ROE retained for analytics; source value retained only for display
+MARUTI,Mar 2022,ROCE,13.6534,23.67,formula discrepancy,computed ROCE differs from company-level source display value by 10.0166 percentage points
+MARUTI,Mar 2022,ROE,7.0121,15.75,version difference,computed ROE retained for analytics; source value retained only for display
+MOTHERSON,Mar 2013,ROCE,24.9965,13.7,formula discrepancy,computed ROCE differs from company-level source display value by 11.2965 percentage points
+MOTHERSON,Mar 2013,ROE,19.7466,11.8,version difference,computed ROE retained for analytics; source value retained only for display
+MOTHERSON,Mar 2014,ROCE,34.7224,13.7,formula discrepancy,computed ROCE differs from company-level source display value by 21.0224 percentage points
+MOTHERSON,Mar 2014,ROE,37.0733,11.8,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+MOTHERSON,Mar 2015,ROCE,36.1443,13.7,formula discrepancy,computed ROCE differs from company-level source display value by 22.4443 percentage points
+MOTHERSON,Mar 2015,ROE,38.8688,11.8,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+MOTHERSON,Mar 2016,ROCE,35.5914,13.7,formula discrepancy,computed ROCE differs from company-level source display value by 21.8914 percentage points
+MOTHERSON,Mar 2016,ROE,40.3457,11.8,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+MOTHERSON,Mar 2017,ROCE,24.2576,13.7,formula discrepancy,computed ROCE differs from company-level source display value by 10.5576 percentage points
+MOTHERSON,Mar 2017,ROE,26.2573,11.8,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+MOTHERSON,Mar 2018,ROCE,25.9305,13.7,formula discrepancy,computed ROCE differs from company-level source display value by 12.2305 percentage points
+MOTHERSON,Mar 2018,ROE,22.8652,11.8,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+MOTHERSON,Mar 2019,ROCE,25.2523,13.7,formula discrepancy,computed ROCE differs from company-level source display value by 11.5523 percentage points
+MOTHERSON,Mar 2019,ROE,19.1371,11.8,version difference,computed ROE retained for analytics; source value retained only for display
+MOTHERSON,Mar 2020,ROCE,21.7076,13.7,version difference,computed ROCE differs from company-level source display value by 8.0076 percentage points
+MOTHERSON,Mar 2021,ROCE,20.1625,13.7,version difference,computed ROCE differs from company-level source display value by 6.4625 percentage points
+MOTHERSON,Mar 2022,ROE,5.7412,11.8,version difference,computed ROE retained for analytics; source value retained only for display
+MOTHERSON,Mar 2024,ROCE,20.5352,13.7,version difference,computed ROCE differs from company-level source display value by 6.8352 percentage points
+NAUKRI,Mar 2013,ROCE,23.8095,3.65,formula discrepancy,computed ROCE differs from company-level source display value by 20.1595 percentage points
+NAUKRI,Mar 2013,ROE,12.5000,2.44,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+NAUKRI,Mar 2014,ROCE,21.5453,3.65,formula discrepancy,computed ROCE differs from company-level source display value by 17.8953 percentage points
+NAUKRI,Mar 2014,ROE,8.9286,2.44,version difference,computed ROE retained for analytics; source value retained only for display
+NAUKRI,Mar 2016,ROCE,13.0829,3.65,version difference,computed ROCE differs from company-level source display value by 9.4329 percentage points
+NAUKRI,Mar 2016,ROE,7.6474,2.44,version difference,computed ROE retained for analytics; source value retained only for display
+NAUKRI,Mar 2017,ROE,-2.7010,2.44,version difference,computed ROE retained for analytics; source value retained only for display
+NAUKRI,Mar 2018,ROCE,30.3030,3.65,formula discrepancy,computed ROCE differs from company-level source display value by 26.6530 percentage points
+NAUKRI,Mar 2018,ROE,24.4988,2.44,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+NAUKRI,Mar 2019,ROCE,29.3239,3.65,formula discrepancy,computed ROCE differs from company-level source display value by 25.6739 percentage points
+NAUKRI,Mar 2019,ROE,23.2796,2.44,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+NAUKRI,Mar 2020,ROCE,-2.8169,3.65,version difference,computed ROCE differs from company-level source display value by 6.4669 percentage points
+NAUKRI,Mar 2020,ROE,-11.2073,2.44,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+NAUKRI,Mar 2021,ROCE,30.3607,3.65,formula discrepancy,computed ROCE differs from company-level source display value by 26.7107 percentage points
+NAUKRI,Mar 2021,ROE,26.2787,2.44,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+NAUKRI,Mar 2022,ROCE,82.3761,3.65,formula discrepancy,computed ROCE differs from company-level source display value by 78.7261 percentage points
+NAUKRI,Mar 2022,ROE,74.7129,2.44,data source issue,computed ROE retained for analytics; source value retained only for display
+NESTLEIND,Dec 2013,ROCE,57.4923,185.43,formula discrepancy,computed ROCE differs from company-level source display value by 127.9377 percentage points
+NESTLEIND,Dec 2013,ROE,47.1706,135.61,data source issue,computed ROE retained for analytics; source value retained only for display
+NESTLEIND,Dec 2014,ROCE,74.4137,185.43,formula discrepancy,computed ROCE differs from company-level source display value by 111.0163 percentage points
+NESTLEIND,Dec 2014,ROE,41.7695,135.61,data source issue,computed ROE retained for analytics; source value retained only for display
+NESTLEIND,Dec 2015,ROCE,41.0582,185.43,formula discrepancy,computed ROCE differs from company-level source display value by 144.3718 percentage points
+NESTLEIND,Dec 2015,ROE,19.9858,135.61,data source issue,computed ROE retained for analytics; source value retained only for display
+NESTLEIND,Dec 2016,ROCE,60.0302,185.43,formula discrepancy,computed ROCE differs from company-level source display value by 125.3998 percentage points
+NESTLEIND,Dec 2016,ROE,30.4997,135.61,data source issue,computed ROE retained for analytics; source value retained only for display
+NESTLEIND,Dec 2017,ROCE,65.8177,185.43,formula discrepancy,computed ROCE differs from company-level source display value by 119.6123 percentage points
+NESTLEIND,Dec 2017,ROE,35.8187,135.61,data source issue,computed ROE retained for analytics; source value retained only for display
+NESTLEIND,Dec 2018,ROCE,77.5890,185.43,formula discrepancy,computed ROCE differs from company-level source display value by 107.8410 percentage points
+NESTLEIND,Dec 2018,ROE,43.7517,135.61,data source issue,computed ROE retained for analytics; source value retained only for display
+NESTLEIND,Dec 2019,ROCE,150.5933,185.43,formula discrepancy,computed ROCE differs from company-level source display value by 34.8367 percentage points
+NESTLEIND,Dec 2019,ROE,102.6069,135.61,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+NESTLEIND,Dec 2020,ROCE,154.5706,185.43,formula discrepancy,computed ROCE differs from company-level source display value by 30.8594 percentage points
+NESTLEIND,Dec 2020,ROE,103.1204,135.61,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+NESTLEIND,Dec 2021,ROCE,155.9675,185.43,formula discrepancy,computed ROCE differs from company-level source display value by 29.4625 percentage points
+NESTLEIND,Dec 2021,ROE,108.8386,135.61,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+NESTLEIND,Dec 2022,ROCE,139.6703,185.43,formula discrepancy,computed ROCE differs from company-level source display value by 45.7597 percentage points
+NESTLEIND,Dec 2022,ROE,97.2346,135.61,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+NESTLEIND,Dec 2023,ROCE,168.0220,185.43,formula discrepancy,computed ROCE differs from company-level source display value by 17.4080 percentage points
+NESTLEIND,Dec 2023,ROE,121.9601,135.61,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+NESTLEIND,Mar 2024,ROCE,162.0624,185.43,formula discrepancy,computed ROCE differs from company-level source display value by 23.3676 percentage points
+NESTLEIND,Mar 2024,ROE,117.7545,135.61,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+NHPC,Mar 2015,ROCE,13.1101,7.67,version difference,computed ROCE differs from company-level source display value by 5.4401 percentage points
+NHPC,Mar 2017,ROCE,14.7776,7.67,version difference,computed ROCE differs from company-level source display value by 7.1076 percentage points
+NHPC,Mar 2019,ROCE,13.4646,7.67,version difference,computed ROCE differs from company-level source display value by 5.7946 percentage points
+ONGC,Mar 2013,ROCE,28.2824,19.71,version difference,computed ROCE differs from company-level source display value by 8.5724 percentage points
+ONGC,Mar 2014,ROCE,25.4446,19.71,version difference,computed ROCE differs from company-level source display value by 5.7346 percentage points
+ONGC,Mar 2016,ROE,6.6234,14.32,version difference,computed ROE retained for analytics; source value retained only for display
+ONGC,Mar 2019,ROCE,25.9908,19.71,version difference,computed ROCE differs from company-level source display value by 6.2808 percentage points
+ONGC,Mar 2020,ROE,5.5855,14.32,version difference,computed ROE retained for analytics; source value retained only for display
+PFC,Mar 2013,ROCE,3.6769,9.96,version difference,computed ROCE differs from company-level source display value by 6.2831 percentage points
+PFC,Mar 2014,ROCE,4.0860,9.96,version difference,computed ROCE differs from company-level source display value by 5.8740 percentage points
+PFC,Mar 2015,ROCE,3.8391,9.96,version difference,computed ROCE differs from company-level source display value by 6.1209 percentage points
+PFC,Mar 2016,ROCE,3.8815,9.96,version difference,computed ROCE differs from company-level source display value by 6.0785 percentage points
+PFC,Mar 2017,ROCE,2.2119,9.96,version difference,computed ROCE differs from company-level source display value by 7.7481 percentage points
+PFC,Mar 2017,ROE,6.0687,19.49,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+PFC,Mar 2018,ROCE,2.4521,9.96,version difference,computed ROCE differs from company-level source display value by 7.5079 percentage points
+PFC,Mar 2019,ROCE,3.0475,9.96,version difference,computed ROCE differs from company-level source display value by 6.9125 percentage points
+PFC,Mar 2019,ROE,26.8246,19.49,version difference,computed ROE retained for analytics; source value retained only for display
+PFC,Mar 2020,ROCE,2.1854,9.96,version difference,computed ROCE differs from company-level source display value by 7.7746 percentage points
+PFC,Mar 2021,ROCE,2.7645,9.96,version difference,computed ROCE differs from company-level source display value by 7.1955 percentage points
+PFC,Mar 2021,ROE,25.8627,19.49,version difference,computed ROE retained for analytics; source value retained only for display
+PFC,Mar 2022,ROCE,3.1984,9.96,version difference,computed ROCE differs from company-level source display value by 6.7616 percentage points
+PFC,Mar 2022,ROE,26.1845,19.49,version difference,computed ROE retained for analytics; source value retained only for display
+PFC,Mar 2023,ROCE,3.1782,9.96,version difference,computed ROCE differs from company-level source display value by 6.7818 percentage points
+PFC,Mar 2023,ROE,25.1658,19.49,version difference,computed ROE retained for analytics; source value retained only for display
+PFC,Mar 2024,ROCE,3.4931,9.96,version difference,computed ROCE differs from company-level source display value by 6.4669 percentage points
+PFC,Mar 2024,ROE,26.1609,19.49,version difference,computed ROE retained for analytics; source value retained only for display
+PIDILITIND,Mar 2013,ROCE,37.7412,29.7,version difference,computed ROCE differs from company-level source display value by 8.0412 percentage points
+PIDILITIND,Mar 2014,ROCE,35.5355,29.7,version difference,computed ROCE differs from company-level source display value by 5.8355 percentage points
+PIDILITIND,Mar 2015,ROCE,34.8368,29.7,version difference,computed ROCE differs from company-level source display value by 5.1368 percentage points
+PIDILITIND,Mar 2016,ROCE,46.1369,29.7,formula discrepancy,computed ROCE differs from company-level source display value by 16.4369 percentage points
+PIDILITIND,Mar 2016,ROE,30.5914,22.8,version difference,computed ROE retained for analytics; source value retained only for display
+PIDILITIND,Mar 2017,ROCE,38.5822,29.7,version difference,computed ROCE differs from company-level source display value by 8.8822 percentage points
+PIDILITIND,Mar 2018,ROCE,40.3893,29.7,formula discrepancy,computed ROCE differs from company-level source display value by 10.6893 percentage points
+PIDILITIND,Mar 2019,ROCE,35.2265,29.7,version difference,computed ROCE differs from company-level source display value by 5.5265 percentage points
+PIDILITIND,Mar 2020,ROCE,35.2656,29.7,version difference,computed ROCE differs from company-level source display value by 5.5656 percentage points
+PNB,Mar 2013,ROE,812.2977,8.7,data source issue,computed ROE retained for analytics; source value retained only for display
+PNB,Mar 2014,ROE,393.3619,8.7,data source issue,computed ROE retained for analytics; source value retained only for display
+PNB,Mar 2015,ROE,223.2426,8.7,data source issue,computed ROE retained for analytics; source value retained only for display
+PNB,Mar 2016,ROE,-163.5601,8.7,data source issue,computed ROE retained for analytics; source value retained only for display
+PNB,Mar 2017,ROE,22.2123,8.7,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+PNB,Mar 2018,ROE,-184.3660,8.7,data source issue,computed ROE retained for analytics; source value retained only for display
+PNB,Mar 2019,ROE,-128.4465,8.7,data source issue,computed ROE retained for analytics; source value retained only for display
+PNB,Mar 2021,ROE,30.3936,8.7,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+PNB,Mar 2022,ROE,39.8735,8.7,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+PNB,Mar 2023,ROE,30.6674,8.7,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+PNB,Mar 2024,ROE,61.3206,8.7,data source issue,computed ROE retained for analytics; source value retained only for display
+POWERGRID,Mar 2014,ROE,13.1074,19.0,version difference,computed ROE retained for analytics; source value retained only for display
+POWERGRID,Mar 2015,ROE,13.1273,19.0,version difference,computed ROE retained for analytics; source value retained only for display
+POWERGRID,Mar 2016,ROE,13.5524,19.0,version difference,computed ROE retained for analytics; source value retained only for display
+POWERGRID,Mar 2022,ROCE,19.2080,13.2,version difference,computed ROCE differs from company-level source display value by 6.0080 percentage points
+POWERGRID,Mar 2023,ROCE,19.2188,13.2,version difference,computed ROCE differs from company-level source display value by 6.0188 percentage points
+POWERGRID,Mar 2024,ROCE,19.1691,13.2,version difference,computed ROCE differs from company-level source display value by 5.9691 percentage points
+RECLTD,Mar 2018,ROE,13.6584,22.2,version difference,computed ROE retained for analytics; source value retained only for display
+RECLTD,Mar 2019,ROE,16.6184,22.2,version difference,computed ROE retained for analytics; source value retained only for display
+RECLTD,Mar 2020,ROE,14.0464,22.2,version difference,computed ROE retained for analytics; source value retained only for display
+SBILIFE,Mar 2013,ROCE,26.2792,13.2,formula discrepancy,computed ROCE differs from company-level source display value by 13.0792 percentage points
+SBILIFE,Mar 2013,ROE,23.0263,12.0,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+SBILIFE,Mar 2014,ROCE,25.4768,13.2,formula discrepancy,computed ROCE differs from company-level source display value by 12.2768 percentage points
+SBILIFE,Mar 2014,ROE,21.6925,12.0,version difference,computed ROE retained for analytics; source value retained only for display
+SBILIFE,Mar 2015,ROCE,24.0878,13.2,formula discrepancy,computed ROCE differs from company-level source display value by 10.8878 percentage points
+SBILIFE,Mar 2015,ROE,20.0937,12.0,version difference,computed ROE retained for analytics; source value retained only for display
+SBILIFE,Mar 2016,ROCE,22.1635,13.2,version difference,computed ROCE differs from company-level source display value by 8.9635 percentage points
+SBILIFE,Mar 2016,ROE,17.8322,12.0,version difference,computed ROE retained for analytics; source value retained only for display
+SBILIFE,Mar 2017,ROCE,21.7399,13.2,version difference,computed ROCE differs from company-level source display value by 8.5399 percentage points
+SBILIFE,Mar 2017,ROE,17.2010,12.0,version difference,computed ROE retained for analytics; source value retained only for display
+SBILIFE,Mar 2018,ROCE,22.7941,13.2,version difference,computed ROCE differs from company-level source display value by 9.5941 percentage points
+SBILIFE,Mar 2018,ROE,17.6164,12.0,version difference,computed ROE retained for analytics; source value retained only for display
+SBILIFE,Mar 2019,ROCE,22.9673,13.2,version difference,computed ROCE differs from company-level source display value by 9.7673 percentage points
+SBILIFE,Mar 2019,ROE,17.5158,12.0,version difference,computed ROE retained for analytics; source value retained only for display
+SBILIFE,Mar 2020,ROCE,21.5029,13.2,version difference,computed ROCE differs from company-level source display value by 8.3029 percentage points
+SHREECEM,Jun 2013,ROCE,34.0608,14.8,formula discrepancy,computed ROCE differs from company-level source display value by 19.2608 percentage points
+SHREECEM,Jun 2013,ROE,26.1186,12.2,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+SHREECEM,Jun 2014,ROCE,25.2749,14.8,formula discrepancy,computed ROCE differs from company-level source display value by 10.4749 percentage points
+SHREECEM,Jun 2015,ROCE,23.3489,14.8,version difference,computed ROCE differs from company-level source display value by 8.5489 percentage points
+SHREECEM,Mar 2017,ROCE,31.9764,14.8,formula discrepancy,computed ROCE differs from company-level source display value by 17.1764 percentage points
+SHREECEM,Mar 2017,ROE,17.3941,12.2,version difference,computed ROE retained for analytics; source value retained only for display
+SHREECEM,Mar 2018,ROCE,23.2683,14.8,version difference,computed ROCE differs from company-level source display value by 8.4683 percentage points
+SHREECEM,Mar 2019,ROCE,22.9758,14.8,version difference,computed ROCE differs from company-level source display value by 8.1758 percentage points
+SHREECEM,Mar 2020,ROCE,24.7257,14.8,version difference,computed ROCE differs from company-level source display value by 9.9257 percentage points
+SHREECEM,Mar 2021,ROCE,25.6255,14.8,formula discrepancy,computed ROCE differs from company-level source display value by 10.8255 percentage points
+SHREECEM,Mar 2022,ROCE,21.7163,14.8,version difference,computed ROCE differs from company-level source display value by 6.9163 percentage points
+SHREECEM,Mar 2024,ROCE,22.8767,14.8,version difference,computed ROCE differs from company-level source display value by 8.0767 percentage points
+SHRIRAMFIN,Mar 2013,ROCE,5.3678,11.3,version difference,computed ROCE differs from company-level source display value by 5.9322 percentage points
+SHRIRAMFIN,Mar 2014,ROCE,4.2490,11.3,version difference,computed ROCE differs from company-level source display value by 7.0510 percentage points
+SHRIRAMFIN,Mar 2015,ROCE,3.0253,11.3,version difference,computed ROCE differs from company-level source display value by 8.2747 percentage points
+SHRIRAMFIN,Mar 2016,ROCE,3.0467,11.3,version difference,computed ROCE differs from company-level source display value by 8.2533 percentage points
+SHRIRAMFIN,Mar 2017,ROCE,3.0631,11.3,version difference,computed ROCE differs from company-level source display value by 8.2369 percentage points
+SHRIRAMFIN,Mar 2018,ROCE,4.1035,11.3,version difference,computed ROCE differs from company-level source display value by 7.1965 percentage points
+SHRIRAMFIN,Mar 2019,ROCE,3.6784,11.3,version difference,computed ROCE differs from company-level source display value by 7.6216 percentage points
+SHRIRAMFIN,Mar 2020,ROCE,3.1707,11.3,version difference,computed ROCE differs from company-level source display value by 8.1293 percentage points
+SHRIRAMFIN,Mar 2021,ROCE,2.6633,11.3,version difference,computed ROCE differs from company-level source display value by 8.6367 percentage points
+SHRIRAMFIN,Mar 2022,ROCE,2.6139,11.3,version difference,computed ROCE differs from company-level source display value by 8.6861 percentage points
+SHRIRAMFIN,Mar 2022,ROE,10.4273,15.9,version difference,computed ROE retained for analytics; source value retained only for display
+SHRIRAMFIN,Mar 2023,ROCE,4.2438,11.3,version difference,computed ROCE differs from company-level source display value by 7.0562 percentage points
+SHRIRAMFIN,Mar 2024,ROCE,4.3151,11.3,version difference,computed ROCE differs from company-level source display value by 6.9849 percentage points
+SIEMENS,Sep 2011,ROCE,38.5220,25.6,formula discrepancy,computed ROCE differs from company-level source display value by 12.9220 percentage points
+SIEMENS,Sep 2014,ROE,13.7829,19.1,version difference,computed ROE retained for analytics; source value retained only for display
+SIEMENS,Sep 2015,ROCE,37.7480,25.6,formula discrepancy,computed ROCE differs from company-level source display value by 12.1480 percentage points
+SIEMENS,Sep 2016,ROCE,61.1746,25.6,formula discrepancy,computed ROCE differs from company-level source display value by 35.5746 percentage points
+SIEMENS,Sep 2016,ROE,42.8340,19.1,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+SIEMENS,Sep 2018,ROCE,19.3638,25.6,version difference,computed ROCE differs from company-level source display value by 6.2362 percentage points
+SIEMENS,Sep 2018,ROE,10.8567,19.1,version difference,computed ROE retained for analytics; source value retained only for display
+SIEMENS,Sep 2019,ROE,12.1450,19.1,version difference,computed ROE retained for analytics; source value retained only for display
+SIEMENS,Sep 2020,ROCE,13.8854,25.6,formula discrepancy,computed ROCE differs from company-level source display value by 11.7146 percentage points
+SIEMENS,Sep 2020,ROE,8.1016,19.1,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+SIEMENS,Sep 2021,ROCE,17.1288,25.6,version difference,computed ROCE differs from company-level source display value by 8.4712 percentage points
+SIEMENS,Sep 2021,ROE,10.5248,19.1,version difference,computed ROE retained for analytics; source value retained only for display
+SIEMENS,Sep 2022,ROCE,19.9033,25.6,version difference,computed ROCE differs from company-level source display value by 5.6967 percentage points
+SIEMENS,Sep 2022,ROE,13.2903,19.1,version difference,computed ROE retained for analytics; source value retained only for display
+SUNPHARMA,Mar 2013,ROCE,30.7803,17.3,formula discrepancy,computed ROCE differs from company-level source display value by 13.4803 percentage points
+SUNPHARMA,Mar 2013,ROE,23.1421,16.7,version difference,computed ROE retained for analytics; source value retained only for display
+SUNPHARMA,Mar 2014,ROCE,23.8784,17.3,version difference,computed ROCE differs from company-level source display value by 6.5784 percentage points
+SUNPHARMA,Mar 2015,ROCE,23.6097,17.3,version difference,computed ROCE differs from company-level source display value by 6.3097 percentage points
+SUNPHARMA,Mar 2017,ROCE,23.0504,17.3,version difference,computed ROCE differs from company-level source display value by 5.7504 percentage points
+SUNPHARMA,Mar 2018,ROCE,11.2857,17.3,version difference,computed ROCE differs from company-level source display value by 6.0143 percentage points
+SUNPHARMA,Mar 2018,ROE,6.6347,16.7,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+SUNPHARMA,Mar 2019,ROCE,11.7848,17.3,version difference,computed ROCE differs from company-level source display value by 5.5152 percentage points
+SUNPHARMA,Mar 2019,ROE,7.7471,16.7,version difference,computed ROE retained for analytics; source value retained only for display
+SUNPHARMA,Mar 2020,ROE,9.2168,16.7,version difference,computed ROE retained for analytics; source value retained only for display
+SUNPHARMA,Mar 2021,ROCE,9.9758,17.3,version difference,computed ROCE differs from company-level source display value by 7.3242 percentage points
+SUNPHARMA,Mar 2021,ROE,4.8899,16.7,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+SUNPHARMA,Mar 2022,ROE,7.0588,16.7,version difference,computed ROE retained for analytics; source value retained only for display
+TATACONSUM,Mar 2016,ROCE,5.3151,10.6,version difference,computed ROCE differs from company-level source display value by 5.2849 percentage points
+TATACONSUM,Mar 2016,ROE,-0.5923,8.32,version difference,computed ROE retained for analytics; source value retained only for display
+TATAMOTORS,Mar 2013,ROCE,27.1573,20.1,version difference,computed ROCE differs from company-level source display value by 7.0573 percentage points
+TATAMOTORS,Mar 2013,ROE,26.5058,49.4,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+TATAMOTORS,Mar 2014,ROCE,27.4829,20.1,version difference,computed ROCE differs from company-level source display value by 7.3829 percentage points
+TATAMOTORS,Mar 2014,ROE,21.4164,49.4,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+TATAMOTORS,Mar 2015,ROCE,30.7634,20.1,formula discrepancy,computed ROCE differs from company-level source display value by 10.6634 percentage points
+TATAMOTORS,Mar 2015,ROE,25.0133,49.4,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+TATAMOTORS,Mar 2016,ROE,14.7913,49.4,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+TATAMOTORS,Mar 2017,ROE,13.0154,49.4,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+TATAMOTORS,Mar 2018,ROE,9.5266,49.4,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+TATAMOTORS,Mar 2019,ROCE,-1.2155,20.1,formula discrepancy,computed ROCE differs from company-level source display value by 21.3155 percentage points
+TATAMOTORS,Mar 2019,ROE,-47.7309,49.4,data source issue,computed ROE retained for analytics; source value retained only for display
+TATAMOTORS,Mar 2020,ROCE,9.6286,20.1,formula discrepancy,computed ROCE differs from company-level source display value by 10.4714 percentage points
+TATAMOTORS,Mar 2020,ROE,-18.9841,49.4,data source issue,computed ROE retained for analytics; source value retained only for display
+TATAMOTORS,Mar 2021,ROCE,10.7251,20.1,version difference,computed ROCE differs from company-level source display value by 9.3749 percentage points
+TATAMOTORS,Mar 2021,ROE,-24.2457,49.4,data source issue,computed ROE retained for analytics; source value retained only for display
+TATAMOTORS,Mar 2022,ROCE,14.2108,20.1,version difference,computed ROCE differs from company-level source display value by 5.8892 percentage points
+TATAMOTORS,Mar 2022,ROE,-25.3787,49.4,data source issue,computed ROE retained for analytics; source value retained only for display
+TATAMOTORS,Mar 2023,ROE,5.9353,49.4,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+TATAMOTORS,Mar 2024,ROCE,33.9323,20.1,formula discrepancy,computed ROCE differs from company-level source display value by 13.8323 percentage points
+TATAMOTORS,Mar 2024,ROE,37.4561,49.4,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+TATAPOWER,Mar 2013,ROE,0.9972,11.3,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+TATAPOWER,Mar 2014,ROE,0.0968,11.3,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+TATAPOWER,Mar 2015,ROE,3.1918,11.3,version difference,computed ROE retained for analytics; source value retained only for display
+TATAPOWER,Mar 2023,ROCE,16.2377,11.1,version difference,computed ROCE differs from company-level source display value by 5.1377 percentage points
+TATAPOWER,Mar 2024,ROCE,16.4460,11.1,version difference,computed ROCE differs from company-level source display value by 5.3460 percentage points
+TATASTEEL,Mar 2013,ROE,-21.2806,6.55,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+TATASTEEL,Mar 2014,ROCE,13.8342,7.02,version difference,computed ROCE differs from company-level source display value by 6.8142 percentage points
+TATASTEEL,Mar 2015,ROE,-12.5650,6.55,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+TATASTEEL,Mar 2016,ROE,-1.1365,6.55,version difference,computed ROE retained for analytics; source value retained only for display
+TATASTEEL,Mar 2017,ROE,-11.0236,6.55,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+TATASTEEL,Mar 2018,ROCE,21.1289,7.02,formula discrepancy,computed ROCE differs from company-level source display value by 14.1089 percentage points
+TATASTEEL,Mar 2018,ROE,29.1485,6.55,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+TATASTEEL,Mar 2019,ROCE,18.1700,7.02,formula discrepancy,computed ROCE differs from company-level source display value by 11.1500 percentage points
+TATASTEEL,Mar 2019,ROE,13.2347,6.55,version difference,computed ROE retained for analytics; source value retained only for display
+TATASTEEL,Mar 2021,ROCE,18.8546,7.02,formula discrepancy,computed ROCE differs from company-level source display value by 11.8346 percentage points
+TATASTEEL,Mar 2022,ROCE,34.0993,7.02,formula discrepancy,computed ROCE differs from company-level source display value by 27.0793 percentage points
+TATASTEEL,Mar 2022,ROE,36.4802,6.55,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+TATASTEEL,Mar 2023,ROCE,18.0178,7.02,formula discrepancy,computed ROCE differs from company-level source display value by 10.9978 percentage points
+TATASTEEL,Mar 2024,ROE,-5.3349,6.55,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+TCS,Mar 2013,ROCE,49.4316,64.3,formula discrepancy,computed ROCE differs from company-level source display value by 14.8684 percentage points
+TCS,Mar 2013,ROE,36.5174,0.52,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+TCS,Mar 2014,ROCE,54.1300,64.3,formula discrepancy,computed ROCE differs from company-level source display value by 10.1700 percentage points
+TCS,Mar 2014,ROE,39.2967,0.52,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+TCS,Mar 2015,ROCE,55.3056,64.3,version difference,computed ROCE differs from company-level source display value by 8.9944 percentage points
+TCS,Mar 2015,ROE,39.6169,0.52,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+TCS,Mar 2016,ROCE,47.3393,64.3,formula discrepancy,computed ROCE differs from company-level source display value by 16.9607 percentage points
+TCS,Mar 2016,ROE,34.2441,0.52,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+TCS,Mar 2017,ROCE,42.2321,64.3,formula discrepancy,computed ROCE differs from company-level source display value by 22.0679 percentage points
+TCS,Mar 2017,ROE,30.5716,0.52,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+TCS,Mar 2018,ROCE,42.3520,64.3,formula discrepancy,computed ROCE differs from company-level source display value by 21.9480 percentage points
+TCS,Mar 2018,ROE,30.4013,0.52,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+TCS,Mar 2019,ROCE,48.9532,64.3,formula discrepancy,computed ROCE differs from company-level source display value by 15.3468 percentage points
+TCS,Mar 2019,ROE,35.2861,0.52,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+TCS,Mar 2020,ROCE,50.5970,64.3,formula discrepancy,computed ROCE differs from company-level source display value by 13.7030 percentage points
+TCS,Mar 2020,ROE,38.5695,0.52,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+TCS,Mar 2021,ROCE,51.4306,64.3,formula discrepancy,computed ROCE differs from company-level source display value by 12.8694 percentage points
+TCS,Mar 2021,ROE,37.6731,0.52,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+TCS,Mar 2022,ROCE,58.8663,64.3,version difference,computed ROCE differs from company-level source display value by 5.4337 percentage points
+TCS,Mar 2022,ROE,43.1338,0.52,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+TCS,Mar 2023,ROE,46.7829,0.52,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+TCS,Mar 2024,ROE,50.9443,0.52,data source issue,computed ROE retained for analytics; source value retained only for display
+TECHM,Mar 2013,ROCE,18.8216,11.9,version difference,computed ROCE differs from company-level source display value by 6.9216 percentage points
+TECHM,Mar 2013,ROE,24.0877,8.63,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+TECHM,Mar 2014,ROCE,46.2651,11.9,formula discrepancy,computed ROCE differs from company-level source display value by 34.3651 percentage points
+TECHM,Mar 2014,ROE,33.3479,8.63,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+TECHM,Mar 2015,ROCE,33.2020,11.9,formula discrepancy,computed ROCE differs from company-level source display value by 21.3020 percentage points
+TECHM,Mar 2015,ROE,21.7097,8.63,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+TECHM,Mar 2016,ROCE,30.0536,11.9,formula discrepancy,computed ROCE differs from company-level source display value by 18.1536 percentage points
+TECHM,Mar 2016,ROE,20.7457,8.63,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+TECHM,Mar 2017,ROCE,27.8549,11.9,formula discrepancy,computed ROCE differs from company-level source display value by 15.9549 percentage points
+TECHM,Mar 2017,ROE,17.3450,8.63,version difference,computed ROE retained for analytics; source value retained only for display
+TECHM,Mar 2018,ROCE,28.8465,11.9,formula discrepancy,computed ROCE differs from company-level source display value by 16.9465 percentage points
+TECHM,Mar 2018,ROE,20.0923,8.63,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+TECHM,Mar 2019,ROCE,30.5417,11.9,formula discrepancy,computed ROCE differs from company-level source display value by 18.6417 percentage points
+TECHM,Mar 2019,ROE,21.1437,8.63,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+TECHM,Mar 2020,ROCE,26.2724,11.9,formula discrepancy,computed ROCE differs from company-level source display value by 14.3724 percentage points
+TECHM,Mar 2020,ROE,17.8655,8.63,version difference,computed ROE retained for analytics; source value retained only for display
+TECHM,Mar 2021,ROCE,27.3140,11.9,formula discrepancy,computed ROCE differs from company-level source display value by 15.4140 percentage points
+TECHM,Mar 2021,ROE,17.5065,8.63,version difference,computed ROE retained for analytics; source value retained only for display
+TECHM,Mar 2022,ROCE,30.9619,11.9,formula discrepancy,computed ROCE differs from company-level source display value by 19.0619 percentage points
+TECHM,Mar 2022,ROE,20.9403,8.63,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+TECHM,Mar 2023,ROCE,28.4633,11.9,formula discrepancy,computed ROCE differs from company-level source display value by 16.5633 percentage points
+TECHM,Mar 2023,ROE,17.3936,8.63,version difference,computed ROE retained for analytics; source value retained only for display
+TECHM,Mar 2024,ROCE,18.6023,11.9,version difference,computed ROCE differs from company-level source display value by 6.7023 percentage points
+TITAN,Mar 2013,ROCE,56.4975,22.7,formula discrepancy,computed ROCE differs from company-level source display value by 33.7975 percentage points
+TITAN,Mar 2014,ROCE,34.9550,22.7,formula discrepancy,computed ROCE differs from company-level source display value by 12.2550 percentage points
+TITAN,Mar 2015,ROCE,38.3166,22.7,formula discrepancy,computed ROCE differs from company-level source display value by 15.6166 percentage points
+TITAN,Mar 2015,ROE,26.4591,32.9,version difference,computed ROE retained for analytics; source value retained only for display
+TITAN,Mar 2016,ROCE,27.8453,22.7,version difference,computed ROCE differs from company-level source display value by 5.1453 percentage points
+TITAN,Mar 2016,ROE,19.2472,32.9,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+TITAN,Mar 2017,ROE,16.4659,32.9,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+TITAN,Mar 2018,ROE,21.6503,32.9,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+TITAN,Mar 2019,ROE,22.8830,32.9,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+TITAN,Mar 2020,ROE,22.3872,32.9,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+TITAN,Mar 2021,ROCE,14.5032,22.7,version difference,computed ROCE differs from company-level source display value by 8.1968 percentage points
+TITAN,Mar 2021,ROE,12.9919,32.9,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+TITAN,Mar 2022,ROE,23.6268,32.9,version difference,computed ROE retained for analytics; source value retained only for display
+TITAN,Mar 2023,ROE,27.6264,32.9,version difference,computed ROE retained for analytics; source value retained only for display
+TORNTPHARM,Mar 2013,ROCE,33.0024,23.2,version difference,computed ROCE differs from company-level source display value by 9.8024 percentage points
+TORNTPHARM,Mar 2013,ROE,30.5907,24.2,version difference,computed ROE retained for analytics; source value retained only for display
+TORNTPHARM,Mar 2014,ROCE,32.5865,23.2,version difference,computed ROCE differs from company-level source display value by 9.3865 percentage points
+TORNTPHARM,Mar 2014,ROE,34.8923,24.2,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+TORNTPHARM,Mar 2015,ROE,30.1485,24.2,version difference,computed ROE retained for analytics; source value retained only for display
+TORNTPHARM,Mar 2016,ROCE,47.2973,23.2,formula discrepancy,computed ROCE differs from company-level source display value by 24.0973 percentage points
+TORNTPHARM,Mar 2016,ROE,49.5993,24.2,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+TORNTPHARM,Mar 2018,ROCE,14.8669,23.2,version difference,computed ROCE differs from company-level source display value by 8.3331 percentage points
+TORNTPHARM,Mar 2018,ROE,14.6658,24.2,version difference,computed ROE retained for analytics; source value retained only for display
+TORNTPHARM,Mar 2019,ROCE,15.6369,23.2,version difference,computed ROCE differs from company-level source display value by 7.5631 percentage points
+TORNTPHARM,Mar 2019,ROE,9.2275,24.2,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+TORNTPHARM,Mar 2022,ROE,13.0522,24.2,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+TORNTPHARM,Mar 2024,ROCE,32.3037,23.2,version difference,computed ROCE differs from company-level source display value by 9.1037 percentage points
+TRENT,Mar 2013,ROCE,4.0025,23.8,formula discrepancy,computed ROCE differs from company-level source display value by 19.7975 percentage points
+TRENT,Mar 2013,ROE,-2.1933,27.2,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+TRENT,Mar 2014,ROCE,6.1224,23.8,formula discrepancy,computed ROCE differs from company-level source display value by 17.6776 percentage points
+TRENT,Mar 2014,ROE,-1.9173,27.2,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+TRENT,Mar 2015,ROCE,17.5252,23.8,version difference,computed ROCE differs from company-level source display value by 6.2748 percentage points
+TRENT,Mar 2015,ROE,9.0717,27.2,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+TRENT,Mar 2016,ROCE,9.4421,23.8,formula discrepancy,computed ROCE differs from company-level source display value by 14.3579 percentage points
+TRENT,Mar 2016,ROE,3.7568,27.2,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+TRENT,Mar 2017,ROCE,11.0882,23.8,formula discrepancy,computed ROCE differs from company-level source display value by 12.7118 percentage points
+TRENT,Mar 2017,ROE,5.4945,27.2,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+TRENT,Mar 2018,ROCE,11.8328,23.8,formula discrepancy,computed ROCE differs from company-level source display value by 11.9672 percentage points
+TRENT,Mar 2018,ROE,5.4545,27.2,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+TRENT,Mar 2019,ROCE,12.6636,23.8,formula discrepancy,computed ROCE differs from company-level source display value by 11.1364 percentage points
+TRENT,Mar 2019,ROE,5.7716,27.2,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+TRENT,Mar 2020,ROE,4.4389,27.2,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+TRENT,Mar 2021,ROCE,11.9786,23.8,formula discrepancy,computed ROCE differs from company-level source display value by 11.8214 percentage points
+TRENT,Mar 2021,ROE,-7.8253,27.2,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+TRENT,Mar 2022,ROCE,10.5375,23.8,formula discrepancy,computed ROCE differs from company-level source display value by 13.2625 percentage points
+TRENT,Mar 2022,ROE,1.4805,27.2,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+TRENT,Mar 2023,ROE,15.1772,27.2,formula discrepancy,computed ROE retained for analytics; source value retained only for display
+TRENT,Mar 2024,ROCE,50.8504,23.8,formula discrepancy,computed ROCE differs from company-level source display value by 27.0504 percentage points
+TRENT,Mar 2024,ROE,36.3078,27.2,version difference,computed ROE retained for analytics; source value retained only for display
