@@ -229,6 +229,23 @@ CREATE TABLE IF NOT EXISTS peer_groups (
 
 
 -- ==========================
+-- Peer Percentiles
+-- ==========================
+
+CREATE TABLE IF NOT EXISTS peer_percentiles (
+    company_id TEXT,
+    peer_group_name TEXT,
+    metric TEXT,
+    value REAL,
+    percentile_rank REAL,
+    year TEXT,
+
+    FOREIGN KEY(company_id)
+        REFERENCES companies(id)
+);
+
+
+-- ==========================
 -- Sectors
 -- ==========================
 
