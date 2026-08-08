@@ -6,3 +6,12 @@ __pycache__/
 .ipynb_checkpoints/
 .vscode/
 logs/
+.pytest_tmp/
+.pytest_tmp_local/
+pytest_tmp_auto/
+pytest_tmp_run/
+pytest_tmp_run2/
+
+__pycache__/
+*.pyc
+.pytest_cache/
