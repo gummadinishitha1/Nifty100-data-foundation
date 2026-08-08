@@ -1,5 +1,4 @@
 import sqlite3
-from pathlib import Path
 from uuid import uuid4
 
 import pandas as pd
@@ -7,10 +6,8 @@ import pandas as pd
 from src.database import create_database
 
 
-def test_create_database_creates_expected_tables():
-    tmp_dir = Path(".pytest_tmp_local")
-    tmp_dir.mkdir(exist_ok=True)
-    db_path = tmp_dir / f"test_nifty100_{uuid4().hex}.db"
+def test_create_database_creates_expected_tables(tmp_path):
+    db_path = tmp_path / f"test_nifty100_{uuid4().hex}.db"
 
     try:
         create_database(db_path)

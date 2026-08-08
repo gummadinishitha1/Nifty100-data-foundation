@@ -1,0 +1,57 @@
+company_id,sector,previous_year,latest_year,previous_pattern,latest_pattern,change_text
+ABB,Industrials,Mar 2023,Mar 2024,Reinvestor,Shareholder Returns,ABB moved from Reinvestor to Shareholder Returns
+ADANIENSOL,Energy,Mar 2023,Mar 2024,Mixed,Shareholder Returns,ADANIENSOL moved from Mixed to Shareholder Returns
+ADANIENT,Industrials,Mar 2023,Mar 2024,Shareholder Returns,Mixed,ADANIENT moved from Shareholder Returns to Mixed
+ADANIGREEN,Energy,Mar 2023,Mar 2024,Shareholder Returns,Mixed,ADANIGREEN moved from Shareholder Returns to Mixed
+AMBUJACEM,Materials,Mar 2023 15,Mar 2024,Cash Accumulator,Mixed,AMBUJACEM moved from Cash Accumulator to Mixed
+ASIANPAINT,Materials,Mar 2023,Mar 2024,Reinvestor,Shareholder Returns,ASIANPAINT moved from Reinvestor to Shareholder Returns
+AXISBANK,Financials,Mar 2023,Mar 2024,Mixed,Growth Funded by Debt,AXISBANK moved from Mixed to Growth Funded by Debt
+BAJAJ-AUTO,Consumer Discretionary,Mar 2023,Mar 2024,Liquidating Assets,Reinvestor,BAJAJ-AUTO moved from Liquidating Assets to Reinvestor
+BANKBARODA,Financials,Mar 2023,Mar 2024,Pre-Revenue,Growth Funded by Debt,BANKBARODA moved from Pre-Revenue to Growth Funded by Debt
+BEL,Industrials,Mar 2023,Mar 2024,Liquidating Assets,Shareholder Returns,BEL moved from Liquidating Assets to Shareholder Returns
+BRITANNIA,Consumer Staples,Mar 2023,Mar 2024,Shareholder Returns,Liquidating Assets,BRITANNIA moved from Shareholder Returns to Liquidating Assets
+CANBK,Financials,Mar 2023,Mar 2024,Growth Funded by Debt,Reinvestor,CANBK moved from Growth Funded by Debt to Reinvestor
+CIPLA,Healthcare,Mar 2023,Mar 2024,Shareholder Returns,Reinvestor,CIPLA moved from Shareholder Returns to Reinvestor
+COALINDIA,Materials,Mar 2023,Mar 2024,Shareholder Returns,Reinvestor,COALINDIA moved from Shareholder Returns to Reinvestor
+DABUR,Consumer Staples,Mar 2023,Mar 2024,Reinvestor,Shareholder Returns,DABUR moved from Reinvestor to Shareholder Returns
+DIVISLAB,Healthcare,Mar 2023,Mar 2024,Shareholder Returns,Reinvestor,DIVISLAB moved from Shareholder Returns to Reinvestor
+DLF,Real Estate,Mar 2023,Mar 2024,Shareholder Returns,Mixed,DLF moved from Shareholder Returns to Mixed
+DRREDDY,Healthcare,Mar 2023,Mar 2024,Shareholder Returns,Reinvestor,DRREDDY moved from Shareholder Returns to Reinvestor
+GAIL,Energy,Mar 2023,Mar 2024,Mixed,Shareholder Returns,GAIL moved from Mixed to Shareholder Returns
+GODREJCP,Consumer Staples,Mar 2023,Mar 2024,Shareholder Returns,Mixed,GODREJCP moved from Shareholder Returns to Mixed
+HAVELLS,Industrials,Mar 2023,Mar 2024,Liquidating Assets,Shareholder Returns,HAVELLS moved from Liquidating Assets to Shareholder Returns
+HDFCBANK,Financials,Mar 2023,Mar 2024,Mixed,Liquidating Assets,HDFCBANK moved from Mixed to Liquidating Assets
+HDFCLIFE,Financials,Mar 2023,Mar 2024,Mixed,Shareholder Returns,HDFCLIFE moved from Mixed to Shareholder Returns
+HEROMOTOCO,Consumer Discretionary,Mar 2023,Mar 2024,Reinvestor,Shareholder Returns,HEROMOTOCO moved from Reinvestor to Shareholder Returns
+HINDUNILVR,Consumer Staples,Mar 2023,Mar 2024,Reinvestor,Shareholder Returns,HINDUNILVR moved from Reinvestor to Shareholder Returns
+ICICIBANK,Financials,Mar 2023,Mar 2024,Growth Funded by Debt,Mixed,ICICIBANK moved from Growth Funded by Debt to Mixed
+ICICIPRULI,Financials,Mar 2023,Mar 2024,Reinvestor,Mixed,ICICIPRULI moved from Reinvestor to Mixed
+INDIGO,Consumer Discretionary,Mar 2023,Mar 2024,Reinvestor,Shareholder Returns,INDIGO moved from Reinvestor to Shareholder Returns
+INDUSINDBK,Financials,Mar 2023,Mar 2024,Growth Funded by Debt,Pre-Revenue,INDUSINDBK moved from Growth Funded by Debt to Pre-Revenue
+IRFC,Financials,Mar 2023,Mar 2024,Distress Signal,Shareholder Returns,IRFC moved from Distress Signal to Shareholder Returns
+ITC,Consumer Staples,Mar 2023,Mar 2024,Reinvestor,Liquidating Assets,ITC moved from Reinvestor to Liquidating Assets
+JINDALSTEL,Materials,Mar 2023,Mar 2024,Shareholder Returns,Mixed,JINDALSTEL moved from Shareholder Returns to Mixed
+JIOFIN,Financials,Mar 2023,Mar 2024,Shareholder Returns,Mixed,JIOFIN moved from Shareholder Returns to Mixed
+KOTAKBANK,Financials,Mar 2023,Mar 2024,Growth Funded by Debt,Mixed,KOTAKBANK moved from Growth Funded by Debt to Mixed
+LICI,Financials,Mar 2023,Mar 2024,Shareholder Returns,Reinvestor,LICI moved from Shareholder Returns to Reinvestor
+LODHA,Real Estate,Mar 2023,Mar 2024,Liquidating Assets,Mixed,LODHA moved from Liquidating Assets to Mixed
+LT,Industrials,Mar 2023,Mar 2024,Shareholder Returns,Liquidating Assets,LT moved from Shareholder Returns to Liquidating Assets
+LTIM,Information Technology,Mar 2023,Mar 2024,Reinvestor,Shareholder Returns,LTIM moved from Reinvestor to Shareholder Returns
+MOTHERSON,Consumer Discretionary,Mar 2023,Mar 2024,Shareholder Returns,Mixed,MOTHERSON moved from Shareholder Returns to Mixed
+PNB,Financials,Mar 2023,Mar 2024,Mixed,Growth Funded by Debt,PNB moved from Mixed to Growth Funded by Debt
+RELIANCE,Energy,Mar 2023,Mar 2024,Mixed,Shareholder Returns,RELIANCE moved from Mixed to Shareholder Returns
+SBIN,Financials,Mar 2023,Mar 2024,Growth Funded by Debt,Reinvestor,SBIN moved from Growth Funded by Debt to Reinvestor
+SHRIRAMFIN,Financials,Mar 2023,Mar 2024,Distress Signal,Growth Funded by Debt,SHRIRAMFIN moved from Distress Signal to Growth Funded by Debt
+SUNPHARMA,Healthcare,Mar 2023,Mar 2024,Mixed,Shareholder Returns,SUNPHARMA moved from Mixed to Shareholder Returns
+TATACONSUM,Consumer Staples,Mar 2023,Mar 2024,Shareholder Returns,Mixed,TATACONSUM moved from Shareholder Returns to Mixed
+TATAPOWER,Energy,Mar 2023,Mar 2024,Mixed,Shareholder Returns,TATAPOWER moved from Mixed to Shareholder Returns
+TATASTEEL,Materials,Mar 2023,Mar 2024,Shareholder Returns,Reinvestor,TATASTEEL moved from Shareholder Returns to Reinvestor
+TITAN,Consumer Discretionary,Mar 2023,Mar 2024,Mixed,Reinvestor,TITAN moved from Mixed to Reinvestor
+TORNTPHARM,Healthcare,Mar 2023,Mar 2024,Mixed,Shareholder Returns,TORNTPHARM moved from Mixed to Shareholder Returns
+TRENT,Consumer Discretionary,Mar 2023,Mar 2024,Shareholder Returns,Reinvestor,TRENT moved from Shareholder Returns to Reinvestor
+UNIONBANK,,Mar 2023,Mar 2024,Reinvestor,Shareholder Returns,UNIONBANK moved from Reinvestor to Shareholder Returns
+UNITDSPR,,Mar 2023,Mar 2024,Reinvestor,Liquidating Assets,UNITDSPR moved from Reinvestor to Liquidating Assets
+VBL,,Dec 2022,Dec 2023,Shareholder Returns,Mixed,VBL moved from Shareholder Returns to Mixed
+WIPRO,,Mar 2023,Mar 2024,Shareholder Returns,Liquidating Assets,WIPRO moved from Shareholder Returns to Liquidating Assets
+ZOMATO,,Mar 2023,Mar 2024,Mixed,Shareholder Returns,ZOMATO moved from Mixed to Shareholder Returns
+ZYDUSLIFE,,Mar 2023,Mar 2024,Liquidating Assets,Reinvestor,ZYDUSLIFE moved from Liquidating Assets to Reinvestor

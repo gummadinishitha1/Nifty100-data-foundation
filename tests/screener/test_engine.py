@@ -1,6 +1,4 @@
 import pandas as pd
-from pathlib import Path
-
 from src.screener.engine import add_composite_quality_score, apply_filters, run_screener
 
 
@@ -50,10 +48,8 @@ def test_add_composite_quality_score_when_missing():
     assert result.loc[0, "composite_quality_score"] == 100
 
 
-def test_run_screener_applies_custom_threshold_overrides():
-    config_dir = Path(".pytest_tmp_local")
-    config_dir.mkdir(exist_ok=True)
-    config_path = config_dir / "screener_config.yaml"
+def test_run_screener_applies_custom_threshold_overrides(tmp_path):
+    config_path = tmp_path / "screener_config.yaml"
     config_path.write_text(
         """
 default_preset: test

@@ -1,0 +1,4 @@
+company_id,metric_type,period_years,parsed_value_pct,computed_value_pct,divergence_pct,ratio_year,ratio_column
+SBILIFE,compounded_profit_growth,5,6.0,11.1372,5.1372,TTM,pat_cagr_5yr
+SBILIFE,compounded_profit_growth,3,9.0,16.9834,7.9834,TTM,pat_cagr_3yr
+WIPRO,compounded_sales_growth,3,13.0,3.8353,9.1647,TTM,revenue_cagr_3yr

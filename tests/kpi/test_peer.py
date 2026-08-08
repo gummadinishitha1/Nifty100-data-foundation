@@ -1,5 +1,3 @@
-from pathlib import Path
-
 import pandas as pd
 
 from src.analytics.peer import compute_peer_percentiles, peer_group_message
@@ -39,10 +37,8 @@ def test_highest_roe_gets_highest_percentile():
     assert roe["A"] == 0.0
 
 
-def test_company_without_peer_group_returns_message():
-    config_dir = Path(".pytest_tmp_local")
-    config_dir.mkdir(exist_ok=True)
-    path = config_dir / "peer_groups_message.xlsx"
+def test_company_without_peer_group_returns_message(tmp_path):
+    path = tmp_path / "peer_groups_message.xlsx"
     pd.DataFrame(
         [{"peer_group_name": "Test", "company_id": "ABC", "is_benchmark": True}]
     ).to_excel(path, index=False)

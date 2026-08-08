@@ -1,0 +1,14 @@
+company_id,type,rule_id,text,confidence_pct
+ABC,con,CON_COVERAGE,"No high-confidence con rule triggered, but periodic monitoring remains warranted as financial conditions can change",61
+ABC,pro,PRO_01,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,80
+ABC,pro,PRO_02,Strong free cash flow generation over 5 years signals healthy business fundamentals,90
+ABC,pro,PRO_03,Debt-free balance sheet provides financial flexibility and eliminates interest burden,95
+ABC,pro,PRO_04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,73
+ABC,pro,PRO_05,Operating profit margin above 25% indicates strong pricing power and cost discipline,72
+ABC,pro,PRO_06,Net profit compounding at above 20% over 5 years creates significant shareholder value,72
+ABC,pro,PRO_07,Very high interest coverage ratio reflects negligible financial stress from debt servicing,94
+ABC,pro,PRO_08,Consistent dividend yield above 2% backed by positive free cash flow,80
+ABC,pro,PRO_09,Earnings per share growing above 15% CAGR indicates strong earnings quality and compounding,73
+ABC,pro,PRO_10,Return on equity improving for 3 consecutive years shows strengthening business quality,80
+ABC,pro,PRO_11,Revenue growing slower than profits shows improving operating leverage and scale benefits,80
+ABC,pro,PRO_12,Growing asset base funded by internal accruals reflects self-sustaining growth,98
